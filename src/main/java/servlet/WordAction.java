@@ -28,6 +28,18 @@ public class WordAction extends HttpServlet {
         if (action.equals("add")) {
             add(req, resp);
         }
+        if (action.equals("queryAll")) {
+            queryAll(req, resp);
+        }
+        if (action.equals("search")) {
+            search(req, resp);
+        }
+        if (action.equals("update")) {
+            update(req, resp);
+        }
+        if (action.equals("remove")) {
+            remove(req, resp);
+        }
     }
 
     private void add(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -47,7 +59,7 @@ public class WordAction extends HttpServlet {
 
             preparedStatement.executeUpdate();
 
-            resp.sendRedirect("word.jsp");
+            resp.sendRedirect("/word?action=queryAll");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
@@ -55,25 +67,85 @@ public class WordAction extends HttpServlet {
         }
     }
 
-    protected void queryAll(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    private void update(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String english = req.getParameter("english");
+        String phoneticUk = req.getParameter("phoneticUk");
+        String phoneticUs = req.getParameter("phoneticUs");
+        int id = Integer.parseInt(req.getParameter("id"));
+
+        Connection connection = DB.getConnection();
+        PreparedStatement preparedStatement = null;
+        String sql = "UPDATE dictionary.word SET english = ?, phoneticUk = ?, phoneticUs = ? WHERE id = ?";
+
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setString(1, english);
+            preparedStatement.setString(2, phoneticUk);
+            preparedStatement.setString(3, phoneticUs);
+            preparedStatement.setInt(4, id);
+            preparedStatement.executeUpdate();
+            resp.sendRedirect("/word?action=queryAll");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            DB.close(null, preparedStatement, connection);
+        }
+    }
+
+    private void queryAll(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         Connection connection = DB.getConnection();
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
         String sql = "SELECT * FROM dictionary.word";
-
         try {
             preparedStatement = connection.prepareStatement(sql);
-
             resultSet = preparedStatement.executeQuery();
-
             List<Word> words = new ArrayList<>();
             while (resultSet.next()) {
-                Word word = new Word();
+                Word word = new Word(resultSet.getInt("id"), resultSet.getString("english"), resultSet.getString("phoneticUk"), resultSet.getString("phoneticUs"));
                 words.add(word);
             }
-
             req.getSession().setAttribute("words", words);
-            resp.sendRedirect("word.jsp");
+            resp.sendRedirect("admin.jsp");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            DB.close(resultSet, preparedStatement, connection);
+        }
+    }
+
+    private void search(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        int id = Integer.parseInt(req.getParameter("id"));
+        Connection connection = DB.getConnection();
+        PreparedStatement preparedStatement = null;
+        ResultSet resultSet = null;
+        String sql = "SELECT * FROM dictionary.word WHERE id = ?";
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setInt(1, id);
+            resultSet = preparedStatement.executeQuery();
+            resultSet.next();
+            Word word = new Word(resultSet.getInt("id"), resultSet.getString("english"), resultSet.getString("phoneticUk"), resultSet.getString("phoneticUs"));
+            req.setAttribute("word", word);
+            req.getRequestDispatcher("admin.jsp").forward(req, resp);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            DB.close(resultSet, preparedStatement, connection);
+        }
+    }
+
+    private void remove(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        int id = Integer.parseInt(req.getParameter("id"));
+        Connection connection = DB.getConnection();
+        PreparedStatement preparedStatement = null;
+        String sql = "DELETE FROM dictionary.word WHERE id = ?";
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setInt(1, id);
+            preparedStatement.executeUpdate();
+
+            resp.sendRedirect("/word?action=queryAll");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

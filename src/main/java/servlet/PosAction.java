@@ -17,25 +17,17 @@ import java.sql.SQLException;
  * Created by mingfei.net@gmail.com
  * 2/24/17 14:05
  */
-@WebServlet(urlPatterns = "/admin")
-public class AdminAction extends HttpServlet {
+@WebServlet(urlPatterns = "/pos")
+public class PosAction extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String action = req.getParameter("action");
-        if (action.equals("login")) {
-            login(req, resp);
-        }
-        if (action.equals("logout")) {
-            logout(req, resp);
+        if (action.equals("add")) {
+            add(req, resp);
         }
     }
 
-    private void logout(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        req.getSession().invalidate();
-        resp.sendRedirect("admin.jsp");
-    }
-
-    private void login(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    private void add(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String username = req.getParameter("username").trim();
         String password = req.getParameter("password");
 

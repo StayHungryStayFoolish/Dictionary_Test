@@ -1,0 +1,19 @@
+group 'Dictionary_Test'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'war'
+
+sourceCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile 'javax:javaee-api:7.0'
+    compile 'mysql:mysql-connector-java:5.1.40'
+    compile 'jstl:jstl:1.2'
+    compile 'org.jasypt:jasypt:1.9.2'
+}

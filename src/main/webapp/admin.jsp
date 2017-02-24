@@ -59,7 +59,7 @@
                 <td>${word.phoneticUs}</td>
                 <td><a href="word?action=search&id=${word.id}">编辑</a></td>
                 <td><a href="word?action=remove&id=${word.id}" onclick="return del()">删除</a></td>
-                <td><a href="pos.jsp?wordId=${word.id}">添加词性</a></td>
+                <td><a href="pos?action=queryByWordId&wordId=${word.id}">添加词性</a></td>
             </tr>
         </c:forEach>
     </table>

@@ -1,5 +1,6 @@
 package servlet;
 
+import model.Pos;
 import util.DB;
 
 import javax.servlet.ServletException;
@@ -12,6 +13,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by mingfei.net@gmail.com
@@ -25,31 +28,52 @@ public class PosAction extends HttpServlet {
         if (action.equals("add")) {
             add(req, resp);
         }
+        if (action.equals("queryByWordId")) {
+            queryByWordId(req, resp);
+        }
     }
 
     private void add(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String username = req.getParameter("username").trim();
-        String password = req.getParameter("password");
+        String pos = req.getParameter("pos").trim();
+        int wordId = Integer.parseInt(req.getParameter("wordId"));
+
+        Connection connection = DB.getConnection();
+        PreparedStatement preparedStatement = null;
+        String sql = "INSERT INTO dictionary.pos VALUES (NULL, ?, ?)";
+
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setString(1, pos);
+            preparedStatement.setInt(2, wordId);
+            preparedStatement.executeUpdate();
+            resp.sendRedirect("/pos?action=queryByWordId&wordId=" + wordId);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            DB.close(null, preparedStatement, connection);
+        }
+    }
+
+    private void queryByWordId(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        int wordId = Integer.parseInt(req.getParameter("wordId"));
 
         Connection connection = DB.getConnection();
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
-        String sql = "SELECT * FROM dictionary.admin WHERE username = ? AND password = ?";
+        String sql = "SELECT * FROM dictionary.pos WHERE wordId = ?";
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setString(1, username);
-            preparedStatement.setString(2, password);
-
+            preparedStatement.setInt(1, wordId);
             resultSet = preparedStatement.executeQuery();
-
-            if (resultSet.next()) {
-                req.getSession().setAttribute("username", username);
-                resp.sendRedirect("/word?action=queryAll");
-                return;
+            List<Pos> poss = new ArrayList<>();
+            while (resultSet.next()) {
+                Pos pos = new Pos(resultSet.getInt("id"), resultSet.getString("pos"), resultSet.getInt("wordId"));
+                poss.add(pos);
             }
-            req.setAttribute("message", "错误的用户名或密码");
-            req.getRequestDispatcher("admin.jsp").forward(req, resp);
+            req.getSession().setAttribute("poss", poss);
+            req.getSession().setAttribute("wordId", wordId);
+            resp.sendRedirect("pos.jsp");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

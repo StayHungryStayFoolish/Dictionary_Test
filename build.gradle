@@ -15,5 +15,4 @@ dependencies {
     compile 'javax:javaee-api:7.0'
     compile 'mysql:mysql-connector-java:5.1.40'
     compile 'jstl:jstl:1.2'
-    compile 'org.jasypt:jasypt:1.9.2'
 }

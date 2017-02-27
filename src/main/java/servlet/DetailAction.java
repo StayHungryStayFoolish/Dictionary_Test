@@ -1,7 +1,6 @@
 package servlet;
 
-import model.Concise;
-import org.apache.taglibs.standard.tag.el.sql.SetDataSourceTag;
+import model.Detail;
 import util.DB;
 
 import javax.servlet.ServletException;
@@ -21,8 +20,8 @@ import java.util.List;
  * Created by mingfei.net@gmail.com
  * 2/27/17 14:42
  */
-@WebServlet(urlPatterns = "/concise")
-public class ConciseAction extends HttpServlet {
+@WebServlet(urlPatterns = "/detail")
+public class DetailAction extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String action = req.getParameter("action");
@@ -34,25 +33,27 @@ public class ConciseAction extends HttpServlet {
         }
     }
 
-    private  void queryByPosId(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    private void queryByPosId(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         int posId = Integer.parseInt(req.getParameter("posId"));
         Connection connection = DB.getConnection();
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
-        String sql = "SELECT * FROM dictionary.concise WHERE posId = ?";
+        String sql = "SELECT * FROM dictionary.detail WHERE posId = ?";
 
         try {
             preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, posId);
             resultSet = preparedStatement.executeQuery();
 
-            List<Concise> concises = new ArrayList<>();
+            List<Detail> details = new ArrayList<>();
             while (resultSet.next()) {
-                Concise concise = new Concise(resultSet.getInt("id"), resultSet.getString("chinese"), resultSet.getInt("posId"));
-                concises.add(concise);
+                Detail detail = new Detail(resultSet.getInt("id"), resultSet.getString("detail"), resultSet.getInt("posId"));
+                details.add(detail);
             }
-            req.getSession().setAttribute("concises", concises);
-            resp.sendRedirect("concise.jsp");
+            req.getSession().setAttribute("details", details);
+            req.getSession().setAttribute("posId", posId);
+
+            resp.sendRedirect("detail.jsp");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
@@ -60,22 +61,22 @@ public class ConciseAction extends HttpServlet {
         }
     }
 
-    private  void add(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    private void add(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         int posId = Integer.parseInt(req.getParameter("posId"));
-        String chinese = req.getParameter("chinese");
+        String detail = req.getParameter("detail");
 
         Connection connection = DB.getConnection();
         PreparedStatement preparedStatement = null;
-        String sql = "INSERT INTO dictionary.concise VALUES(NULL, ?, ?)";
+        String sql = "INSERT INTO dictionary.detail VALUES(NULL, ?, ?)";
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setString(1, chinese);
+            preparedStatement.setString(1, detail);
             preparedStatement.setInt(2, posId);
 
             preparedStatement.executeUpdate();
 
-            resp.sendRedirect("concise.jsp");
+            resp.sendRedirect("detail?action=queryByPosId&posId=" + posId);
         } catch (SQLException e) {
             e.printStackTrace();
         }

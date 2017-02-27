@@ -105,3 +105,6 @@ SELECT *
 FROM dictionary.detail;
 SELECT *
 FROM dictionary.sentence;
+
+
+SELECT * FROM dictionary.concise WHERE posId = 1;

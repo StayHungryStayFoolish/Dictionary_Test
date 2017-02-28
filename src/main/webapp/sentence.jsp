@@ -14,8 +14,8 @@
 <form action="sentence" method="post">
     <input type="hidden" name="action" value="add">
     <input type="hidden" name="posId" value="${sessionScope.posId}">
-    <input type="text" name="english"><br>
-    <input type="text" name="chinese"><br>
+    <input type="text" name="english" size="100"><br>
+    <input type="text" name="chinese" size="100"><br>
     <input type="submit" value="保存">
 </form>
 <table border="1" style="border-collapse: collapse;">

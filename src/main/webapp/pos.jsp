@@ -33,7 +33,7 @@
             <td><a href="pos?action=remove&id=${pos.id}">删除</a></td>
             <td><a href="concise?action=queryByPosId&posId=${pos.id}">添加简明释义</a></td>
             <td><a href="detail?action=queryByPosId&posId=${pos.id}">添加详细释义</a></td>
-            <td><a href="sentence?action=add&posId=${pos.id}">添加例句</a></td>
+            <td><a href="sentence?action=queryByPosId&posId=${pos.id}">添加例句</a></td>
         </tr>
     </c:forEach>
 </table>

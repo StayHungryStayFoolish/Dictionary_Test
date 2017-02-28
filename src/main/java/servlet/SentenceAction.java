@@ -63,6 +63,7 @@ public class SentenceAction extends HttpServlet {
     }
 
     private void add(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        System.out.println("add...");
         int posId = Integer.parseInt(req.getParameter("posId"));
         String english = req.getParameter("english");
         String chinese = req.getParameter("chinese");

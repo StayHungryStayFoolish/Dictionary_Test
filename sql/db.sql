@@ -72,25 +72,29 @@ ALTER TABLE dictionary.pos
   ADD CONSTRAINT
   fk_pos_wordId
 FOREIGN KEY (wordId)
-REFERENCES dictionary.word (id);
+REFERENCES dictionary.word (id)
+  ON DELETE CASCADE;
 
 ALTER TABLE dictionary.concise
   ADD CONSTRAINT
   fk_concise_posId
 FOREIGN KEY (posId)
-REFERENCES dictionary.pos (id);
+REFERENCES dictionary.pos (id)
+  ON DELETE CASCADE;
 
 ALTER TABLE dictionary.detail
   ADD CONSTRAINT
   fk_detail_posId
 FOREIGN KEY (posId)
-REFERENCES dictionary.pos (id);
+REFERENCES dictionary.pos (id)
+  ON DELETE CASCADE;
 
 ALTER TABLE dictionary.sentence
   ADD CONSTRAINT
   fk_sentence_posId
 FOREIGN KEY (posId)
-REFERENCES dictionary.pos (id);
+REFERENCES dictionary.pos (id)
+  ON DELETE CASCADE;
 
 -- SELECT
 SELECT *
@@ -106,5 +110,18 @@ FROM dictionary.detail;
 SELECT *
 FROM dictionary.sentence;
 
-
-SELECT * FROM dictionary.concise WHERE posId = 1;
+SELECT
+  w.english,
+  w.phoneticUk,
+  w.phoneticUs,
+  p.pos,
+  c.chinese,
+  d.detail,
+  s.english,
+  s.chinese
+FROM dictionary.word w INNER JOIN dictionary.pos p
+  INNER JOIN dictionary.concise c
+  INNER JOIN dictionary.detail d
+  INNER JOIN dictionary.sentence s
+    ON w.id = p.wordId AND p.id = c.posId AND p.id = d.posId AND p.id = s.posId
+WHERE w.english = 'test';

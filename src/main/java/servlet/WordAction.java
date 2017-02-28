@@ -1,5 +1,6 @@
 package servlet;
 
+import model.Concise;
 import model.Word;
 import util.DB;
 
@@ -39,6 +40,9 @@ public class WordAction extends HttpServlet {
         }
         if (action.equals("remove")) {
             remove(req, resp);
+        }
+        if (action.equals("queryByEnglish")) {
+            queryByEnglish(req, resp);
         }
     }
 
@@ -107,6 +111,29 @@ public class WordAction extends HttpServlet {
             }
             req.getSession().setAttribute("words", words);
             resp.sendRedirect("admin.jsp");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            DB.close(resultSet, preparedStatement, connection);
+        }
+    }
+
+    private void queryByEnglish(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String english = req.getParameter("english").trim();
+        Connection connection = DB.getConnection();
+        PreparedStatement preparedStatement = null;
+        ResultSet resultSet = null;
+
+        String sql = "";
+
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setString(1, english);
+            resultSet = preparedStatement.executeQuery();
+
+            List<?>
+            req.getSession().setAttribute("", );
+            resp.sendRedirect("index.jsp");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

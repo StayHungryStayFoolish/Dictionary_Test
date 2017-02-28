@@ -1,6 +1,7 @@
 package servlet;
 
 import model.Concise;
+import model.Pos;
 import model.Word;
 import util.DB;
 
@@ -124,15 +125,48 @@ public class WordAction extends HttpServlet {
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
 
-        String sql = "";
 
         try {
-            preparedStatement = connection.prepareStatement(sql);
+            String sqlWord = "SELECT * FROM dictionary.word WHERE english = ?";
+            preparedStatement = connection.prepareStatement(sqlWord);
             preparedStatement.setString(1, english);
             resultSet = preparedStatement.executeQuery();
+            if (!resultSet.next()) {
+                req.getSession().removeAttribute("word"); // ***
+                req.getSession().removeAttribute("poss"); // ***
+                resp.sendRedirect("index.jsp");
+                return;
+            }
 
-            List<?>
-            req.getSession().setAttribute("", );
+            Word word = new Word(
+                    resultSet.getInt("id"),
+                    resultSet.getString("english"),
+                    resultSet.getString("phoneticUk"),
+                    resultSet.getString("phoneticUs")
+            );
+
+            String sqlPos = "SELECT p.id, p.pos, c.chinese FROM dictionary.pos p INNER JOIN dictionary.concise c ON p.id = c.posId WHERE p.wordId = ?";
+            preparedStatement = connection.prepareStatement(sqlPos);
+            preparedStatement.setInt(1, word.getId());
+            resultSet = preparedStatement.executeQuery();
+
+            List<Pos> poss = new ArrayList<>();
+            List<Concise> concises = new ArrayList<>();
+            while (resultSet.next()) {
+                Pos pos = new Pos(
+                        resultSet.getInt("id"),
+                        resultSet.getString("pos"),
+                        0
+                );
+                poss.add(pos);
+
+                Concise concise = new Concise(null, resultSet.getString("chinese"), 0);
+                concises.add(concise);
+            }
+
+            req.getSession().setAttribute("word", word);
+            req.getSession().setAttribute("poss", poss);
+            req.getSession().setAttribute("concises", concises);
             resp.sendRedirect("index.jsp");
         } catch (SQLException e) {
             e.printStackTrace();

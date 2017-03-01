@@ -43,4 +43,13 @@ public class Concise {
     public void setPosId(int posId) {
         this.posId = posId;
     }
+
+    @Override
+    public String toString() {
+        return "Concise{" +
+                "id=" + id +
+                ", chinese='" + chinese + '\'' +
+                ", posId=" + posId +
+                '}';
+    }
 }

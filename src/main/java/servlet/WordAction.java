@@ -1,8 +1,6 @@
 package servlet;
 
-import model.Concise;
-import model.Pos;
-import model.Word;
+import model.*;
 import util.DB;
 
 import javax.servlet.ServletException;
@@ -122,53 +120,98 @@ public class WordAction extends HttpServlet {
     private void queryByEnglish(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String english = req.getParameter("english").trim();
         Connection connection = DB.getConnection();
-        PreparedStatement preparedStatement = null;
-        ResultSet resultSet = null;
-
+        PreparedStatement prepWord = null;
+        ResultSet resWord = null;
 
         try {
             String sqlWord = "SELECT * FROM dictionary.word WHERE english = ?";
-            preparedStatement = connection.prepareStatement(sqlWord);
-            preparedStatement.setString(1, english);
-            resultSet = preparedStatement.executeQuery();
-            if (!resultSet.next()) {
+            prepWord = connection.prepareStatement(sqlWord);
+            prepWord.setString(1, english);
+            resWord = prepWord.executeQuery();
+            if (!resWord.next()) {
                 req.getSession().removeAttribute("word"); // ***
-                req.getSession().removeAttribute("poss"); // ***
                 resp.sendRedirect("index.jsp");
                 return;
             }
 
             Word word = new Word(
-                    resultSet.getInt("id"),
-                    resultSet.getString("english"),
-                    resultSet.getString("phoneticUk"),
-                    resultSet.getString("phoneticUs")
+                    resWord.getInt("id"),
+                    resWord.getString("english"),
+                    resWord.getString("phoneticUk"),
+                    resWord.getString("phoneticUs")
             );
 
-            String sqlPos = "SELECT p.id, p.pos, c.chinese FROM dictionary.pos p INNER JOIN dictionary.concise c ON p.id = c.posId WHERE p.wordId = ?";
-            preparedStatement = connection.prepareStatement(sqlPos);
-            preparedStatement.setInt(1, word.getId());
-            resultSet = preparedStatement.executeQuery();
+            int wordId = word.getId();
+
+            String sqlPos = "SELECT * FROM dictionary.pos WHERE wordId = ?";
+            PreparedStatement prepPos = connection.prepareStatement(sqlPos);
+            prepPos.setInt(1, word.getId());
+            ResultSet resPos = prepPos.executeQuery();
 
             List<Pos> poss = new ArrayList<>();
-            while (resultSet.next()) {
-                Concise concise = new Concise(null, resultSet.getString("chinese"), 0);
+            while (resPos.next()) {
                 Pos pos = new Pos(
-                        resultSet.getInt("id"),
-                        resultSet.getString("pos"),
-                        0,
-                        concise
+                        resPos.getInt("id"),
+                        resPos.getString("pos"),
+                        wordId
                 );
+
+                int posId = pos.getId();
+
+                String sqlConcise = "SELECT * FROM dictionary.concise WHERE posId = ?";
+                PreparedStatement prepConcise = connection.prepareStatement(sqlConcise);
+                prepConcise.setInt(1, posId);
+                ResultSet resConcise = prepConcise.executeQuery();
+                if (resConcise.next()) {
+                    Concise concise = new Concise(
+                            resConcise.getInt("id"),
+                            resConcise.getString("chinese"),
+                            posId);
+                    pos.setConcise(concise);
+                }
+
+                String sqlDetail = "SELECT * FROM dictionary.detail WHERE posId = ?";
+                PreparedStatement prepDetail = connection.prepareStatement(sqlDetail);
+                prepDetail.setInt(1, posId);
+                ResultSet resDetail = prepDetail.executeQuery();
+                List<Detail> details = new ArrayList<>();
+                while (resDetail.next()) {
+                    Detail detail = new Detail(
+                            resDetail.getInt("id"),
+                            resDetail.getString("detail"),
+                            posId
+                    );
+                    details.add(detail);
+                }
+                pos.setDetails(details);
+
+                String sqlSentence = "SELECT * FROM dictionary.sentence WHERE posId = ?";
+                PreparedStatement prepSentence = connection.prepareStatement(sqlSentence);
+                prepSentence.setInt(1, posId);
+                ResultSet resSentence = prepSentence.executeQuery();
+                List<Sentence> sentences = new ArrayList<>();
+                while (resSentence.next()) {
+                    Sentence sentence = new Sentence(
+                            resSentence.getInt("id"),
+                            resSentence.getString("english"),
+                            resSentence.getString("chinese"),
+                            posId
+                    );
+                    sentences.add(sentence);
+                }
+                pos.setSentences(sentences);
+
                 poss.add(pos);
             }
 
+            word.setPoss(poss);
+
             req.getSession().setAttribute("word", word); // ***
-            req.getSession().setAttribute("poss", poss);
             resp.sendRedirect("index.jsp");
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
-            DB.close(resultSet, preparedStatement, connection);
+            DB.close(resWord, prepWord, connection);
         }
     }
 

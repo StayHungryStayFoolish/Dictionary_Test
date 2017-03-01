@@ -64,4 +64,32 @@ public class Pos {
     public void setConcise(Concise concise) {
         this.concise = concise;
     }
+
+    public List<Detail> getDetails() {
+        return details;
+    }
+
+    public void setDetails(List<Detail> details) {
+        this.details = details;
+    }
+
+    public List<Sentence> getSentences() {
+        return sentences;
+    }
+
+    public void setSentences(List<Sentence> sentences) {
+        this.sentences = sentences;
+    }
+
+    @Override
+    public String toString() {
+        return "Pos{" +
+                "id=" + id +
+                ", pos='" + pos + '\'' +
+                ", wordId=" + wordId +
+                ", concise=" + concise +
+                ", details=" + details +
+                ", sentences=" + sentences +
+                '}';
+    }
 }

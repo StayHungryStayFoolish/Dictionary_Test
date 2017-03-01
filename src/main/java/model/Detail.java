@@ -42,4 +42,13 @@ public class Detail {
     public void setPosId(int posId) {
         this.posId = posId;
     }
+
+    @Override
+    public String toString() {
+        return "Detail{" +
+                "id=" + id +
+                ", detail='" + detail + '\'' +
+                ", posId=" + posId +
+                '}';
+    }
 }

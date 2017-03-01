@@ -25,6 +25,14 @@ public class Word {
         this.phoneticUs = phoneticUs;
     }
 
+    public Word(Integer id, String english, String phoneticUk, String phoneticUs, List<Pos> poss) {
+        this.id = id;
+        this.english = english;
+        this.phoneticUk = phoneticUk;
+        this.phoneticUs = phoneticUs;
+        this.poss = poss;
+    }
+
     public Integer getId() {
         return id;
     }
@@ -55,5 +63,24 @@ public class Word {
 
     public void setPhoneticUs(String phoneticUs) {
         this.phoneticUs = phoneticUs;
+    }
+
+    public List<Pos> getPoss() {
+        return poss;
+    }
+
+    public void setPoss(List<Pos> poss) {
+        this.poss = poss;
+    }
+
+    @Override
+    public String toString() {
+        return "Word{" +
+                "id=" + id +
+                ", english='" + english + '\'' +
+                ", phoneticUk='" + phoneticUk + '\'' +
+                ", phoneticUs='" + phoneticUs + '\'' +
+                ", poss=" + poss +
+                '}';
     }
 }

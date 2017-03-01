@@ -52,4 +52,14 @@ public class Sentence {
     public void setPosId(int posId) {
         this.posId = posId;
     }
+
+    @Override
+    public String toString() {
+        return "Sentence{" +
+                "id=" + id +
+                ", english='" + english + '\'' +
+                ", chinese='" + chinese + '\'' +
+                ", posId=" + posId +
+                '}';
+    }
 }

@@ -22,11 +22,18 @@
     <h2>${sessionScope.word.english}</h2>
     <span>英 ${sessionScope.word.phoneticUk}</span>
     <span>美 ${sessionScope.word.phoneticUs}</span>
-</c:if>
-<c:if test="${sessionScope.poss ne null}">
-    <c:forEach var="pos" items="${sessionScope.poss}">
-        <p><span style="color: darkgreen; font-weight: bold">${pos.pos}</span> ${pos.concise.chinese}</p>
+    <c:forEach var="pos" items="${sessionScope.word.poss}">
+        <div><span style="font-weight: bolder; color: darkgreen">${pos.pos}</span> ${pos.concise.chinese}</div>
+        <h2>详细释义</h2>
+        ${pos.pos}
+        <ol>
+        <c:forEach var="detail" items="${pos.details}">
+            <li>${detail.detail}</li>
+        </c:forEach>
+        </ol>
     </c:forEach>
+    <hr>
+    ${sessionScope.word}
 </c:if>
 
 <hr>
@@ -38,6 +45,29 @@
     n > 1
     1 <> 1
     n <> n
+
+    test
+
+       参数        表        语句                                      获取
+    1. english    word       select * from word where english = ?     id(word)
+    2. wordId     pos        select * from pos where wordId = ?       id(pos)
+    3. posId      concise    select * from concise where posId = ?
+    4. posId      detail     select * from detail where posId = ?
+    5. posId      sentence   select * from sentence where posId = ?
+
+    1. word
+    2. List<Pos> poss
+    3. Concise concise
+    4. List<Detail> details
+    5. List<Sentence> sentences
+
+       pos.setConcise(concise)
+       pos.setDetails(details)
+       pos.setSentences(sentences)
+
+       word.setPoss(poss)
+       req.getSession().setAttribute("word", word);
+
 </pre>
 </body>
 </html>

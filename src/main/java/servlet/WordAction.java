@@ -151,22 +151,19 @@ public class WordAction extends HttpServlet {
             resultSet = preparedStatement.executeQuery();
 
             List<Pos> poss = new ArrayList<>();
-            List<Concise> concises = new ArrayList<>();
             while (resultSet.next()) {
+                Concise concise = new Concise(null, resultSet.getString("chinese"), 0);
                 Pos pos = new Pos(
                         resultSet.getInt("id"),
                         resultSet.getString("pos"),
-                        0
+                        0,
+                        concise
                 );
                 poss.add(pos);
-
-                Concise concise = new Concise(null, resultSet.getString("chinese"), 0);
-                concises.add(concise);
             }
 
-            req.getSession().setAttribute("word", word);
+            req.getSession().setAttribute("word", word); // ***
             req.getSession().setAttribute("poss", poss);
-            req.getSession().setAttribute("concises", concises);
             resp.sendRedirect("index.jsp");
         } catch (SQLException e) {
             e.printStackTrace();

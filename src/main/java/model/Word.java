@@ -1,5 +1,7 @@
 package model;
 
+import java.util.List;
+
 /**
  * Created by mingfei.net@gmail.com
  * 2/24/17 15:22
@@ -9,6 +11,8 @@ public class Word {
     private String english;
     private String phoneticUk;
     private String phoneticUs;
+
+    private List<Pos> poss;
 
     public Word() {
     }

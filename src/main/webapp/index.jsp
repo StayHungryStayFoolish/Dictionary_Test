@@ -23,14 +23,21 @@
     <span>英 ${sessionScope.word.phoneticUk}</span>
     <span>美 ${sessionScope.word.phoneticUs}</span>
 </c:if>
-<c:forEach var="pos" items="${sessionScope.poss}">
-    <p style="color: #0f0; font-weight: bold">${pos.pos} </p>
-</c:forEach>
-<c:forEach var="concise" items="${sessionScope.concises}">
-    <p>${concise.chinese}</p>
-</c:forEach>
+<c:if test="${sessionScope.poss ne null}">
+    <c:forEach var="pos" items="${sessionScope.poss}">
+        <p><span style="color: darkgreen; font-weight: bold">${pos.pos}</span> ${pos.concise.chinese}</p>
+    </c:forEach>
+</c:if>
 
 <hr>
 <small><a href="admin.jsp">管理员登录</a></small>
+<hr>
+<pre>
+    A   B
+    1 > n
+    n > 1
+    1 <> 1
+    n <> n
+</pre>
 </body>
 </html>

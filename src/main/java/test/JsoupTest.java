@@ -17,7 +17,6 @@ public class JsoupTest {
 
     public static void main(String[] args) throws IOException {
         Document document = Jsoup.connect(URL).get();
-        Elements elements = document.getElementsByAttributeValue("class", "phonetic");
-        Element element = elements.first();
+        System.out.println(document.getElementsByAttributeValue("lang", "en-us").text());
     }
 }

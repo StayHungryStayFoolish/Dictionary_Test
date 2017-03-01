@@ -1,0 +1,18196 @@
+a
+	英	[ə]
+	美	[ə]
+1
+abandon
+	英	[ə'bændən]
+	美	[ə'bændən]
+2
+ability
+	英	[ə'bɪləti]
+	美	[ə'bɪləti]
+3
+able
+	英	['eɪbl]
+	美	['eɪbl]
+4
+abnormal
+	英	[æb'nɔːml]
+	美	[æb'nɔːrml]
+5
+aboard
+	英	[ə'bɔːd]
+	美	[ə'bɔːrd]
+6
+about
+	英	[ə'baʊt]
+	美	[ə'baʊt]
+7
+above
+	英	[ə'bʌv]
+	美	[ə'bʌv]
+8
+abroad
+	英	[ə'brɔːd]
+	美	[ə'brɔːd]
+9
+absence
+	英	['æbsəns]
+	美	['æbsəns]
+10
+absent
+	英	['æbsənt]
+	美	['æbsənt]
+11
+absolute
+	英	['æbsəluːt]
+	美	['æbsəluːt]
+12
+absolutely
+	英	['æbsəluːtli]
+	美	['æbsəluːtli]
+13
+absorb
+	英	[əb'sɔːb]
+	美	[əb'sɔːrb]
+14
+abstract
+	英	['æbstrækt]
+	美	['æbstrækt]
+15
+abundant
+	英	[ə'bʌndənt]
+	美	[ə'bʌndənt]
+16
+abuse
+	英	[ə'bjuːs]
+	美	[ə'bjuːs]
+17
+academic
+	英	[ˌækə'demɪk]
+	美	[ˌækə'demɪk]
+18
+academy
+	英	[ə'kædəmi]
+	美	[ə'kædəmi]
+19
+accelerate
+	英	[ək'seləreɪt]
+	美	[ək'seləreɪt]
+20
+acceleration
+	英	[əkˌselə'reɪʃn]
+	美	[əkˌselə'reɪʃn]
+21
+accent
+	英	['æksent]
+	美	['æksent]
+22
+accept
+	英	[ək'sept]
+	美	[ək'sept]
+23
+acceptable
+	英	[ək'septəbl]
+	美	[ək'septəbl]
+24
+acceptance
+	英	[ək'septəns]
+	美	[ək'septəns]
+25
+access
+	英	['ækses]
+	美	['ækses]
+26
+accessary
+	英	[æk'sesərɪ]
+	美	[æk'sesərɪ]
+27
+accident
+	英	['æksɪdənt]
+	美	['æksɪdənt]
+28
+accidental
+	英	[ˌæksɪ'dentl]
+	美	[ˌæksɪ'dentl]
+29
+accommodate
+	英	[ə'kɒmədeɪt]
+	美	[ə'kɑːmədeɪt]
+30
+accommodation
+	英	[əˌkɒmə'deɪʃn]
+	美	[əˌkɑːmə'deɪʃn]
+31
+accompany
+	英	[ə'kʌmpəni]
+	美	[ə'kʌmpəni]
+32
+accomplish
+	英	[ə'kʌmplɪʃ]
+	美	[ə'kɑːmplɪʃ]
+33
+accord
+	英	[ə'kɔːd]
+	美	[ə'kɔːrd]
+34
+accordance
+	英	[ə'kɔːdns]
+	美	[ə'kɔːrdns]
+35
+accordingly
+	英	[ə'kɔːdɪŋli]
+	美	[ə'kɔːrdɪŋli]
+36
+account
+	英	[ə'kaʊnt]
+	美	[ə'kaʊnt]
+37
+accumulate
+	英	[ə'kjuːmjəleɪt]
+	美	[ə'kjuːmjəleɪt]
+38
+accuracy
+	英	['ækjərəsi]
+	美	['ækjərəsi]
+39
+accurate
+	英	['ækjərət]
+	美	['ækjərət]
+40
+accuse
+	英	[ə'kjuːz]
+	美	[ə'kjuːz]
+41
+accustom
+	英	[ə'kʌstəm]
+	美	[ə'kʌstəm]
+42
+accustomed
+	英	[ə'kʌstəmd]
+	美	[ə'kʌstəmd]
+43
+ache
+	英	[eɪk]
+	美	[eɪk]
+44
+achieve
+	英	[ə'tʃiːv]
+	美	[ə'tʃiːv]
+45
+achievement
+	英	[ə'tʃiːvmənt]
+	美	[ə'tʃiːvmənt]
+46
+acid
+	英	['æsɪd]
+	美	['æsɪd]
+47
+acquaintance
+	英	[ə'kweɪntəns]
+	美	[ə'kweɪntəns]
+48
+acquire
+	英	[ə'kwaɪə(r)]
+	美	[ə'kwaɪər]
+49
+acre
+	英	['eɪkə(r)]
+	美	['eɪkər]
+50
+across
+	英	[ə'krɒs]
+	美	[ə'krɔːs]
+51
+act
+	英	[ækt]
+	美	[ækt]
+52
+action
+	英	['ækʃn]
+	美	['ækʃn]
+53
+active
+	英	['æktɪv]
+	美	['æktɪv]
+54
+activity
+	英	[æk'tɪvɪtɪ]
+	美	[æk'tɪvəti]
+55
+actor
+	英	['æktə(r)]
+	美	['æktər]
+56
+actress
+	英	['æktrəs]
+	美	['æktrəs]
+57
+actual
+	英	['æktʃuəl]
+	美	['æktʃuəl]
+58
+actually
+	英	['æktʃuəli]
+	美	['æktʃuəli]
+59
+acute
+	英	[ə'kjuːt]
+	美	[ə'kjuːt]
+60
+ad
+	英	[ˌeɪ'diː]
+	美	[ˌeɪ'diː]
+61
+adapt
+	英	[ə'dæpt]
+	美	[ə'dæpt]
+62
+add
+	英	[æd]
+	美	[æd]
+63
+addition
+	英	[ə'dɪʃn]
+	美	[ə'dɪʃn]
+64
+additional
+	英	[ə'dɪʃənl]
+	美	[ə'dɪʃənl]
+65
+address
+	英	[ə'dres]
+	美	[ə'dres]
+66
+adequate
+	英	['ædɪkwət]
+	美	['ædɪkwət]
+67
+adjective
+	英	['ædʒɪktɪv]
+	美	['ædʒɪktɪv]
+68
+adjust
+	英	[ə'dʒʌst]
+	美	[ə'dʒʌst]
+69
+administration
+	英	[ədˌmɪnɪ'streɪʃn]
+	美	[ədˌmɪnɪ'streɪʃn]
+70
+admire
+	英	[əd'maɪə(r)]
+	美	[əd'maɪər]
+71
+admission
+	英	[əd'mɪʃn]
+	美	[əd'mɪʃn]
+72
+admit
+	英	[əd'mɪt]
+	美	[əd'mɪt]
+73
+adopt
+	英	[ə'dɒpt]
+	美	[ə'dɑːpt]
+74
+adult
+	英	['ædʌlt]
+	美	['ædʌlt]
+75
+advance
+	英	[əd'vɑːns]
+	美	[əd'væns]
+76
+advanced
+	英	[əd'vɑːnst]
+	美	[əd'vænst]
+77
+advantage
+	英	[əd'vɑːntɪdʒ]
+	美	[əd'væntɪdʒ]
+78
+adventure
+	英	[əd'ventʃə(r)]
+	美	[əd'ventʃər]
+79
+adverb
+	英	['ædvɜːb]
+	美	['ædvɜːb]
+80
+advertisement
+	英	[əd'vɜːtɪsmənt]
+	美	[ˌædvər'taɪzmənt]
+81
+advice
+	英	[əd'vaɪs]
+	美	[əd'vaɪs]
+82
+advisable
+	英	[əd'vaɪzəbl]
+	美	[əd'vaɪzəbl]
+83
+advise
+	英	[əd'vaɪz]
+	美	[əd'vaɪz]
+84
+aeroplane
+	英	['eərəpleɪn]
+	美	['erəpleɪn]
+85
+affair
+	英	[ə'feə(r)]
+	美	[ə'fer]
+86
+affect
+	英	[ə'fekt]
+	美	[ə'fekt]
+87
+affection
+	英	[ə'fekʃn]
+	美	[ə'fekʃn]
+88
+afford
+	英	[ə'fɔːd]
+	美	[ə'fɔːrd]
+89
+afraid
+	英	[ə'freɪd]
+	美	[ə'freɪd]
+90
+Africa
+	英	['æfrɪkə]
+	美	['æfrɪkə]
+91
+African
+	英	['æfrɪkən]
+	美	['æfrɪkən]
+92
+after
+	英	['ɑːftə(r)]
+	美	['æftər]
+93
+afternoon
+	英	[ˌɑːftə'nuːn]
+	美	[ˌæftər'nuːn]
+94
+afterward
+	英	['ɑːftəwəd]
+	美	['ɑːftəwəd]
+95
+again
+	英	[ə'ɡen]
+	美	[ə'ɡen]
+96
+against
+	英	[ə'ɡenst]
+	美	[ə'ɡenst]
+97
+age
+	英	[eɪdʒ]
+	美	[eɪdʒ]
+98
+agency
+	英	['eɪdʒənsi]
+	美	['eɪdʒənsi]
+99
+agent
+	英	['eɪdʒənt]
+	美	['eɪdʒənt]
+100
+aggressive
+	英	[ə'ɡresɪv]
+	美	[ə'ɡresɪv]
+101
+ago
+	英	[ə'ɡəʊ]
+	美	[ə'ɡoʊ]
+102
+agony
+	英	['æɡəni]
+	美	['æɡəni]
+103
+agree
+	英	[ə'ɡriː]
+	美	[ə'ɡriː]
+104
+agreement
+	英	[ə'ɡriːmənt]
+	美	[ə'ɡriːmənt]
+105
+agriculture
+	英	['æɡrɪkʌltʃə(r)]
+	美	['æɡrɪkʌltʃər]
+106
+ahead
+	英	[ə'hed]
+	美	[ə'hed]
+107
+aid
+	英	[eɪd]
+	美	[eɪd]
+108
+aim
+	英	[eɪm]
+	美	[eɪm]
+109
+air
+	英	[eə(r)]
+	美	[er]
+110
+aircraft
+	英	['eəkrɑːft]
+	美	['erkræft]
+111
+airline
+	英	['eəlaɪn]
+	美	['erlaɪn]
+112
+airplane
+	英	['eəpleɪn]
+	美	['erpleɪn]
+113
+airport
+	英	['eəpɔːt]
+	美	['erpɔːrt]
+114
+alarm
+	英	[ə'lɑːm]
+	美	[ə'lɑːrm]
+115
+alcohol
+	英	['ælkəhɒl]
+	美	['ælkəhɔːl]
+116
+alike
+	英	[ə'laɪk]
+	美	[ə'laɪk]
+117
+alive
+	英	[ə'laɪv]
+	美	[ə'laɪv]
+118
+all
+	英	[ɔːl]
+	美	[ɔːl]
+119
+allow
+	英	[ə'laʊ]
+	美	[ə'laʊ]
+120
+alloy
+	英	['ælɔɪ]
+	美	['ælɔɪ]
+121
+almost
+	英	['ɔːlməʊst]
+	美	['ɔːlmoʊst]
+122
+alone
+	英	[ə'ləʊn]
+	美	[ə'loʊn]
+123
+along
+	英	[ə'lɒŋ]
+	美	[ə'lɔːŋ]
+124
+aloud
+	英	[ə'laʊd]
+	美	[ə'laʊd]
+125
+alphabet
+	英	['ælfəbet]
+	美	['ælfəbet]
+126
+already
+	英	[ɔːl'redi]
+	美	[ɔːl'redi]
+127
+also
+	英	['ɔːlsəʊ]
+	美	['ɔːlsoʊ]
+128
+alter
+	英	['ɔːltə(r)]
+	美	['ɔːltər]
+129
+alternative
+	英	[ɔːl'tɜːnətɪv]
+	美	[ɔːl'tɜːrnətɪv]
+130
+although
+	英	[ɔːl'ðəʊ]
+	美	[ɔːl'ðoʊ]
+131
+altitude
+	英	['æltɪtjuːd]
+	美	['æltɪtuːd]
+132
+altogether
+	英	[ˌɔːltə'ɡeðə(r)]
+	美	[ˌɔːltə'ɡeðər]
+133
+aluminium
+	英	[ˌæljə'mɪniəm]
+	美	[ˌæljə'mɪniəm]
+134
+always
+	英	['ɔːlweɪz]
+	美	['ɔːlweɪz]
+135
+amaze
+	英	[ə'meɪz]
+	美	[ə'meɪz]
+136
+ambition
+	英	[æm'bɪʃn]
+	美	[æm'bɪʃn]
+137
+ambulance
+	英	['æmbjʊləns]
+	美	['æmbjələns]
+138
+America
+	英	[ə'merɪkə]
+	美	[ə'merɪkə]
+139
+American
+	英	[ə'merɪkən]
+	美	[ə'merɪkən]
+140
+among
+	英	[ə'mʌŋ]
+	美	[ə'mʌŋ]
+141
+amongst
+	英	[ə'mʌŋst]
+	美	[ə'mʌŋst]
+142
+amount
+	英	[ə'maʊnt]
+	美	[ə'maʊnt]
+143
+ampere
+	英	['æmpeə(r)]
+	美	['æmpeə(r)]
+144
+amplify
+	英	['æmplɪfaɪ]
+	美	['æmplɪfaɪ]
+145
+amuse
+	英	[ə'mjuːz]
+	美	[ə'mjuːz]
+146
+analyse
+	英	['ænəlaɪz]
+	美	['ænəlaɪz]
+147
+analysis
+	英	[ə'næləsɪs]
+	美	[ə'næləsɪs]
+148
+ancestor
+	英	['ænsestə(r)]
+	美	['ænsestər]
+149
+anchor
+	英	['æŋkə(r)]
+	美	['æŋkər]
+150
+ancient
+	英	['eɪnʃənt]
+	美	['eɪnʃənt]
+151
+and
+	英	[ənd]
+	美	[ənd]
+152
+angel
+	英	['eɪndʒl]
+	美	['eɪndʒl]
+153
+anger
+	英	['æŋɡə(r)]
+	美	['æŋɡər]
+154
+angle
+	英	['æŋɡl]
+	美	['æŋɡl]
+155
+angry
+	英	['æŋɡri]
+	美	['æŋɡri]
+156
+animal
+	英	['ænɪml]
+	美	['ænɪml]
+157
+ankle
+	英	['æŋkl]
+	美	['æŋkl]
+158
+announce
+	英	[ə'naʊns]
+	美	[ə'naʊns]
+159
+announcer
+	英	[ə'naʊnsə(r)]
+	美	[ə'naʊnsə(r)]
+160
+annoy
+	英	[ə'nɔɪ]
+	美	[ə'nɔɪ]
+161
+annual
+	英	['ænjuəl]
+	美	['ænjuəl]
+162
+another
+	英	[ə'nʌðə(r)]
+	美	[ə'nʌðər]
+163
+answer
+	英	['ɑːnsə(r)]
+	美	['ænsər]
+164
+ant
+	英	[ænt]
+	美	[ænt]
+165
+anticipate
+	英	[æn'tɪsɪpeɪt]
+	美	[æn'tɪsɪpeɪt]
+166
+anxiety
+	英	[æŋ'zaɪəti]
+	美	[æŋ'zaɪəti]
+167
+anxious
+	英	['æŋkʃəs]
+	美	['æŋkʃəs]
+168
+any
+	英	['eni]
+	美	['eni]
+169
+anybody
+	英	['enibɒdi]
+	美	['enibɑːdi]
+170
+anyhow
+	英	['enihaʊ]
+	美	['enihaʊ]
+171
+anyone
+	英	['eniwʌn]
+	美	['eniwʌn]
+172
+anything
+	英	['eniθɪŋ]
+	美	['eniθɪŋ]
+173
+anyway
+	英	['eniweɪ]
+	美	['eniweɪ]
+174
+anywhere
+	英	['eniweə(r)]
+	美	['eniwer]
+175
+apart
+	英	[ə'pɑːt]
+	美	[ə'pɑːrt]
+176
+apartment
+	英	[ə'pɑːtmənt]
+	美	[ə'pɑːrtmənt]
+177
+apologize
+	英	[ə'pɒlədʒaɪz]
+	美	[ə'pɑːlədʒaɪz]
+178
+apology
+	英	[ə'pɒlədʒi]
+	美	[ə'pɑːlədʒi]
+179
+apparatus
+	英	[ˌæpə'reɪtəs]
+	美	[ˌæpə'rætəs]
+180
+apparent
+	英	[ə'pærənt]
+	美	[ə'pærənt]
+181
+appeal
+	英	[ə'piːl]
+	美	[ə'piːl]
+182
+appear
+	英	[ə'pɪə(r)]
+	美	[ə'pɪr]
+183
+appearance
+	英	[ə'pɪərəns]
+	美	[ə'pɪrəns]
+184
+appetite
+	英	['æpɪtaɪt]
+	美	['æpɪtaɪt]
+185
+apple
+	英	['æpl]
+	美	['æpl]
+186
+appliance
+	英	[ə'plaɪəns]
+	美	[ə'plaɪəns]
+187
+applicable
+	英	[ə'plɪkəbl]
+	美	[ə'plɪkəbl]
+188
+application
+	英	[ˌæplɪ'keɪʃn]
+	美	[ˌæplɪ'keɪʃn]
+189
+apply
+	英	[ə'plaɪ]
+	美	[ə'plaɪ]
+190
+appoint
+	英	[ə'pɔɪnt]
+	美	[ə'pɔɪnt]
+191
+appointment
+	英	[ə'pɔɪntmənt]
+	美	[ə'pɔɪntmənt]
+192
+appreciate
+	英	[ə'priːʃieɪt]
+	美	[ə'priːʃieɪt]
+193
+approach
+	英	[ə'prəʊtʃ]
+	美	[ə'proʊtʃ]
+194
+appropriate
+	英	[ə'prəʊpriət ]
+	美	[ə'proʊpriət]
+195
+approval
+	英	[ə'pruːvl]
+	美	[ə'pruːvl]
+196
+approve
+	英	[ə'pruːv]
+	美	[ə'pruːv]
+197
+approximate
+	英	[ə'prɒksɪmət]
+	美	[ə'prɑːksɪmət]
+198
+approximately
+	英	[ə'prɒksɪmətli]
+	美	[ə'prɑːksɪmətli]
+199
+April
+	英	['eɪprəl]
+	美	['eɪprəl]
+200
+Arabian
+	英	[ə'reɪbiən]
+	美	[ə'reɪbiən]
+201
+arbitrary
+	英	['ɑːbɪtrəri]
+	美	['ɑːrbətreri]
+202
+architecture
+	英	['ɑːkɪtektʃə(r)]
+	美	['ɑːrkɪtektʃər]
+203
+area
+	英	['eəriə]
+	美	['eriə]
+204
+argue
+	英	['ɑːɡjuː]
+	美	['ɑːrɡjuː]
+205
+argument
+	英	['ɑːɡjumənt]
+	美	['ɑːrɡjumənt]
+206
+arise
+	英	[ə'raɪz]
+	美	[ə'raɪz]
+207
+arithmetic
+	英	[ə'rɪθmətɪk]
+	美	[ə'rɪθmətɪk]
+208
+arm
+	英	[ɑːm]
+	美	[ɑːrm]
+209
+army
+	英	['ɑːmi]
+	美	['ɑːrmi]
+210
+around
+	英	[ə'raʊnd]
+	美	[ə'raʊnd]
+211
+arouse
+	英	[ə'raʊz]
+	美	[ə'raʊz]
+212
+arrange
+	英	[ə'reɪndʒ]
+	美	[ə'reɪndʒ]
+213
+arrangement
+	英	[ə'reɪndʒmənt]
+	美	[ə'reɪndʒmənt]
+214
+arrest
+	英	[ə'rest]
+	美	[ə'rest]
+215
+arrival
+	英	[ə'raɪvl]
+	美	[ə'raɪvl]
+216
+arrive
+	英	[ə'raɪv]
+	美	[ə'raɪv]
+217
+arrow
+	英	['ærəʊ]
+	美	['æroʊ]
+218
+art
+	英	[ɑːt]
+	美	[ɑːrt]
+219
+article
+	英	['ɑːtɪkl]
+	美	['ɑːrtɪkl]
+220
+artificial
+	英	[ˌɑːtɪ'fɪʃl]
+	美	[ˌɑːrtɪ'fɪʃl]
+221
+artist
+	英	['ɑːtɪst]
+	美	['ɑːrtɪst]
+222
+artistic
+	英	[ɑː'tɪstɪk]
+	美	[ɑːr'tɪstɪk]
+223
+as
+	英	[əz]
+	美	[əz]
+224
+ash
+	英	[æʃ]
+	美	[æʃ]
+225
+ashamed
+	英	[ə'ʃeɪmd]
+	美	[ə'ʃeɪmd]
+226
+Asia
+	英	['eɪʒə]
+	美	['eɪʒə]
+227
+Asian
+	英	['eɪʃn]
+	美	['eɪʃn]
+228
+aside
+	英	[ə'saɪd]
+	美	[ə'saɪd]
+229
+ask
+	英	[ɑːsk]
+	美	[æsk]
+230
+asleep
+	英	[ə'sliːp]
+	美	[ə'sliːp]
+231
+aspect
+	英	['æspekt]
+	美	['æspekt]
+232
+assemble
+	英	[ə'sembl]
+	美	[ə'sembl]
+233
+assembly
+	英	[ə'sembli]
+	美	[ə'sembli]
+234
+assess
+	英	[ə'ses]
+	美	[ə'ses]
+235
+assign
+	英	[ə'saɪn]
+	美	[ə'saɪn]
+236
+assignment
+	英	[ə'saɪnmənt]
+	美	[ə'saɪnmənt]
+237
+assist
+	英	[ə'sɪst]
+	美	[ə'sɪst]
+238
+assistant
+	英	[ə'sɪstənt]
+	美	[ə'sɪstənt]
+239
+associate
+	英	[ə'səʊʃieɪt]
+	美	[ə'soʊʃieɪt]
+240
+association
+	英	[əˌsəʊʃi'eɪʃn]
+	美	[əˌsoʊʃi'eɪʃn]
+241
+assume
+	英	[ə'sjuːm]
+	美	[ə'suːm]
+242
+assure
+	英	[ə'ʃʊə(r)]
+	美	[ə'ʃʊr]
+243
+astonish
+	英	[ə'stɒnɪʃ]
+	美	[ə'stɑːnɪʃ]
+244
+astronaut
+	英	['æstrənɔːt]
+	美	['æstrənɔːt]
+245
+at
+	英	[ət]
+	美	[ət]
+246
+athlete
+	英	['æθliːt]
+	美	['æθliːt]
+247
+Atlantic
+	英	[æt'læntɪk]
+	美	[æt'læntɪk]
+248
+atmosphere
+	英	['ætməsfɪə(r)]
+	美	['ætməsfɪr]
+249
+atmospheric
+	英	[ˌætməs'ferɪk]
+	美	[ˌætməs'ferɪk]
+250
+atom
+	英	['ætəm]
+	美	['ætəm]
+251
+atomic
+	英	[ə'tɒmɪk]
+	美	[ə'tɑːmɪk]
+252
+attach
+	英	[ə'tætʃ]
+	美	[ə'tætʃ]
+253
+attack
+	英	[ə'tæk]
+	美	[ə'tæk]
+254
+attain
+	英	[ə'teɪn]
+	美	[ə'teɪn]
+255
+attempt
+	英	[ə'tempt]
+	美	[ə'tempt]
+256
+attend
+	英	[ə'tend]
+	美	[ə'tend]
+257
+attention
+	英	[ə'tenʃn]
+	美	[ə'tenʃn]
+258
+attentive
+	英	[ə'tentɪv]
+	美	[ə'tentɪv]
+259
+attitude
+	英	['ætɪtjuːd]
+	美	['ætɪtuːd]
+260
+attract
+	英	[ə'trækt]
+	美	[ə'trækt]
+261
+attraction
+	英	[ə'trækʃn]
+	美	[ə'trækʃn]
+262
+attractive
+	英	[ə'træktɪv]
+	美	[ə'træktɪv]
+263
+attribute
+	英	['ætrɪbjuːt]
+	美	['ætrɪbjuːt]
+264
+audience
+	英	['ɔːdiəns]
+	美	['ɔːdiəns]
+265
+August
+	英	['ɔːɡəst]
+	美	['ɔːɡəst]
+266
+aunt
+	英	[ɑːnt]
+	美	[ænt]
+267
+aural
+	英	['ɔːrəl]
+	美	['ɔːrəl]
+268
+Australia
+	英	[ɒ'streɪlɪə]
+	美	[ɔ'streljə]
+269
+Australian
+	英	[ɒ'streɪliən]
+	美	[ɔː'streɪliən]
+270
+author
+	英	['ɔːθə(r)]
+	美	['ɔːθər]
+271
+authority
+	英	[ɔː'θɒrəti]
+	美	[ə'θɔːrəti]
+272
+auto
+	英	['ɔːtəʊ]
+	美	['ɔːtoʊ]
+273
+automatic
+	英	[ˌɔːtə'mætɪk]
+	美	[ˌɔːtə'mætɪk]
+274
+automation
+	英	[ˌɔːtə'meɪʃn]
+	美	[ˌɔːtə'meɪʃn]
+275
+automobile
+	英	['ɔːtəməbiːl]
+	美	['ɔːtəməbiːl]
+276
+autumn
+	英	['ɔːtəm]
+	美	['ɔːtəm]
+277
+auxiliary
+	英	[ɔːɡ'zɪliəri]
+	美	[ɔːɡ'zɪliəri]
+278
+available
+	英	[ə'veɪləbl]
+	美	[ə'veɪləbl]
+279
+avenue
+	英	['ævənjuː]
+	美	['ævənuː]
+280
+average
+	英	['ævərɪdʒ]
+	美	['ævərɪdʒ]
+281
+aviation
+	英	[ˌeɪvi'eɪʃn]
+	美	[ˌeɪvi'eɪʃn]
+282
+avoid
+	英	[ə'vɔɪd]
+	美	[ə'vɔɪd]
+283
+await
+	英	[ə'weɪt]
+	美	[ə'weɪt]
+284
+awake
+	英	[ə'weɪk]
+	美	[ə'weɪk]
+285
+award
+	英	[ə'wɔːd]
+	美	[ə'wɔːrd]
+286
+aware
+	英	[ə'weə(r)]
+	美	[ə'wer]
+287
+away
+	英	[ə'weɪ]
+	美	[ə'weɪ]
+288
+awful
+	英	['ɔːfl]
+	美	['ɔːfl]
+289
+awfully
+	英	['ɔːfli]
+	美	['ɔːfli]
+290
+awkward
+	英	['ɔːkwəd]
+	美	['ɔːkwərd]
+291
+ax
+	英	[æks]
+	美	[æks]
+292
+axis
+	英	['æksɪs]
+	美	['æksɪs]
+293
+baby
+	英	['beɪbi]
+	美	['beɪbi]
+294
+back
+	英	[bæk]
+	美	[bæk]
+295
+background
+	英	['bækɡraʊnd]
+	美	['bækɡraʊnd]
+296
+backward
+	英	['bækwəd]
+	美	['bækwərd]
+297
+bacteria
+	英	[bæk'tɪəriə]
+	美	[bæk'tɪriə]
+298
+bad
+	英	[bæd]
+	美	[bæd]
+299
+badly
+	英	['bædli]
+	美	['bædli]
+300
+badminton
+	英	['bædmɪntən]
+	美	['bædmɪntən]
+301
+bag
+	英	[bæɡ]
+	美	[bæɡ]
+302
+baggage
+	英	['bæɡɪdʒ]
+	美	['bæɡɪdʒ]
+303
+bake
+	英	[beɪk]
+	美	[beɪk]
+304
+balance
+	英	['bæləns]
+	美	['bæləns]
+305
+ball
+	英	[bɔːl]
+	美	[bɔːl]
+306
+balloon
+	英	[bə'luːn]
+	美	[bə'luːn]
+307
+banana
+	英	[bə'nɑːnə]
+	美	[bə'nænə]
+308
+band
+	英	[bænd]
+	美	[bænd]
+309
+bang
+	英	[bæŋ]
+	美	[bæŋ]
+310
+bank
+	英	[bæŋk]
+	美	[bæŋk]
+311
+banner
+	英	['bænə(r)]
+	美	['bænər]
+312
+bar
+	英	[bɑː(r)]
+	美	[bɑːr]
+313
+barber
+	英	['bɑːbə(r)]
+	美	['bɑːrbər]
+314
+bare
+	英	[beə(r)]
+	美	[ber]
+315
+bargain
+	英	['bɑːgɪn]
+	美	['bɑːrɡən]
+316
+bark
+	英	[bɑːk]
+	美	[bɑːrk]
+317
+barn
+	英	[bɑːn]
+	美	[bɑːrn]
+318
+barrel
+	英	['bærəl]
+	美	['bærəl]
+319
+barrier
+	英	['bæriə(r)]
+	美	['bæriər]
+320
+base
+	英	[beɪs]
+	美	[beɪs]
+321
+basic
+	英	['beɪsɪk]
+	美	['beɪsɪk]
+322
+basically
+	英	['beɪsɪkli]
+	美	['beɪsɪkli]
+323
+basin
+	英	['beɪsn]
+	美	['beɪsn]
+324
+basis
+	英	['beɪsɪs]
+	美	['beɪsɪs]
+325
+basket
+	英	['bɑːskɪt]
+	美	['bæskɪt]
+326
+basketball
+	英	['bɑːskɪtbɔːl]
+	美	['bæskɪtbɔːl]
+327
+bat
+	英	[bæt]
+	美	[bæt]
+328
+bath
+	英	[bɑːθ]
+	美	[bæθ]
+329
+bathe
+	英	[beɪð]
+	美	[beɪð]
+330
+bathroom
+	英	['bɑːθruːm]
+	美	['bæθruːm]
+331
+battery
+	英	['bætərɪ]
+	美	['bætəri]
+332
+battle
+	英	['bætl]
+	美	['bætl]
+333
+bay
+	英	[beɪ]
+	美	[beɪ]
+334
+be
+	英	[bi]
+	美	[bi]
+335
+beach
+	英	[biːtʃ]
+	美	[biːtʃ]
+336
+beam
+	英	[biːm]
+	美	[biːm]
+337
+bean
+	英	[biːn]
+	美	[biːn]
+338
+bear
+	英	[beə(r)]
+	美	[ber]
+339
+beard
+	英	[bɪəd]
+	美	[bɪrd]
+340
+beast
+	英	[biːst]
+	美	[biːst]
+341
+beat
+	英	[biːt]
+	美	[biːt]
+342
+beautiful
+	英	['bjuːtɪfl]
+	美	['bjuːtɪfl]
+343
+beauty
+	英	['bjuːti]
+	美	['bjuːti]
+344
+because
+	英	[bɪ'kɒz]
+	美	[bɪ'kɔːz]
+345
+become
+	英	[bɪ'kʌm]
+	美	[bɪ'kʌm]
+346
+bed
+	英	[bed]
+	美	[bed]
+347
+bee
+	英	[biː]
+	美	[biː]
+348
+beef
+	英	[biːf]
+	美	[biːf]
+349
+beer
+	英	[bɪə(r)]
+	美	[bɪr]
+350
+before
+	英	[bɪ'fɔː(r)]
+	美	[bɪ'fɔːr]
+351
+beg
+	英	[beɡ]
+	美	[beɡ]
+352
+beggar
+	英	['beɡə(r)]
+	美	['beɡər]
+353
+begin
+	英	[bɪ'ɡɪn]
+	美	[bɪ'ɡɪn]
+354
+beginner
+	英	[bɪ'ɡɪnə(r)]
+	美	[bɪ'ɡɪnər]
+355
+beginning
+	英	[bɪ'ɡɪnɪŋ]
+	美	[bɪ'ɡɪnɪŋ]
+356
+behalf
+	英	[bɪ'hɑːf]
+	美	[bɪ'hæf]
+357
+behave
+	英	[bɪ'heɪv]
+	美	[bɪ'heɪv]
+358
+behavior
+	英	[bɪ'heɪvjə]
+	美	[bɪ'heɪvjə]
+359
+behind
+	英	[bɪ'haɪnd]
+	美	[bɪ'haɪnd]
+360
+being
+	英	['biːɪŋ]
+	美	['biːɪŋ]
+361
+belief
+	英	[bɪ'liːf]
+	美	[bɪ'liːf]
+362
+believe
+	英	[bɪ'liːv]
+	美	[bɪ'liːv]
+363
+bell
+	英	[bel]
+	美	[bel]
+364
+belong
+	英	[bɪ'lɒŋ]
+	美	[bɪ'lɔːŋ]
+365
+beloved
+	英	[bɪ'lʌvd]
+	美	[bɪ'lʌvd]
+366
+below
+	英	[bɪ'ləʊ]
+	美	[bɪ'loʊ]
+367
+belt
+	英	[belt]
+	美	[belt]
+368
+bench
+	英	[bentʃ]
+	美	[bentʃ]
+369
+bend
+	英	[bend]
+	美	[bend]
+370
+beneath
+	英	[bɪ'niːθ]
+	美	[bɪ'niːθ]
+371
+beneficial
+	英	[ˌbenɪ'fɪʃl]
+	美	[ˌbenɪ'fɪʃl]
+372
+benefit
+	英	['benɪfɪt]
+	美	['benɪfɪt]
+373
+berry
+	英	['beri]
+	美	['beri]
+374
+beside
+	英	[bɪ'saɪd]
+	美	[bɪ'saɪd]
+375
+besides
+	英	[bɪ'saɪdz]
+	美	[bɪ'saɪdz]
+376
+best
+	英	[best]
+	美	[best]
+377
+bet
+	英	[bet]
+	美	[bet]
+378
+betray
+	英	[bɪ'treɪ]
+	美	[bɪ'treɪ]
+379
+better
+	英	['betə(r)]
+	美	['betər]
+380
+between
+	英	[bɪ'twiːn]
+	美	[bɪ'twiːn]
+381
+beyond
+	英	[bɪ'jɒnd]
+	美	[bɪ'jɑːnd]
+382
+Bible
+	英	['baɪbl]
+	美	['baɪbl]
+383
+bicycle
+	英	['baɪsɪkl]
+	美	['baɪsɪkl]
+384
+big
+	英	[bɪɡ]
+	美	[bɪɡ]
+385
+bike
+	英	[baɪk]
+	美	[baɪk]
+386
+bill
+	英	[bɪl]
+	美	[bɪl]
+387
+billion
+	英	['bɪljən]
+	美	['bɪljən]
+388
+bind
+	英	[baɪnd]
+	美	[baɪnd]
+389
+biology
+	英	[baɪ'ɒlədʒi]
+	美	[baɪ'ɑːlədʒi]
+390
+bird
+	英	[bɜːd]
+	美	[bɜːrd]
+391
+birth
+	英	[bɜːθ]
+	美	[bɜːrθ]
+392
+birthday
+	英	['bɜːθdeɪ]
+	美	['bɜːrθdeɪ]
+393
+biscuit
+	英	['bɪskɪt]
+	美	['bɪskɪt]
+394
+bit
+	英	[bɪt]
+	美	[bɪt]
+395
+bite
+	英	[baɪt]
+	美	[baɪt]
+396
+bitter
+	英	['bɪtə(r)]
+	美	['bɪtər]
+397
+bitterly
+	英	['bɪtəli]
+	美	['bɪtərli]
+398
+black
+	英	[blæk]
+	美	[blæk]
+399
+blackboard
+	英	['blækbɔːd]
+	美	['blækbɔːrd]
+400
+blade
+	英	[bleɪd]
+	美	[bleɪd]
+401
+blame
+	英	[bleɪm]
+	美	[bleɪm]
+402
+blank
+	英	[blæŋk]
+	美	[blæŋk]
+403
+blanket
+	英	['blæŋkɪt]
+	美	['blæŋkɪt]
+404
+blast
+	英	[blɑːst]
+	美	[blæst]
+405
+blaze
+	英	[bleɪz]
+	美	[bleɪz]
+406
+bleed
+	英	[bliːd]
+	美	[bliːd]
+407
+blend
+	英	[blend]
+	美	[blend]
+408
+bless
+	英	[bles]
+	美	[bles]
+409
+blind
+	英	[blaɪnd]
+	美	[blaɪnd]
+410
+block
+	英	[blɒk]
+	美	[blɑːk]
+411
+blood
+	英	[blʌd]
+	美	[blʌd]
+412
+bloom
+	英	[bluːm]
+	美	[bluːm]
+413
+blossom
+	英	['blɒsəm]
+	美	['blɑːsəm]
+414
+blow
+	英	[bləʊ]
+	美	[bloʊ]
+415
+blue
+	英	[bluː]
+	美	[bluː]
+416
+board
+	英	[bɔːd]
+	美	[bɔːrd]
+417
+boast
+	英	[bəʊst]
+	美	[boʊst]
+418
+boat
+	英	[bəʊt]
+	美	[boʊt]
+419
+body
+	英	['bɒdi]
+	美	['bɑːdi]
+420
+boil
+	英	[bɔɪl]
+	美	[bɔɪl]
+421
+bold
+	英	[bəʊld]
+	美	[boʊld]
+422
+bolt
+	英	[bəʊlt]
+	美	[boʊlt]
+423
+bomb
+	英	[bɒm]
+	美	[bɑːm]
+424
+bond
+	英	[bɒnd]
+	美	[bɑːnd]
+425
+bone
+	英	[bəʊn]
+	美	[boʊn]
+426
+book
+	英	[bʊk]
+	美	[bʊk]
+427
+boot
+	英	[buːt]
+	美	[buːt]
+428
+booth
+	英	[buːð]
+	美	[buːθ]
+429
+border
+	英	['bɔːdə(r)]
+	美	['bɔːrdər]
+430
+bore
+	英	[bɔː(r)]
+	美	[bɔːr]
+431
+born
+	英	[bɔːn]
+	美	[bɔːrn]
+432
+borrow
+	英	['bɒrəʊ]
+	美	['bɑːroʊ]
+433
+bosom
+	英	['bʊzəm]
+	美	['bʊzəm]
+434
+boss
+	英	[bɒs]
+	美	[bɔːs]
+435
+both
+	英	[bəʊθ]
+	美	[boʊθ]
+436
+bother
+	英	['bɒðə(r)]
+	美	['bɑːðər]
+437
+bottle
+	英	['bɒtl]
+	美	['bɑːtl]
+438
+bottom
+	英	['bɒtəm]
+	美	['bɑːtəm]
+439
+bough
+	英	[baʊ]
+	美	[baʊ]
+440
+bounce
+	英	[baʊns]
+	美	[baʊns]
+441
+bound
+	英	[baʊnd]
+	美	[baʊnd]
+442
+boundary
+	英	['baʊndri]
+	美	['baʊndri]
+443
+bow
+	英	[baʊ]
+	美	[baʊ]
+444
+bowl
+	英	[bəʊl]
+	美	[boʊl]
+445
+box
+	英	[bɒks]
+	美	[bɑːks]
+446
+boy
+	英	[bɔɪ]
+	美	[bɔɪ]
+447
+brain
+	英	[breɪn]
+	美	[breɪn]
+448
+brake
+	英	[breɪk]
+	美	[breɪk]
+449
+branch
+	英	[brɑːntʃ]
+	美	[bræntʃ]
+450
+brand
+	英	[brænd]
+	美	[brænd]
+451
+brandy
+	英	['brændi]
+	美	['brændi]
+452
+brass
+	英	[brɑːs]
+	美	[bræs]
+453
+brave
+	英	[breɪv]
+	美	[breɪv]
+454
+bread
+	英	[bred]
+	美	[bred]
+455
+breadth
+	英	[bredθ]
+	美	[bredθ]
+456
+break
+	英	[breɪk]
+	美	[breɪk]
+457
+breakfast
+	英	['brekfəst]
+	美	['brekfəst]
+458
+breast
+	英	[brest]
+	美	[brest]
+459
+breath
+	英	[breθ]
+	美	[breθ]
+460
+breathe
+	英	[briːð]
+	美	[briːð]
+461
+breed
+	英	[briːd]
+	美	[briːd]
+462
+breeze
+	英	[briːz]
+	美	[briːz]
+463
+brick
+	英	[brɪk]
+	美	[brɪk]
+464
+bridge
+	英	[brɪdʒ]
+	美	[brɪdʒ]
+465
+brief
+	英	[briːf]
+	美	[briːf]
+466
+bright
+	英	[braɪt]
+	美	[braɪt]
+467
+brighten
+	英	['braɪtn]
+	美	['braɪtn]
+468
+brilliant
+	英	['brɪljənt]
+	美	['brɪljənt]
+469
+brim
+	英	[brɪm]
+	美	[brɪm]
+470
+bring
+	英	[brɪŋ]
+	美	[brɪŋ]
+471
+brisk
+	英	[brɪsk]
+	美	[brɪsk]
+472
+bristle
+	英	['brɪsl]
+	美	['brɪsl]
+473
+Britain
+	英	['brɪtn]
+	美	['brɪtn]
+474
+British
+	英	['brɪtɪʃ]
+	美	['brɪtɪʃ]
+475
+brittle
+	英	['brɪtl]
+	美	['brɪtl]
+476
+broad
+	英	[brɔːd]
+	美	[brɔːd]
+477
+broadcast
+	英	['brɔːdkɑːst]
+	美	['brɔːdkæst]
+478
+broken
+	英	['brəʊkən]
+	美	['broʊkən]
+479
+bronze
+	英	[brɒnz]
+	美	[brɑːnz]
+480
+brood
+	英	[bruːd]
+	美	[bruːd]
+481
+brook
+	英	[brʊk]
+	美	[brʊk]
+482
+broom
+	英	[bruːm]
+	美	[bruːm]
+483
+brother
+	英	['brʌðə(r)]
+	美	['brʌðər]
+484
+brow
+	英	[braʊ]
+	美	[braʊ]
+485
+brown
+	英	[braʊn]
+	美	[braʊn]
+486
+bruise
+	英	[bruːz]
+	美	[bruːz]
+487
+brush
+	英	[brʌʃ]
+	美	[brʌʃ]
+488
+brute
+	英	[bruːt]
+	美	[bruːt]
+489
+bubble
+	英	['bʌbl]
+	美	['bʌbl]
+490
+bucket
+	英	['bʌkɪt]
+	美	['bʌkɪt]
+491
+bud
+	英	[bʌd]
+	美	[bʌd]
+492
+build
+	英	[bɪld]
+	美	[bɪld]
+493
+building
+	英	['bɪldɪŋ]
+	美	['bɪldɪŋ]
+494
+bulb
+	英	[bʌlb]
+	美	[bʌlb]
+495
+bulk
+	英	[bʌlk]
+	美	[bʌlk]
+496
+bull
+	英	[bʊl]
+	美	[bʊl]
+497
+bullet
+	英	['bʊlɪt]
+	美	['bʊlɪt]
+498
+bunch
+	英	[bʌntʃ]
+	美	[bʌntʃ]
+499
+bundle
+	英	['bʌndl]
+	美	['bʌndl]
+500
+burden
+	英	['bɜːdn]
+	美	['bɜːrdn]
+501
+bureau
+	英	['bjʊərəʊ]
+	美	['bjʊroʊ]
+502
+burn
+	英	[bɜːn]
+	美	[bɜːrn]
+503
+burst
+	英	[bɜːst]
+	美	[bɜːrst]
+504
+bury
+	英	['beri]
+	美	['beri]
+505
+bus
+	英	[bʌs]
+	美	[bʌs]
+506
+bush
+	英	[bʊʃ]
+	美	[bʊʃ]
+507
+business
+	英	['bɪznəs]
+	美	['bɪznəs]
+508
+busy
+	英	['bɪzi]
+	美	['bɪzi]
+509
+but
+	英	[bət]
+	美	[bət]
+510
+butcher
+	英	['bʊtʃə(r)]
+	美	['bʊtʃər]
+511
+butter
+	英	['bʌtə(r)]
+	美	['bʌtər]
+512
+butterfly
+	英	['bʌtəflaɪ]
+	美	['bʌtərflaɪ]
+513
+button
+	英	['bʌtn]
+	美	['bʌtn]
+514
+buy
+	英	[baɪ]
+	美	[baɪ]
+515
+by
+	英	[baɪ]
+	美	[baɪ]
+516
+cabbage
+	英	['kæbɪdʒ]
+	美	['kæbɪdʒ]
+517
+cabin
+	英	['kæbɪn]
+	美	['kæbɪn]
+518
+cabinet
+	英	['kæbɪnət]
+	美	['kæbɪnət]
+519
+cable
+	英	['keɪbl]
+	美	['keɪbl]
+520
+cafe
+	英	['kæfeɪ]
+	美	[kæ'feɪ]
+521
+cafeteria
+	英	[ˌkæfə'tɪəriə]
+	美	[ˌkæfə'tɪriə]
+522
+cage
+	英	[keɪdʒ]
+	美	[keɪdʒ]
+523
+cake
+	英	[keɪk]
+	美	[keɪk]
+524
+calculate
+	英	['kælkjuleɪt]
+	美	['kælkjuleɪt]
+525
+calculation
+	英	[ˌkælkju'leɪʃn]
+	美	[ˌkælkju'leɪʃn]
+526
+calculator
+	英	['kælkjuleɪtə(r)]
+	美	['kælkjuleɪtər]
+527
+calendar
+	英	['kælɪndə(r)]
+	美	['kælɪndər]
+528
+call
+	英	[kɔːl]
+	美	[kɔːl]
+529
+calm
+	英	[kɑːm]
+	美	[kɑːm]
+530
+camel
+	英	['kæml]
+	美	['kæml]
+531
+camera
+	英	['kæmərə]
+	美	['kæmərə]
+532
+camp
+	英	[kæmp]
+	美	[kæmp]
+533
+campaign
+	英	[kæm'peɪn]
+	美	[kæm'peɪn]
+534
+campus
+	英	['kæmpəs]
+	美	['kæmpəs]
+535
+can
+	英	[kæn]
+	美	[kæn]
+536
+Canada
+	英	['kænədə]
+	美	['kænədə]
+537
+Canadian
+	英	[kə'neɪdiən]
+	美	[kə'neɪdiən]
+538
+canal
+	英	[kə'næl]
+	美	[kə'næl]
+539
+cancel
+	英	['kænsl]
+	美	['kænsl]
+540
+cancer
+	英	['kænsə(r)]
+	美	['kænsər]
+541
+candidate
+	英	['kændɪdət]
+	美	['kændɪdət]
+542
+candle
+	英	['kændl]
+	美	['kændl]
+543
+candy
+	英	['kændi]
+	美	['kændi]
+544
+cannon
+	英	['kænən]
+	美	['kænən]
+545
+canoe
+	英	[kə'nuː]
+	美	[kə'nuː]
+546
+canteen
+	英	[kæn'tiːn]
+	美	[kæn'tiːn]
+547
+canvas
+	英	['kænvəs]
+	美	['kænvəs]
+548
+cap
+	英	[kæp]
+	美	[kæp]
+549
+capable
+	英	['keɪpəbl]
+	美	['keɪpəbl]
+550
+capacity
+	英	[kə'pæsəti]
+	美	[kə'pæsəti]
+551
+capital
+	英	['kæpɪtl]
+	美	['kæpɪtl]
+552
+captain
+	英	['kæptɪn]
+	美	['kæptɪn]
+553
+captive
+	英	['kæptɪv]
+	美	['kæptɪv]
+554
+capture
+	英	['kæptʃə(r)]
+	美	['kæptʃər]
+555
+car
+	英	[kɑː(r)]
+	美	[kɑːr]
+556
+carbon
+	英	['kɑːbən]
+	美	['kɑːrbən]
+557
+card
+	英	[kɑːd]
+	美	[kɑːrd]
+558
+care
+	英	[keə(r)]
+	美	[ker]
+559
+career
+	英	[kə'rɪə(r)]
+	美	[kə'rɪr]
+560
+careful
+	英	['keəfl]
+	美	['kerfl]
+561
+careless
+	英	['keələs]
+	美	['kerləs]
+562
+cargo
+	英	['kɑːɡəʊ]
+	美	['kɑːrɡoʊ]
+563
+carpenter
+	英	['kɑːpəntə(r)]
+	美	['kɑːrpəntər]
+564
+carpet
+	英	['kɑːpɪt]
+	美	['kɑːrpɪt]
+565
+carriage
+	英	['kærɪdʒ]
+	美	['kærɪdʒ]
+566
+carrier
+	英	['kæriə(r)]
+	美	['kæriər]
+567
+carrot
+	英	['kærət]
+	美	['kærət]
+568
+carry
+	英	['kæri]
+	美	['kæri]
+569
+cart
+	英	[kɑːt]
+	美	[kɑːrt]
+570
+carve
+	英	[kɑːv]
+	美	[kɑːrv]
+571
+case
+	英	[keɪs]
+	美	[keɪs]
+572
+cash
+	英	[kæʃ]
+	美	[kæʃ]
+573
+cassette
+	英	[kə'set]
+	美	[kə'set]
+574
+cast
+	英	[kɑːst]
+	美	[kæst]
+575
+castle
+	英	['kɑːsl]
+	美	['kæsl]
+576
+casual
+	英	['kæʒuəl]
+	美	['kæʒuəl]
+577
+cat
+	英	[kæt]
+	美	[kæt]
+578
+catalog
+	英	['kætəlɔːg]
+	美	['kætəlɔːg]
+579
+catch
+	英	[kætʃ]
+	美	[kætʃ]
+580
+cathedral
+	英	[kə'θiːdrəl]
+	美	[kə'θiːdrəl]
+581
+cattle
+	英	['kætl]
+	美	['kætl]
+582
+cause
+	英	[kɔːz]
+	美	[kɔːz]
+583
+cave
+	英	[keɪv]
+	美	[keɪv]
+584
+cease
+	英	[siːs]
+	美	[siːs]
+585
+ceiling
+	英	['siːlɪŋ]
+	美	['siːlɪŋ]
+586
+celebrate
+	英	['selɪbreɪt]
+	美	['selɪbreɪt]
+587
+cell
+	英	[sel]
+	美	[sel]
+588
+cellar
+	英	['selə(r)]
+	美	['selər]
+589
+cement
+	英	[sɪ'ment]
+	美	[sɪ'ment]
+590
+cent
+	英	[sent]
+	美	[sent]
+591
+centigrade
+	英	['sentɪɡreɪd]
+	美	['sentɪɡreɪd]
+592
+centimetre
+	英	['sentɪmiːtə(r)]
+	美	['sentɪmiːtər]
+593
+central
+	英	['sentrəl]
+	美	['sentrəl]
+594
+centre
+	英	['sentə(r)]
+	美	['sentər]
+595
+century
+	英	['sentʃəri]
+	美	['sentʃəri]
+596
+ceremony
+	英	['serəməni]
+	美	['serəmoʊni]
+597
+certain
+	英	['sɜːtn]
+	美	['sɜːrtn]
+598
+certainly
+	英	['sɜːtnli]
+	美	['sɜːrtnli]
+599
+certainty
+	英	['sɜːtnti]
+	美	['sɜːrtnti]
+600
+certificate
+	英	[sə'tɪfɪkət]
+	美	[sər'tɪfɪkət]
+601
+chain
+	英	[tʃeɪn]
+	美	[tʃeɪn]
+602
+chair
+	英	[tʃeə(r)]
+	美	[tʃer]
+603
+chairman
+	英	['tʃeəmən]
+	美	['tʃermən]
+604
+chalk
+	英	[tʃɔːk]
+	美	[tʃɔːk]
+605
+challenge
+	英	['tʃælɪndʒ]
+	美	['tʃælɪndʒ]
+606
+chamber
+	英	['tʃeɪmbə(r)]
+	美	['tʃeɪmbər]
+607
+champion
+	英	['tʃæmpiən]
+	美	['tʃæmpiən]
+608
+chance
+	英	[tʃɑːns]
+	美	[tʃæns]
+609
+change
+	英	[tʃeɪndʒ]
+	美	[tʃeɪndʒ]
+610
+channel
+	英	['tʃænl]
+	美	['tʃænl]
+611
+chapter
+	英	['tʃæptə(r)]
+	美	['tʃæptər]
+612
+character
+	英	['kærəktə(r)]
+	美	['kærəktər]
+613
+characteristic
+	英	[ˌkærəktə'rɪstɪk]
+	美	[ˌkærəktə'rɪstɪk]
+614
+charge
+	英	[tʃɑːdʒ]
+	美	[tʃɑːrdʒ]
+615
+charity
+	英	['tʃærəti]
+	美	['tʃærəti]
+616
+charming
+	英	['tʃɑːmɪŋ]
+	美	['tʃɑːrmɪŋ]
+617
+chart
+	英	[tʃɑːt]
+	美	[tʃɑːrt]
+618
+chase
+	英	[tʃeɪs]
+	美	[tʃeɪs]
+619
+cheap
+	英	[tʃiːp]
+	美	[tʃiːp]
+620
+cheat
+	英	[tʃiːt]
+	美	[tʃiːt]
+621
+check
+	英	[tʃek]
+	美	[tʃɛk]
+622
+cheek
+	英	[tʃiːk]
+	美	[tʃiːk]
+623
+cheer
+	英	[tʃɪə(r)]
+	美	[tʃɪr]
+624
+cheerful
+	英	['tʃɪəfl]
+	美	['tʃɪrfl]
+625
+cheese
+	英	[tʃiːz]
+	美	[tʃiːz]
+626
+chemical
+	英	['kemɪkl]
+	美	['kemɪkl]
+627
+chemist
+	英	['kemɪst]
+	美	['kemɪst]
+628
+chemistry
+	英	['kemɪstri]
+	美	['kemɪstri]
+629
+cheque
+	英	[tʃek]
+	美	[tʃek]
+630
+cherry
+	英	['tʃeri]
+	美	['tʃeri]
+631
+chess
+	英	[tʃes]
+	美	[tʃes]
+632
+chest
+	英	[tʃest]
+	美	[tʃest]
+633
+chew
+	英	[tʃuː]
+	美	[tʃuː]
+634
+chicken
+	英	['tʃɪkɪn]
+	美	['tʃɪkɪn]
+635
+chief
+	英	[tʃiːf]
+	美	[tʃiːf]
+636
+child
+	英	[tʃaɪld]
+	美	[tʃaɪld]
+637
+childhood
+	英	['tʃaɪldhʊd]
+	美	['tʃaɪldhʊd]
+638
+childish
+	英	['tʃaɪldɪʃ]
+	美	['tʃaɪldɪʃ]
+639
+chill
+	英	[tʃɪl]
+	美	[tʃɪl]
+640
+chimney
+	英	['tʃɪmni]
+	美	['tʃɪmni]
+641
+chin
+	英	[tʃɪn]
+	美	[tʃɪn]
+642
+china
+	英	['tʃaɪnə]
+	美	['tʃaɪnə]
+643
+Chinese
+	英	[ˌtʃaɪ'niːz]
+	美	[ˌtʃaɪ'niːz]
+644
+chocolate
+	英	['tʃɒklət]
+	美	['tʃɑːklət]
+645
+choice
+	英	[tʃɔɪs]
+	美	[tʃɔɪs]
+646
+choke
+	英	[tʃəʊk]
+	美	[tʃoʊk]
+647
+choose
+	英	[tʃuːz]
+	美	[tʃuːz]
+648
+chop
+	英	[tʃɒp]
+	美	[tʃɑːp]
+649
+Christian
+	英	['krɪstʃən]
+	美	['krɪstʃən]
+650
+Christmas
+	英	['krɪsməs]
+	美	['krɪsməs]
+651
+church
+	英	[tʃɜːtʃ]
+	美	[tʃɜːrtʃ]
+652
+cigaret
+	英	[ˌsɪgə'ret]
+	美	[ˌsɪgə'ret]
+653
+cinema
+	英	['sɪnəmə]
+	美	['sɪnəmə]
+654
+circle
+	英	['sɜːkl]
+	美	['sɜːrkl]
+655
+circuit
+	英	['sɜːkɪt]
+	美	['sɜːrkɪt]
+656
+circular
+	英	['sɜːkjələ(r)]
+	美	['sɜːrkjələr]
+657
+circulate
+	英	['sɜːkjəleɪt]
+	美	['sɜːrkjəleɪt]
+658
+circumference
+	英	[sə'kʌmfərəns]
+	美	[sər'kʌmfərəns]
+659
+circumstance
+	英	['sɜːkəmstəns]
+	美	['sɜːrkəmstæns]
+660
+citizen
+	英	['sɪtɪzn]
+	美	['sɪtɪzn]
+661
+city
+	英	['sɪti]
+	美	['sɪti]
+662
+civil
+	英	['sɪvl]
+	美	['sɪvl]
+663
+civilization
+	英	[ˌsɪvəlaɪ'zeɪʃn]
+	美	[ˌsɪvələ'zeɪʃn]
+664
+civilize
+	英	['sɪvəlaɪz]
+	美	['sɪvəlaɪz]
+665
+claim
+	英	[kleɪm]
+	美	[kleɪm]
+666
+clap
+	英	[klæp]
+	美	[klæp]
+667
+clarify
+	英	['klærəfaɪ]
+	美	['klærəfaɪ]
+668
+clasp
+	英	[klɑːsp]
+	美	[klæsp]
+669
+class
+	英	[klɑːs]
+	美	[klæs]
+670
+classical
+	英	['klæsɪkl]
+	美	['klæsɪkl]
+671
+classification
+	英	[ˌklæsɪfɪ'keɪʃn]
+	美	[ˌklæsɪfɪ'keɪʃn]
+672
+classify
+	英	['klæsɪfaɪ]
+	美	['klæsɪfaɪ]
+673
+classmate
+	英	['klɑːsmeɪt]
+	美	['klæsmeɪt]
+674
+classroom
+	英	['klɑːsruːm]
+	美	['klæsruːm]
+675
+claw
+	英	[klɔː]
+	美	[klɔː]
+676
+clay
+	英	[kleɪ]
+	美	[kleɪ]
+677
+clean
+	英	[kliːn]
+	美	[kliːn]
+678
+clear
+	英	[klɪə(r)]
+	美	[klɪr]
+679
+clearly
+	英	['klɪəli]
+	美	['klɪrli]
+680
+clerk
+	英	[klɑːk]
+	美	[klɜːrk]
+681
+clever
+	英	['klevə(r)]
+	美	['klevər]
+682
+cliff
+	英	[klɪf]
+	美	[klɪf]
+683
+climate
+	英	['klaɪmət]
+	美	['klaɪmət]
+684
+climb
+	英	[klaɪm]
+	美	[klaɪm]
+685
+cloak
+	英	[kləʊk]
+	美	[kloʊk]
+686
+clock
+	英	[klɒk]
+	美	[klɑːk]
+687
+close
+	英	[kləʊs]
+	美	[kloʊs]
+688
+closely
+	英	['kləʊsli]
+	美	['kləʊsli]
+689
+cloth
+	英	[klɒθ]
+	美	[klɔːθ]
+690
+clothe
+	英	[kləʊð]
+	美	[kloʊð]
+691
+clothes
+	英	[kləʊðz]
+	美	[kloʊðz]
+692
+clothing
+	英	['kləʊðɪŋ]
+	美	['kloʊðɪŋ]
+693
+cloud
+	英	[klaʊd]
+	美	[klaʊd]
+694
+cloudy
+	英	['klaʊdi]
+	美	['klaʊdi]
+695
+club
+	英	[klʌb]
+	美	[klʌb]
+696
+clue
+	英	[kluː]
+	美	[kluː]
+697
+clumsy
+	英	['klʌmzi]
+	美	['klʌmzi]
+698
+coach
+	英	[kəʊtʃ]
+	美	[koʊtʃ]
+699
+coal
+	英	[kəʊl]
+	美	[koʊl]
+700
+coarse
+	英	[kɔːs]
+	美	[kɔːrs]
+701
+coast
+	英	[kəʊst]
+	美	[koʊst]
+702
+coat
+	英	[kəʊt]
+	美	[koʊt]
+703
+cock
+	英	[kɒk]
+	美	[kɑːk]
+704
+code
+	英	[kəʊd]
+	美	[koʊd]
+705
+coffee
+	英	['kɒfi]
+	美	['kɔːfi]
+706
+coil
+	英	[kɔɪl]
+	美	[kɔɪl]
+707
+coin
+	英	[kɔɪn]
+	美	[kɔɪn]
+708
+cold
+	英	[kəʊld]
+	美	[koʊld]
+709
+collapse
+	英	[kə'læps]
+	美	[kə'læps]
+710
+collar
+	英	['kɒlə(r)]
+	美	['kɑːlər]
+711
+colleague
+	英	['kɒliːɡ]
+	美	['kɑːliːɡ]
+712
+collect
+	英	[kə'lekt]
+	美	[kə'lekt]
+713
+collection
+	英	[kə'lekʃn]
+	美	[kə'lekʃn]
+714
+collective
+	英	[kə'lektɪv]
+	美	[kə'lektɪv]
+715
+college
+	英	['kɒlɪdʒ]
+	美	['kɑːlɪdʒ]
+716
+collision
+	英	[kə'lɪʒn]
+	美	[kə'lɪʒn]
+717
+colonel
+	英	['kɜːnl]
+	美	['kɜːrnl]
+718
+colony
+	英	['kɒləni]
+	美	['kɑːləni]
+719
+color
+	英	['kʌlə(r)]
+	美	['kʌlər]
+720
+column
+	英	['kɒləm]
+	美	['kɑːləm]
+721
+comb
+	英	[kəʊm]
+	美	[koʊm]
+722
+combination
+	英	[ˌkɒmbɪ'neɪʃn]
+	美	[ˌkɑːmbɪ'neɪʃn]
+723
+combine
+	英	[kəm'baɪn]
+	美	[kəm'baɪn]
+724
+come
+	英	[kʌm]
+	美	[kʌm]
+725
+comfort
+	英	['kʌmfət]
+	美	['kʌmfərt]
+726
+comfortable
+	英	['kʌmftəbl]
+	美	['kʌmftəbl]
+727
+command
+	英	[kə'mɑːnd]
+	美	[kə'mænd]
+728
+commander
+	英	[kə'mɑːndə(r)]
+	美	[kə'mændər]
+729
+comment
+	英	['kɒment]
+	美	['kɑːment]
+730
+commerce
+	英	['kɒmɜːs]
+	美	['kɑːmɜːrs]
+731
+commercial
+	英	[kə'mɜːʃl]
+	美	[kə'mɜːrʃl]
+732
+commission
+	英	[kə'mɪʃn]
+	美	[kə'mɪʃn]
+733
+commit
+	英	[kə'mɪt]
+	美	[kə'mɪt]
+734
+committee
+	英	[kə'mɪti]
+	美	[kə'mɪti]
+735
+common
+	英	['kɒmən]
+	美	['kɑːmən]
+736
+commonly
+	英	['kɒmənli]
+	美	['kɑːmənli]
+737
+communicate
+	英	[kə'mjuːnɪkeɪt]
+	美	[kə'mjuːnɪkeɪt]
+738
+communication
+	英	[kəˌmjuːnɪ'keɪʃn]
+	美	[kəˌmjuːnɪ'keɪʃn]
+739
+communism
+	英	['kɒmjunɪzəm]
+	美	['kɑːmjunɪzəm]
+740
+communist
+	英	['kɒmjənɪst]
+	美	['kɑːmjənɪst]
+741
+community
+	英	[kə'mjuːnəti]
+	美	[kə'mjuːnəti]
+742
+companion
+	英	[kəm'pæniən]
+	美	[kəm'pæniən]
+743
+company
+	英	['kʌmpəni]
+	美	['kʌmpəni]
+744
+comparative
+	英	[kəm'pærətɪv]
+	美	[kəm'pærətɪv]
+745
+compare
+	英	[kəm'peə(r)]
+	美	[kəm'per]
+746
+comparison
+	英	[kəm'pærɪsn]
+	美	[kəm'pærɪsn]
+747
+compass
+	英	['kʌmpəs]
+	美	['kʌmpəs]
+748
+compel
+	英	[kəm'pel]
+	美	[kəm'pel]
+749
+compete
+	英	[kəm'piːt]
+	美	[kəm'piːt]
+750
+competent
+	英	['kɒmpɪtənt]
+	美	['kɑːmpɪtənt]
+751
+competition
+	英	[ˌkɒmpə'tɪʃn]
+	美	[ˌkɑːmpə'tɪʃn]
+752
+compile
+	英	[kəm'paɪl]
+	美	[kəm'paɪl]
+753
+complain
+	英	[kəm'pleɪn]
+	美	[kəm'pleɪn]
+754
+complaint
+	英	[kəm'pleɪnt]
+	美	[kəm'pleɪnt]
+755
+complete
+	英	[kəm'pliːt]
+	美	[kəm'pliːt]
+756
+completely
+	英	[kəm'pliːtli]
+	美	[kəm'pliːtli]
+757
+complex
+	英	['kɒmpleks]
+	美	[kəm'pleks]
+758
+complicate
+	英	['kɒmplɪkeɪt]
+	美	['kɑːmplɪkeɪt]
+759
+complicated
+	英	['kɒmplɪkeɪtɪd]
+	美	['kɑːmplɪkeɪtɪd]
+760
+component
+	英	[kəm'pəʊnənt]
+	美	[kəm'poʊnənt]
+761
+compose
+	英	[kəm'pəʊz]
+	美	[kəm'poʊz]
+762
+composition
+	英	[ˌkɒmpə'zɪʃn]
+	美	[ˌkɑːmpə'zɪʃn]
+763
+compound
+	英	['kɒmpaʊnd]
+	美	['kɑːmpaʊnd]
+764
+comprehension
+	英	[ˌkɒmprɪ'henʃn]
+	美	[ˌkɑːmprɪ'henʃn]
+765
+comprehensive
+	英	[ˌkɒmprɪ'hensɪv]
+	美	[ˌkɑːmprɪ'hensɪv]
+766
+compress
+	英	['kɒmpres]
+	美	['kɑːmpres]
+767
+comprise
+	英	[kəm'praɪz]
+	美	[kəm'praɪz]
+768
+compromise
+	英	['kɒmprəmaɪz]
+	美	['kɑːmprəmaɪz]
+769
+compute
+	英	[kəm'pjuːt]
+	美	[kəm'pjuːt]
+770
+computer
+	英	[kəm'pjuːtə(r)]
+	美	[kəm'pjuːtər]
+771
+comrade
+	英	['kɒmreɪd]
+	美	['kɑːmræd]
+772
+conceal
+	英	[kən'siːl]
+	美	[kən'siːl]
+773
+concentrate
+	英	['kɒnsntreɪt]
+	美	['kɑːnsntreɪt]
+774
+concentration
+	英	[ˌkɒnsen'treɪʃən]
+	美	[ˌkɒnsen'treɪʃən]
+775
+concept
+	英	['kɒnsept]
+	美	['kɑːnsept]
+776
+concern
+	英	[kən'sɜːn]
+	美	[kən'sɜːrn]
+777
+concerning
+	英	[kən'sɜːnɪŋ]
+	美	[kən'sɜːnɪŋ]
+778
+concert
+	英	['kɒnsət]
+	美	['kɑːnsərt]
+779
+conclude
+	英	[kən'kluːd]
+	美	[kən'kluːd]
+780
+conclusion
+	英	[kən'kluːʒn]
+	美	[kən'kluːʒn]
+781
+concrete
+	英	['kɒŋkriːt]
+	美	['kɑːŋkriːt]
+782
+condemn
+	英	[kən'dem]
+	美	[kən'dem]
+783
+condense
+	英	[kən'dens]
+	美	[kən'dens]
+784
+condition
+	英	[kən'dɪʃn]
+	美	[kən'dɪʃn]
+785
+conduct
+	英	[kən'dʌkt]
+	美	[kən'dʌkt]
+786
+conductor
+	英	[kən'dʌktə(r)]
+	美	[kən'dʌktər]
+787
+conference
+	英	['kɒnfərəns]
+	美	['kɒnfərəns]
+788
+confess
+	英	[kən'fes]
+	美	[kən'fes]
+789
+confidence
+	英	['kɒnfɪdəns]
+	美	['kɑːnfɪdəns]
+790
+confident
+	英	['kɒnfɪdənt]
+	美	['kɒnfədənt]
+791
+confine
+	英	[kən'faɪn]
+	美	[kən'faɪn]
+792
+confirm
+	英	[kən'fɜːm]
+	美	[kən'fɜːrm]
+793
+conflict
+	英	['kɒnflɪkt]
+	美	['kɑːnflɪkt]
+794
+confuse
+	英	[kən'fjuːz]
+	美	[kən'fjuːz]
+795
+confusion
+	英	[kən'fjuːʒən]
+	美	[kən'fjuːʒən]
+796
+congratulate
+	英	[kən'grætjʊˌleɪt]
+	美	[kən'grætʃəˌleɪt]
+797
+congratulation
+	英	[kənˌgrætjʊ'leɪʃən]
+	美	[kənˌgrætʃə'leɪʃən]
+798
+congress
+	英	['kɒŋɡres]
+	美	['kɑːŋɡrəs]
+799
+conjunction
+	英	[kən'dʒʌŋkʃn]
+	美	[kən'dʒʌŋkʃn]
+800
+connect
+	英	[kə'nekt]
+	美	[kə'nekt]
+801
+connection
+	英	[kə'nekʃn]
+	美	[kə'nekʃn]
+802
+conquer
+	英	['kɒŋkə(r)]
+	美	['kɑːŋkər]
+803
+conquest
+	英	['kɒŋkwest]
+	美	['kɑːŋkwest]
+804
+conscience
+	英	['kɒnʃəns]
+	美	['kɑːnʃəns]
+805
+conscious
+	英	['kɒnʃəs]
+	美	['kɑːnʃəs]
+806
+consciousness
+	英	['kɒnʃəsnəs]
+	美	['kɑːnʃəsnəs]
+807
+consent
+	英	[kən'sent]
+	美	[kən'sent]
+808
+consequence
+	英	['kɒnsɪkwəns]
+	美	['kɑːnsəkwens]
+809
+consequently
+	英	['kɒnsɪkwəntli]
+	美	['kɑːnsəkwentli]
+810
+conservation
+	英	[ˌkɒnsə'veɪʃn]
+	美	[ˌkɑːnsər'veɪʃn]
+811
+conservative
+	英	[kən'sɜːvətɪv]
+	美	[kən'sɜːrvətɪv]
+812
+consider
+	英	[kən'sɪdə(r)]
+	美	[kən'sɪdər]
+813
+considerable
+	英	[kən'sɪdərəbl]
+	美	[kən'sɪdərəbl]
+814
+considerate
+	英	[kən'sɪdərət]
+	美	[kən'sɪdərət]
+815
+consideration
+	英	[kənˌsɪdə'reɪʃn]
+	美	[kənˌsɪdə'reɪʃn]
+816
+consist
+	英	[kən'sɪst]
+	美	[kən'sɪst]
+817
+consistent
+	英	[kən'sɪstənt]
+	美	[kən'sɪstənt]
+818
+constant
+	英	['kɒnstənt]
+	美	['kɑːnstənt]
+819
+constitution
+	英	[ˌkɔnstɪ'tjuːʃən]
+	美	[ˌkɒnstə'tjuːʃən]
+820
+construct
+	英	[kən'strʌkt]
+	美	[kən'strʌkt]
+821
+construction
+	英	[kən'strʌkʃn]
+	美	[kən'strʌkʃn]
+822
+consult
+	英	[kən'sʌlt]
+	美	[kən'sʌlt]
+823
+consume
+	英	[kən'sjuːm]
+	美	[kən'suːm]
+824
+consumption
+	英	[kən'sʌmpʃn]
+	美	[kən'sʌmpʃn]
+825
+contact
+	英	['kɒntækt]
+	美	['kɑːntækt]
+826
+contain
+	英	[kən'teɪn]
+	美	[kən'teɪn]
+827
+container
+	英	[kən'teɪnə(r)]
+	美	[kən'teɪnər]
+828
+contemporary
+	英	[kən'temprəri]
+	美	[kən'tempəreri]
+829
+contempt
+	英	[kən'tempt]
+	美	[kən'tempt]
+830
+content
+	英	['kɒntent]
+	美	['kɑːntent]
+831
+contest
+	英	['kɒntest]
+	美	['kɑːntest]
+832
+continent
+	英	['kɒntɪnənt]
+	美	['kɒntɪnənt]
+833
+continual
+	英	[kən'tɪnjuəl]
+	美	[kən'tɪnjuəl]
+834
+continue
+	英	[kən'tɪnjuː]
+	美	[kən'tɪnjuː]
+835
+continuous
+	英	[kən'tɪnjuəs]
+	美	[kən'tɪnjuəs]
+836
+contract
+	英	['kɒntrækt]
+	美	['kɑːntrækt]
+837
+contradiction
+	英	[ˌkɒntrə'dɪkʃn]
+	美	[ˌkɑːntrə'dɪkʃn]
+838
+contrary
+	英	['kɒntrəri]
+	美	['kɑːntreri]
+839
+contrast
+	英	['kɒntrɑːst]
+	美	['kɑːntræst]
+840
+contribute
+	英	[kən'trɪbjuːt]
+	美	[kən'trɪbjuːt]
+841
+control
+	英	[kən'trəʊl]
+	美	[kən'troʊl]
+842
+convenience
+	英	[kən'viːnjəns]
+	美	[kən'viːnjəns]
+843
+convenient
+	英	[kən'viːnjənt]
+	美	[kən'viːnjənt]
+844
+convention
+	英	[kən'venʃn]
+	美	[kən'venʃn]
+845
+conventional
+	英	[kən'venʃənl]
+	美	[kən'venʃənl]
+846
+conversation
+	英	[ˌkɒnvə'seɪʃn]
+	美	[ˌkɑːnvər'seɪʃn]
+847
+conversely
+	英	['kɒnvɜːsli]
+	美	['kɑːnvɜːrsli]
+848
+conversion
+	英	[kən'vɜːʃn]
+	美	[kən'vɜːrʒn]
+849
+convert
+	英	[kən'vɜːt]
+	美	[kən'vɜːrt]
+850
+convey
+	英	[kən'veɪ]
+	美	[kən'veɪ]
+851
+convince
+	英	[kən'vɪns]
+	美	[kən'vɪns]
+852
+cook
+	英	[kʊk]
+	美	[kʊk]
+853
+cool
+	英	[kuːl]
+	美	[kuːl]
+854
+cooperate
+	英	[kəʊ'ɒpəreɪt]
+	美	[koʊ'ɑːpəreɪt]
+855
+coordinate
+	英	[kəʊ'ɔːdɪneɪt]
+	美	[koʊ'ɔːrdɪneɪt]
+856
+cope
+	英	[kəʊp]
+	美	[koʊp]
+857
+copper
+	英	['kɒpə(r)]
+	美	['kɑːpər]
+858
+copy
+	英	['kɒpi]
+	美	['kɑːpi]
+859
+cord
+	英	[kɔːd]
+	美	[kɔːrd]
+860
+cordial
+	英	['kɔːdiəl]
+	美	['kɔːrdʒəl]
+861
+core
+	英	[kɔː(r)]
+	美	[kɔːr]
+862
+corn
+	英	[kɔːn]
+	美	[kɔːrn]
+863
+corner
+	英	['kɔːnə(r)]
+	美	['kɔːrnər]
+864
+corporation
+	英	[ˌkɔːpə'reɪʃn]
+	美	[ˌkɔːrpə'reɪʃn]
+865
+correct
+	英	[kə'rekt]
+	美	[kə'rekt]
+866
+correction
+	英	[kə'rekʃn]
+	美	[kə'rekʃn]
+867
+correspond
+	英	[ˌkɒrə'spɒnd]
+	美	[ˌkɔːrə'spɑːnd]
+868
+correspondent
+	英	[ˌkɒrə'spɒndənt]
+	美	[ˌkɔːrə'spɑːndənt]
+869
+corresponding
+	英	[ˌkɒrə'spɒndɪŋ]
+	美	[ˌkɔːrə'spɑːndɪŋ]
+870
+corridor
+	英	['kɒrɪdɔː(r)]
+	美	['kɔːrɪdɔːr]
+871
+cost
+	英	[kɒst]
+	美	[kɔːst]
+872
+costly
+	英	['kɒstli]
+	美	['kɔːstli]
+873
+cottage
+	英	['kɒtɪdʒ]
+	美	['kɑːtɪdʒ]
+874
+cotton
+	英	['kɒtn]
+	美	['kɑːtn]
+875
+cough
+	英	[kɒf]
+	美	[kɔːf]
+876
+could
+	英	[kəd]
+	美	[kəd]
+877
+council
+	英	['kaʊnsl]
+	美	['kaʊnsl]
+878
+count
+	英	[kaʊnt]
+	美	[kaʊnt]
+879
+counter
+	英	['kaʊntə(r)]
+	美	['kaʊntər]
+880
+country
+	英	['kʌntri]
+	美	['kʌntri]
+881
+countryside
+	英	['kʌntrisaɪd]
+	美	['kʌntrisaɪd]
+882
+county
+	英	['kaʊnti]
+	美	['kaʊnti]
+883
+couple
+	英	['kʌpl]
+	美	['kʌpl]
+884
+courage
+	英	['kʌrɪdʒ]
+	美	['kɜːrɪdʒ]
+885
+course
+	英	[kɔːs]
+	美	[kɔːrs]
+886
+court
+	英	[kɔːt]
+	美	[kɔːrt]
+887
+cousin
+	英	['kʌzn]
+	美	['kʌzn]
+888
+cover
+	英	['kʌvə(r)]
+	美	['kʌvər]
+889
+cow
+	英	[kaʊ]
+	美	[kaʊ]
+890
+coward
+	英	['kaʊəd]
+	美	['kaʊərd]
+891
+crack
+	英	[kræk]
+	美	[kræk]
+892
+craft
+	英	[krɑːft]
+	美	[kræft]
+893
+crane
+	英	[kreɪn]
+	美	[kreɪn]
+894
+crash
+	英	[kræʃ]
+	美	[kræʃ]
+895
+crawl
+	英	[krɔːl]
+	美	[krɔːl]
+896
+crazy
+	英	['kreɪzi]
+	美	['kreɪzi]
+897
+cream
+	英	[kriːm]
+	美	[kriːm]
+898
+create
+	英	[kri'eɪt]
+	美	[kri'eɪt]
+899
+creative
+	英	[kri'eɪtɪv]
+	美	[kri'eɪtɪv]
+900
+creature
+	英	['kriːtʃə(r)]
+	美	['kriːtʃər]
+901
+credit
+	英	['kredɪt]
+	美	['kredɪt]
+902
+creep
+	英	[kriːp]
+	美	[kriːp]
+903
+crew
+	英	[kruː]
+	美	[kruː]
+904
+cricket
+	英	['krɪkɪt]
+	美	['krɪkɪt]
+905
+crime
+	英	[kraɪm]
+	美	[kraɪm]
+906
+criminal
+	英	['krɪmɪnl]
+	美	['krɪmɪnl]
+907
+cripple
+	英	['krɪpl]
+	美	['krɪpl]
+908
+crisis
+	英	['kraɪsɪs]
+	美	['kraɪsɪs]
+909
+critic
+	英	['krɪtɪk]
+	美	['krɪtɪk]
+910
+critical
+	英	['krɪtɪkl]
+	美	['krɪtɪkl]
+911
+criticism
+	英	['krɪtɪsɪzəm]
+	美	['krɪtɪsɪzəm]
+912
+criticize
+	英	['krɪtɪsaɪz]
+	美	['krɪtɪsaɪz]
+913
+crop
+	英	[krɒp]
+	美	[krɑːp]
+914
+cross
+	英	[krɒs]
+	美	[krɔːs]
+915
+crow
+	英	[krəʊ]
+	美	[kroʊ]
+916
+crowd
+	英	[kraʊd]
+	美	[kraʊd]
+917
+crown
+	英	[kraʊn]
+	美	[kraʊn]
+918
+crude
+	英	[kruːd]
+	美	[kruːd]
+919
+cruel
+	英	['kruːəl]
+	美	['kruːəl]
+920
+crush
+	英	[krʌʃ]
+	美	[krʌʃ]
+921
+crust
+	英	[krʌst]
+	美	[krʌst]
+922
+cry
+	英	[kraɪ]
+	美	[kraɪ]
+923
+crystal
+	英	['krɪstl]
+	美	['krɪstl]
+924
+cube
+	英	[kjuːb]
+	美	[kjuːb]
+925
+cubic
+	英	['kjuːbɪk]
+	美	['kjuːbɪk]
+926
+cucumber
+	英	['kjuːkʌmbə(r)]
+	美	['kjuːkʌmbər]
+927
+cultivate
+	英	['kʌltɪveɪt]
+	美	['kʌltɪveɪt]
+928
+culture
+	英	['kʌltʃə(r)]
+	美	['kʌltʃər]
+929
+cunning
+	英	['kʌnɪŋ]
+	美	['kʌnɪŋ]
+930
+cup
+	英	[kʌp]
+	美	[kʌp]
+931
+cupboard
+	英	['kʌbəd]
+	美	['kʌbərd]
+932
+cure
+	英	[kjʊə(r)]
+	美	[kjʊr]
+933
+curiosity
+	英	[ˌkjʊəri'ɒsəti]
+	美	[ˌkjʊri'ɑːsəti]
+934
+curious
+	英	['kjʊəriəs]
+	美	['kjʊriəs]
+935
+curl
+	英	[kɜːl]
+	美	[kɜːrl]
+936
+current
+	英	['kʌrənt]
+	美	['kɜːrənt]
+937
+curse
+	英	[kɜːs]
+	美	[kɜːrs]
+938
+curtain
+	英	['kɜːtn]
+	美	['kɜːrtn]
+939
+curve
+	英	[kɜːv]
+	美	[kɜːrv]
+940
+cushion
+	英	['kʊʃn]
+	美	['kʊʃn]
+941
+custom
+	英	['kʌstəm]
+	美	['kʌstəm]
+942
+customer
+	英	['kʌstəmə(r)]
+	美	['kʌstəmər]
+943
+cut
+	英	[kʌt]
+	美	[kʌt]
+944
+cycle
+	英	['saɪkl]
+	美	['saɪkl]
+945
+daily
+	英	['deɪli]
+	美	['deɪli]
+946
+dairy
+	英	['deəri]
+	美	['deri]
+947
+dam
+	英	[dæm]
+	美	[dæm]
+948
+damage
+	英	['dæmɪdʒ]
+	美	['dæmɪdʒ]
+949
+damp
+	英	[dæmp]
+	美	[dæmp]
+950
+dance
+	英	[dɑːns]
+	美	[dæns]
+951
+danger
+	英	['deɪndʒə(r)]
+	美	['deɪndʒər]
+952
+dangerous
+	英	['deɪndʒərəs]
+	美	['deɪndʒərəs]
+953
+dare
+	英	[deə(r)]
+	美	[der]
+954
+daring
+	英	['deərɪŋ]
+	美	['derɪŋ]
+955
+dark
+	英	[dɑːk]
+	美	[dɑːrk]
+956
+darling
+	英	['dɑːlɪŋ]
+	美	['dɑːrlɪŋ]
+957
+dash
+	英	[dæʃ]
+	美	[dæʃ]
+958
+data
+	英	['deɪtə]
+	美	['deɪtə]
+959
+date
+	英	[deɪt]
+	美	[deɪt]
+960
+daughter
+	英	['dɔːtə(r)]
+	美	['dɔːtər]
+961
+dawn
+	英	[dɔːn]
+	美	[dɔːn]
+962
+day
+	英	[deɪ]
+	美	[deɪ]
+963
+daylight
+	英	['deɪlaɪt]
+	美	['deɪlaɪt]
+964
+dead
+	英	[ded]
+	美	[ded]
+965
+deadly
+	英	['dedli]
+	美	['dedli]
+966
+deaf
+	英	[def]
+	美	[def]
+967
+deal
+	英	[diːl]
+	美	[diːl]
+968
+dear
+	英	[dɪə(r)]
+	美	[dɪr]
+969
+death
+	英	[deθ]
+	美	[deθ]
+970
+debate
+	英	[dɪ'beɪt]
+	美	[dɪ'beɪt]
+971
+debt
+	英	[det]
+	美	[det]
+972
+decade
+	英	['dekeɪd]
+	美	['dekeɪd]
+973
+decay
+	英	[dɪ'keɪ]
+	美	[dɪ'keɪ]
+974
+deceit
+	英	[dɪ'siːt]
+	美	[dɪ'siːt]
+975
+deceive
+	英	[dɪ'siːv]
+	美	[dɪ'siːv]
+976
+December
+	英	[dɪ'sembə(r)]
+	美	[dɪ'sembər]
+977
+decent
+	英	['diːsnt]
+	美	['diːsnt]
+978
+decide
+	英	[dɪ'saɪd]
+	美	[dɪ'saɪd]
+979
+decision
+	英	[dɪ'sɪʒn]
+	美	[dɪ'sɪʒn]
+980
+deck
+	英	[dek]
+	美	[dek]
+981
+declare
+	英	[dɪ'kleə(r)]
+	美	[dɪ'kler]
+982
+decorate
+	英	['dekəreɪt]
+	美	['dekəreɪt]
+983
+decrease
+	英	[dɪ'kriːs]
+	美	[dɪ'kriːs]
+984
+deduce
+	英	[dɪ'djuːs]
+	美	[dɪ'duːs]
+985
+deed
+	英	[diːd]
+	美	[diːd]
+986
+deep
+	英	[diːp]
+	美	[diːp]
+987
+deepen
+	英	['diːpən]
+	美	['diːpən]
+988
+deer
+	英	[dɪə(r)]
+	美	[dɪr]
+989
+defeat
+	英	[dɪ'fiːt]
+	美	[dɪ'fiːt]
+990
+defect
+	英	['diːfekt]
+	美	['diːfekt]
+991
+defence
+	英	[dɪ'fens]
+	美	[dɪ'fens]
+992
+defend
+	英	[dɪ'fend]
+	美	[dɪ'fend]
+993
+define
+	英	[dɪ'faɪn]
+	美	[dɪ'faɪn]
+994
+definite
+	英	['defɪnət]
+	美	['defɪnət]
+995
+definitely
+	英	['defɪnətli]
+	美	['defɪnətli]
+996
+definition
+	英	[ˌdefɪ'nɪʃn]
+	美	[ˌdefɪ'nɪʃn]
+997
+degree
+	英	[dɪ'ɡriː]
+	美	[dɪ'ɡriː]
+998
+delay
+	英	[dɪ'leɪ]
+	美	[dɪ'leɪ]
+999
+delegation
+	英	[ˌdelɪ'ɡeɪʃn]
+	美	[ˌdelɪ'ɡeɪʃn]
+1000
+delete
+	英	[dɪ'liːt]
+	美	[dɪ'liːt]
+1001
+delicate
+	英	['delɪkət]
+	美	['delɪkət]
+1002
+delicious
+	英	[dɪ'lɪʃəs]
+	美	[dɪ'lɪʃəs]
+1003
+delight
+	英	[dɪ'laɪt]
+	美	[dɪ'laɪt]
+1004
+deliver
+	英	[dɪ'lɪvə(r)]
+	美	[dɪ'lɪvər]
+1005
+delivery
+	英	[dɪ'lɪvəri]
+	美	[dɪ'lɪvəri]
+1006
+demand
+	英	[dɪ'mɑːnd]
+	美	[dɪ'mænd]
+1007
+democracy
+	英	[dɪ'mɒkrəsi]
+	美	[dɪ'mɑːkrəsi]
+1008
+democratic
+	英	[ˌdemə'krætɪk]
+	美	[ˌdemə'krætɪk]
+1009
+demonstrate
+	英	['demənstreɪt]
+	美	['demənstreɪt]
+1010
+dense
+	英	[dens]
+	美	[dens]
+1011
+density
+	英	['densəti]
+	美	['densəti]
+1012
+deny
+	英	[dɪ'naɪ]
+	美	[dɪ'naɪ]
+1013
+depart
+	英	[dɪ'pɑːt]
+	美	[dɪ'pɑːrt]
+1014
+department
+	英	[dɪ'pɑːtmənt]
+	美	[dɪ'pɑːrtmənt]
+1015
+departure
+	英	[dɪ'pɑːtʃə(r)]
+	美	[dɪ'pɑːrtʃər]
+1016
+depend
+	英	[dɪ'pend]
+	美	[dɪ'pend]
+1017
+dependent
+	英	[dɪ'pendənt]
+	美	[dɪ'pendənt]
+1018
+deposit
+	英	[dɪ'pɒzɪt]
+	美	[dɪ'pɑːzɪt]
+1019
+depress
+	英	[dɪ'pres]
+	美	[dɪ'pres]
+1020
+depth
+	英	[depθ]
+	美	[depθ]
+1021
+derive
+	英	[dɪ'raɪv]
+	美	[dɪ'raɪv]
+1022
+descend
+	英	[dɪ'send]
+	美	[dɪ'send]
+1023
+describe
+	英	[dɪ'skraɪb]
+	美	[dɪ'skraɪb]
+1024
+description
+	英	[dɪ'skrɪpʃn]
+	美	[dɪ'skrɪpʃn]
+1025
+desert
+	英	['dezət]
+	美	['dezərt]
+1026
+deserve
+	英	[dɪ'zɜːv]
+	美	[dɪ'zɜːrv]
+1027
+design
+	英	[dɪ'zaɪn]
+	美	[dɪ'zaɪn]
+1028
+desirable
+	英	[dɪ'zaɪərəbl]
+	美	[dɪ'zaɪərəbl]
+1029
+desire
+	英	[dɪ'zaɪə(r)]
+	美	[dɪ'zaɪər]
+1030
+desk
+	英	[desk]
+	美	[desk]
+1031
+despair
+	英	[dɪ'speə(r)]
+	美	[dɪ'sper]
+1032
+desperate
+	英	['despərət]
+	美	['despərət]
+1033
+despise
+	英	[dɪ'spaɪz]
+	美	[dɪ'spaɪz]
+1034
+despite
+	英	[dɪ'spaɪt]
+	美	[dɪ'spaɪt]
+1035
+destination
+	英	[ˌdestɪ'neɪʃn]
+	美	[ˌdestɪ'neɪʃn]
+1036
+destroy
+	英	[dɪ'strɔɪ]
+	美	[dɪ'strɔɪ]
+1037
+destruction
+	英	[dɪ'strʌkʃn]
+	美	[dɪ'strʌkʃn]
+1038
+detail
+	英	['diːteɪl]
+	美	['diːteɪl]
+1039
+detect
+	英	[dɪ'tekt]
+	美	[dɪ'tekt]
+1040
+detection
+	英	[dɪ'tekʃn]
+	美	[dɪ'tekʃn]
+1041
+determination
+	英	[dɪˌtɜːmɪ'neɪʃn]
+	美	[dɪˌtɜːrmɪ'neɪʃn]
+1042
+determine
+	英	[dɪ'tɜːmɪn]
+	美	[dɪ'tɜːrmɪn]
+1043
+develop
+	英	[dɪ'veləp]
+	美	[dɪ'veləp]
+1044
+development
+	英	[dɪ'veləpmənt]
+	美	[dɪ'veləpmənt]
+1045
+device
+	英	[dɪ'vaɪs]
+	美	[dɪ'vaɪs]
+1046
+devil
+	英	['devl]
+	美	['devl]
+1047
+devise
+	英	[dɪ'vaɪz]
+	美	[dɪ'vaɪz]
+1048
+devote
+	英	[dɪ'vəʊt]
+	美	[dɪ'voʊt]
+1049
+dew
+	英	[djuː]
+	美	[duː]
+1050
+diagram
+	英	['daɪəɡræm]
+	美	['daɪəɡræm]
+1051
+dial
+	英	['daɪəl]
+	美	['daɪəl]
+1052
+dialect
+	英	['daɪəlekt]
+	美	['daɪəlekt]
+1053
+dialog
+	英	['daɪəlɒg]
+	美	['daɪəˌlɒg]
+1054
+diameter
+	英	[daɪ'æmɪtə(r)]
+	美	[daɪ'æmɪtər]
+1055
+diamond
+	英	['daɪəmənd]
+	美	['daɪəmənd]
+1056
+diary
+	英	['daɪəri]
+	美	['daɪəri]
+1057
+dictate
+	英	[dɪk'teɪt]
+	美	['dɪkteɪt]
+1058
+dictation
+	英	[dɪk'teɪʃn]
+	美	[dɪk'teɪʃn]
+1059
+dictionary
+	英	['dɪkʃənri]
+	美	['dɪkʃəneri]
+1060
+die
+	英	[daɪ]
+	美	[daɪ]
+1061
+differ
+	英	['dɪfə(r)]
+	美	['dɪfər]
+1062
+difference
+	英	['dɪfrəns]
+	美	['dɪfrəns]
+1063
+different
+	英	['dɪfrənt]
+	美	['dɪfrənt]
+1064
+difficult
+	英	['dɪfɪkəlt]
+	美	['dɪfɪkəlt]
+1065
+difficulty
+	英	['dɪfɪkəlti]
+	美	['dɪfɪkəlti]
+1066
+dig
+	英	[dɪɡ]
+	美	[dɪɡ]
+1067
+digest
+	英	['dɑɪdʒɛst]
+	美	['dɑɪdʒɛst]
+1068
+digital
+	英	['dɪdʒɪtl]
+	美	['dɪdʒɪtl]
+1069
+diligent
+	英	['dɪlɪdʒənt]
+	美	['dɪlɪdʒənt]
+1070
+dim
+	英	[dɪm]
+	美	[dɪm]
+1071
+dimension
+	英	[daɪ'menʃn]
+	美	[ˌdɪ'menʃən]
+1072
+dinner
+	英	['dɪnə(r)]
+	美	['dɪnər]
+1073
+dip
+	英	[dɪp]
+	美	[dɪp]
+1074
+direct
+	英	[də'rekt]
+	美	[də'rekt]
+1075
+direction
+	英	[də'rekʃn]
+	美	[də'rekʃn]
+1076
+directly
+	英	[də'rektli]
+	美	[də'rektli]
+1077
+director
+	英	[də'rektə(r)]
+	美	[də'rektər]
+1078
+dirt
+	英	[dɜːt]
+	美	[dɜːrt]
+1079
+dirty
+	英	['dɜːti]
+	美	['dɜːrti]
+1080
+disable
+	英	[dɪs'eɪbl]
+	美	[dɪs'eɪbl]
+1081
+disadvantage
+	英	[ˌdɪsəd'vɑːntɪdʒ]
+	美	[ˌdɪsəd'væntɪdʒ]
+1082
+disagree
+	英	[ˌdɪsə'ɡriː]
+	美	[ˌdɪsə'ɡriː]
+1083
+disappear
+	英	[ˌdɪsə'pɪə(r)]
+	美	[ˌdɪsə'pɪr]
+1084
+disappoint
+	英	[ˌdɪsə'pɔɪnt]
+	美	[ˌdɪsə'pɔɪnt]
+1085
+disaster
+	英	[dɪ'zɑːstə(r)]
+	美	[dɪ'zæstər]
+1086
+discard
+	英	[dɪs'kɑːd]
+	美	[dɪs'kɑːrd]
+1087
+discharge
+	英	[dɪs'tʃɑːdʒ]
+	美	[dɪs'tʃɑːrdʒ]
+1088
+discipline
+	英	['dɪsəplɪn]
+	美	['dɪsəplɪn]
+1089
+disclose
+	英	[dɪs'kləʊz]
+	美	[dɪs'kloʊz]
+1090
+discourage
+	英	[dɪs'kʌrɪdʒ]
+	美	[dɪs'kɜːrɪdʒ]
+1091
+discover
+	英	[dɪ'skʌvə(r)]
+	美	[dɪ'skʌvər]
+1092
+discovery
+	英	[dɪ'skʌvəri]
+	美	[dɪ'skʌvəri]
+1093
+discuss
+	英	[dɪ'skʌs]
+	美	[dɪ'skʌs]
+1094
+discussion
+	英	[dɪ'skʌʃn]
+	美	[dɪ'skʌʃn]
+1095
+disease
+	英	[dɪ'ziːz]
+	美	[dɪ'ziːz]
+1096
+disguise
+	英	[dɪs'ɡaɪz]
+	美	[dɪs'ɡaɪz]
+1097
+disgust
+	英	[dɪs'ɡʌst]
+	美	[dɪs'ɡʌst]
+1098
+dish
+	英	[dɪʃ]
+	美	[dɪʃ]
+1099
+dishonour
+	英	[dɪs'ɒnə(r)]
+	美	[dɪs'ɑːnər]
+1100
+disk
+	英	[dɪsk]
+	美	[dɪsk]
+1101
+dislike
+	英	[dɪs'laɪk]
+	美	[dɪs'laɪk]
+1102
+dismiss
+	英	[dɪs'mɪs]
+	美	[dɪs'mɪs]
+1103
+disorder
+	英	[dɪs'ɔːdə(r)]
+	美	[dɪs'ɔːrdər]
+1104
+display
+	英	[dɪ'spleɪ]
+	美	[dɪ'spleɪ]
+1105
+displease
+	英	[dɪs'pliːz]
+	美	[dɪs'pliːz]
+1106
+disposal
+	英	[dɪ'spəʊzl]
+	美	[dɪ'spoʊzl]
+1107
+dispose
+	英	[dɪ'spəʊz]
+	美	[dɪ'spoʊz]
+1108
+dispute
+	英	[dɪ'spjuːt]
+	美	[dɪ'spjuːt]
+1109
+dissatisfy
+	英	[dɪs'sætɪsfaɪ]
+	美	[dɪs'sætɪsˌfaɪ]
+1110
+dissolve
+	英	[dɪ'zɒlv]
+	美	[dɪ'zɑːlv]
+1111
+distance
+	英	['dɪstəns]
+	美	['dɪstəns]
+1112
+distant
+	英	['dɪstənt]
+	美	['dɪstənt]
+1113
+distinct
+	英	[dɪ'stɪŋkt]
+	美	[dɪ'stɪŋkt]
+1114
+distinction
+	英	[dɪ'stɪŋkʃn]
+	美	[dɪ'stɪŋkʃn]
+1115
+distinguish
+	英	[dɪ'stɪŋɡwɪʃ]
+	美	[dɪ'stɪŋɡwɪʃ]
+1116
+distress
+	英	[dɪ'stres]
+	美	[dɪ'stres]
+1117
+distribute
+	英	[dɪ'strɪbjuːt]
+	美	[dɪ'strɪbjuːt]
+1118
+distribution
+	英	[ˌdɪstrɪ'bjuːʃn]
+	美	[ˌdɪstrɪ'bjuːʃn]
+1119
+district
+	英	['dɪstrɪkt]
+	美	['dɪstrɪkt]
+1120
+disturb
+	英	[dɪ'stɜːb]
+	美	[dɪ'stɜːrb]
+1121
+ditch
+	英	[dɪtʃ]
+	美	[dɪtʃ]
+1122
+dive
+	英	[daɪv]
+	美	[daɪv]
+1123
+diverse
+	英	[daɪ'vɜːs]
+	美	[daɪ'vɜːrs]
+1124
+divide
+	英	[dɪ'vaɪd]
+	美	[dɪ'vaɪd]
+1125
+division
+	英	[dɪ'vɪʒn]
+	美	[dɪ'vɪʒn]
+1126
+divorce
+	英	[dɪ'vɔːs]
+	美	[dɪ'vɔːrs]
+1127
+do
+	英	[du:]
+	美	[du]
+1128
+dock
+	英	[dɒk]
+	美	[dɑːk]
+1129
+doctor
+	英	['dɒktə(r)]
+	美	['dɑːktər]
+1130
+document
+	英	['dɒkjumənt]
+	美	['dɑːkjumənt]
+1131
+dog
+	英	[dɒɡ]
+	美	[dɔːɡ]
+1132
+dollar
+	英	['dɒlə(r)]
+	美	['dɑːlər]
+1133
+domestic
+	英	[də'mestɪk]
+	美	[də'mestɪk]
+1134
+donkey
+	英	['dɒŋki]
+	美	['dɔːŋki]
+1135
+door
+	英	[dɔː(r)]
+	美	[dɔːr]
+1136
+dorm
+	英	[dɔːm]
+	美	[dɔːrm]
+1137
+dormitory
+	英	['dɔːmətri]
+	美	['dɔːrmətɔːri]
+1138
+dose
+	英	[dəʊs]
+	美	[doʊs]
+1139
+dot
+	英	[dɒt]
+	美	[dɑːt]
+1140
+double
+	英	['dʌbl]
+	美	['dʌbl]
+1141
+doubt
+	英	[daʊt]
+	美	[daʊt]
+1142
+doubtful
+	英	['daʊtfl]
+	美	['daʊtfl]
+1143
+doubtless
+	英	['daʊtləs]
+	美	['daʊtləs]
+1144
+down
+	英	[daʊn]
+	美	[daʊn]
+1145
+downstairs
+	英	[ˌdaʊn'steəz]
+	美	[ˌdaʊn'sterz]
+1146
+downward
+	英	['daʊnwəd]
+	美	['daʊnwərd]
+1147
+dozen
+	英	['dʌzn]
+	美	['dʌzn]
+1148
+draft
+	英	[drɑːft]
+	美	[dræft]
+1149
+drag
+	英	[dræɡ]
+	美	[dræɡ]
+1150
+dragon
+	英	['dræɡən]
+	美	['dræɡən]
+1151
+drain
+	英	[dreɪn]
+	美	[dreɪn]
+1152
+drama
+	英	['drɑːmə]
+	美	['drɑːmə]
+1153
+dramatic
+	英	[drə'mætɪk]
+	美	[drə'mætɪk]
+1154
+draw
+	英	[drɔː]
+	美	[drɔː]
+1155
+drawer
+	英	[drɔː(r)]
+	美	[drɔːr]
+1156
+drawing
+	英	['drɔːɪŋ]
+	美	['drɔːɪŋ]
+1157
+dread
+	英	[dred]
+	美	[dred]
+1158
+dream
+	英	[driːm]
+	美	[driːm]
+1159
+dress
+	英	[dres]
+	美	[dres]
+1160
+drift
+	英	[drɪft]
+	美	[drɪft]
+1161
+drill
+	英	[drɪl]
+	美	[drɪl]
+1162
+drink
+	英	[drɪŋk]
+	美	[drɪŋk]
+1163
+drip
+	英	[drɪp]
+	美	[drɪp]
+1164
+drive
+	英	[draɪv]
+	美	[draɪv]
+1165
+driver
+	英	['draɪvə(r)]
+	美	['draɪvər]
+1166
+drop
+	英	[drɒp]
+	美	[drɑːp]
+1167
+drought
+	英	[draʊt]
+	美	[draʊt]
+1168
+drown
+	英	[draʊn]
+	美	[draʊn]
+1169
+drug
+	英	[drʌɡ]
+	美	[drʌɡ]
+1170
+drum
+	英	[drʌm]
+	美	[drʌm]
+1171
+drunk
+	英	[drʌŋk]
+	美	[drʌŋk]
+1172
+dry
+	英	[draɪ]
+	美	[draɪ]
+1173
+duck
+	英	[dʌk]
+	美	[dʌk]
+1174
+due
+	英	[djuː]
+	美	[duː]
+1175
+dull
+	英	[dʌl]
+	美	[dʌl]
+1176
+dumb
+	英	[dʌm]
+	美	[dʌm]
+1177
+dump
+	英	[dʌmp]
+	美	[dʌmp]
+1178
+durable
+	英	['djʊərəbl]
+	美	['dʊrəbl]
+1179
+duration
+	英	[dju'reɪʃn]
+	美	[du'reɪʃn]
+1180
+during
+	英	['djʊərɪŋ]
+	美	['dʊrɪŋ]
+1181
+dusk
+	英	[dʌsk]
+	美	[dʌsk]
+1182
+dust
+	英	[dʌst]
+	美	[dʌst]
+1183
+duty
+	英	['djuːti]
+	美	['duːti]
+1184
+dwelling
+	英	['dwelɪŋ]
+	美	['dwelɪŋ]
+1185
+dye
+	英	[daɪ]
+	美	[daɪ]
+1186
+dying
+	英	['daɪɪŋ]
+	美	['daɪɪŋ]
+1187
+dynamic
+	英	[daɪ'næmɪk]
+	美	[daɪ'næmɪk]
+1188
+each
+	英	[iːtʃ]
+	美	[iːtʃ]
+1189
+eager
+	英	['iːɡə(r)]
+	美	['iːɡər]
+1190
+eagle
+	英	['iːɡl]
+	美	['iːɡl]
+1191
+ear
+	英	[ɪə(r)]
+	美	[ɪr]
+1192
+early
+	英	['ɜːli]
+	美	['ɜːrli]
+1193
+earn
+	英	[ɜːn]
+	美	[ɜːrn]
+1194
+earnest
+	英	['ɜːnɪst]
+	美	['ɜːrnɪst]
+1195
+earth
+	英	[ɜːθ]
+	美	[ɜːrθ]
+1196
+earthquake
+	英	['ɜːθkweɪk]
+	美	['ɜːrθkweɪk]
+1197
+ease
+	英	[iːz]
+	美	[iːz]
+1198
+easily
+	英	['iːzəli]
+	美	['iːzəli]
+1199
+east
+	英	[iːst]
+	美	[iːst]
+1200
+eastern
+	英	['iːstən]
+	美	['iːstərn]
+1201
+easy
+	英	['iːzi]
+	美	['iːzi]
+1202
+eat
+	英	[iːt]
+	美	[iːt]
+1203
+echo
+	英	['ekəʊ]
+	美	['ekoʊ]
+1204
+economic
+	英	[ˌiːkə'nɒmɪk]
+	美	[ˌiːkə'nɑːmɪk]
+1205
+economical
+	英	[ˌiːkə'nɒmɪkl]
+	美	[ˌiːkə'nɑːmɪkl]
+1206
+economy
+	英	[ɪ'kɒnəmi]
+	美	[ɪ'kɑːnəmi]
+1207
+edge
+	英	[edʒ]
+	美	[edʒ]
+1208
+edition
+	英	[ɪ'dɪʃn]
+	美	[ɪ'dɪʃn]
+1209
+editor
+	英	['edɪtə(r)]
+	美	['edɪtər]
+1210
+educate
+	英	['edʒukeɪt]
+	美	['edʒukeɪt]
+1211
+education
+	英	[ˌedʒu'keɪʃn]
+	美	[ˌedʒu'keɪʃn]
+1212
+effect
+	英	[ɪ'fekt]
+	美	[ɪ'fekt]
+1213
+effective
+	英	[ɪ'fektɪv]
+	美	[ɪ'fektɪv]
+1214
+efficiency
+	英	[ɪ'fɪʃnsi]
+	美	[ɪ'fɪʃnsi]
+1215
+efficient
+	英	[ɪ'fɪʃnt]
+	美	[ɪ'fɪʃnt]
+1216
+effort
+	英	['efət]
+	美	['efərt]
+1217
+egg
+	英	[eɡ]
+	美	[ɛɡ]
+1218
+eight
+	英	[eɪt]
+	美	[eɪt]
+1219
+eighteen
+	英	[ˌeɪ'tiːn]
+	美	[ˌeɪ'tiːn]
+1220
+eighth
+	英	[eɪtθ]
+	美	[eɪtθ]
+1221
+eighty
+	英	['eɪti]
+	美	['eɪti]
+1222
+either
+	英	['aɪðə(r)]
+	美	['iðər]
+1223
+elaborate
+	英	[ɪ'læbəreɪt]
+	美	[ɪ'læbəreɪt]
+1224
+elastic
+	英	[ɪ'læstɪk]
+	美	[ɪ'læstɪk]
+1225
+elbow
+	英	['elbəʊ]
+	美	['elboʊ]
+1226
+elder
+	英	['eldə(r)]
+	美	['eldər]
+1227
+elect
+	英	[ɪ'lekt]
+	美	[ɪ'lekt]
+1228
+election
+	英	[ɪ'lekʃn]
+	美	[ɪ'lekʃn]
+1229
+electric
+	英	[ɪ'lektrɪk]
+	美	[ɪ'lektrɪk]
+1230
+electrical
+	英	[ɪ'lektrɪkl]
+	美	[ɪ'lektrɪkl]
+1231
+electricity
+	英	[ɪˌlek'trɪsəti]
+	美	[ɪˌlek'trɪsəti]
+1232
+electron
+	英	[ɪ'lektrɒn]
+	美	[ɪ'lektrɑːn]
+1233
+electronic
+	英	[ɪˌlek'trɒnɪk]
+	美	[ɪˌlek'trɑːnɪk]
+1234
+electronics
+	英	[ɪˌlek'trɒnɪks]
+	美	[ɪˌlek'trɑːnɪks]
+1235
+element
+	英	['elɪmənt]
+	美	['elɪmənt]
+1236
+elementary
+	英	[ˌelɪ'mentri]
+	美	[ˌelɪ'mentri]
+1237
+elephant
+	英	['elɪfənt]
+	美	['elɪfənt]
+1238
+elevator
+	英	['elɪveɪtə(r)]
+	美	['elɪveɪtər]
+1239
+eleven
+	英	[ɪ'levn]
+	美	[ɪ'levn]
+1240
+eleventh
+	英	[ɪ'levnθ]
+	美	[ɪ'levnθ]
+1241
+eliminate
+	英	[ɪ'lɪmɪneɪt]
+	美	[ɪ'lɪmɪneɪt]
+1242
+elimination
+	英	[ɪˌlɪmɪ'neɪʃn]
+	美	[ɪˌlɪmɪ'neɪʃn]
+1243
+else
+	英	[els]
+	美	[els]
+1244
+elsewhere
+	英	[ˌels'weə(r)]
+	美	[ˌels'wer]
+1245
+embarrass
+	英	[ɪm'bærəs]
+	美	[ɪm'bærəs]
+1246
+embrace
+	英	[ɪm'breɪs]
+	美	[ɪm'breɪs]
+1247
+emerge
+	英	[i'mɜːdʒ]
+	美	[i'mɜːrdʒ]
+1248
+emergency
+	英	[i'mɜːdʒənsi]
+	美	[i'mɜːrdʒənsi]
+1249
+emit
+	英	[i'mɪt]
+	美	[i'mɪt]
+1250
+emotion
+	英	[ɪ'məʊʃn]
+	美	[ɪ'moʊʃn]
+1251
+emotional
+	英	[ɪ'məʊʃənl]
+	美	[ɪ'moʊʃənl]
+1252
+emperor
+	英	['empərə(r)]
+	美	['empərər]
+1253
+emphasis
+	英	['emfəsɪs]
+	美	['emfəsɪs]
+1254
+emphasize
+	英	['emfəsaɪz]
+	美	['emfəsaɪz]
+1255
+empire
+	英	['empaɪə(r)]
+	美	['empaɪər]
+1256
+employ
+	英	[ɪm'plɔɪ]
+	美	[ɪm'plɔɪ]
+1257
+employee
+	英	[ɪm'plɔɪiː]
+	美	[ɪm'plɔɪiː]
+1258
+employer
+	英	[ɪm'plɔɪə(r)]
+	美	[ɪm'plɔɪər]
+1259
+employment
+	英	[ɪm'plɔɪmənt]
+	美	[ɪm'plɔɪmənt]
+1260
+empty
+	英	['empti]
+	美	['empti]
+1261
+enable
+	英	[ɪ'neɪbl]
+	美	[ɪ'neɪbl]
+1262
+enclose
+	英	[ɪn'kləʊz]
+	美	[ɪn'kloʊz]
+1263
+encounter
+	英	[ɪn'kaʊntə(r)]
+	美	[ɪn'kaʊntər]
+1264
+encourage
+	英	[ɪn'kʌrɪdʒ]
+	美	[ɪn'kɜːrɪdʒ]
+1265
+end
+	英	[end]
+	美	[end]
+1266
+ending
+	英	['endɪŋ]
+	美	['endɪŋ]
+1267
+endless
+	英	['endləs]
+	美	['endləs]
+1268
+endure
+	英	[ɪn'djʊə(r)]
+	美	[ɪn'dʊr]
+1269
+enemy
+	英	['enəmi]
+	美	['enəmi]
+1270
+energy
+	英	['enədʒi]
+	美	['enərdʒi]
+1271
+enforce
+	英	[ɪn'fɔːs]
+	美	[ɪn'fɔːrs]
+1272
+engage
+	英	[ɪn'ɡeɪdʒ]
+	美	[ɪn'ɡeɪdʒ]
+1273
+engine
+	英	['endʒɪn]
+	美	['endʒɪn]
+1274
+engineer
+	英	[ˌendʒɪ'nɪə(r)]
+	美	[ˌendʒɪ'nɪr]
+1275
+engineering
+	英	[ˌendʒɪ'nɪərɪŋ]
+	美	[ˌendʒɪ'nɪrɪŋ]
+1276
+England
+	英	['ɪŋɡlənd]
+	美	['ɪŋɡlənd]
+1277
+English
+	英	['ɪŋɡlɪʃ]
+	美	['ɪŋɡlɪʃ]
+1278
+Englishman
+	英	['ɪŋɡlɪʃmən]
+	美	['ɪŋɡlɪʃmən]
+1279
+enjoy
+	英	[ɪn'dʒɔɪ]
+	美	[ɪn'dʒɔɪ]
+1280
+enlarge
+	英	[ɪn'lɑːdʒ]
+	美	[ɪn'lɑːrdʒ]
+1281
+enormous
+	英	[ɪ'nɔːməs]
+	美	[ɪ'nɔːrməs]
+1282
+enough
+	英	[ɪ'nʌf]
+	美	[ɪ'nʌf]
+1283
+ensure
+	英	[ɪn'ʃʊə(r)]
+	美	[ɪn'ʃʊr]
+1284
+enter
+	英	['entə(r)]
+	美	['entər]
+1285
+entertain
+	英	[ˌentə'teɪn]
+	美	[ˌentər'teɪn]
+1286
+enthusiasm
+	英	[ɪn'θjuːziæzəm]
+	美	[ɪn'θuːziæzəm]
+1287
+enthusiastic
+	英	[ɪnˌθjuːzi'æstɪk]
+	美	[ɪnˌθuːzi'æstɪk]
+1288
+entire
+	英	[ɪn'taɪə(r)]
+	美	[ɪn'taɪər]
+1289
+entitle
+	英	[ɪn'taɪtl]
+	美	[ɪn'taɪtl]
+1290
+entrance
+	英	['entrəns]
+	美	['entrəns]
+1291
+entry
+	英	['entri]
+	美	['entri]
+1292
+envelope
+	英	['envələʊp]
+	美	['ɑnvəˌloʊp]
+1293
+environment
+	英	[ɪn'vaɪrənmənt]
+	美	[ɪn'vaɪrənmənt]
+1294
+envy
+	英	['envi]
+	美	['envi]
+1295
+equal
+	英	['iːkwəl]
+	美	['iːkwəl]
+1296
+equality
+	英	[i'kwɒləti]
+	美	[i'kwɑːləti]
+1297
+equation
+	英	[ɪ'kweɪʒn]
+	美	[ɪ'kweɪʒn]
+1298
+equip
+	英	[ɪ'kwɪp]
+	美	[ɪ'kwɪp]
+1299
+equipment
+	英	[ɪ'kwɪpmənt]
+	美	[ɪ'kwɪpmənt]
+1300
+equivalent
+	英	[ɪ'kwɪvələnt]
+	美	[ɪ'kwɪvələnt]
+1301
+era
+	英	['ɪərə]
+	美	['ɪrə]
+1302
+erect
+	英	[ɪ'rekt]
+	美	[ɪ'rekt]
+1303
+error
+	英	['erə(r)]
+	美	['erər]
+1304
+escape
+	英	[ɪ'skeɪp]
+	美	[ɪ'skeɪp]
+1305
+especially
+	英	[ɪ'speʃəli]
+	美	[ɪ'speʃəli]
+1306
+essay
+	英	['eseɪ]
+	美	['eseɪ]
+1307
+essential
+	英	[ɪ'senʃl]
+	美	[ɪ'senʃl]
+1308
+establish
+	英	[ɪ'stæblɪʃ]
+	美	[ɪ'stæblɪʃ]
+1309
+establishment
+	英	[ɪ'stæblɪʃmənt]
+	美	[ɪ'stæblɪʃmənt]
+1310
+estimate
+	英	['estɪmət]
+	美	['estɪmət]
+1311
+Europe
+	英	['jʊərəp]
+	美	['jʊrəp]
+1312
+European
+	英	[ˌjʊərə'piːən]
+	美	[ˌjʊrə'piːən]
+1313
+evaluate
+	英	[ɪ'væljueɪt]
+	美	[ɪ'væljueɪt]
+1314
+evaporate
+	英	[ɪ'væpəreɪt]
+	美	[ɪ'væpəreɪt]
+1315
+eve
+	英	[iːv]
+	美	[iːv]
+1316
+even
+	英	['iːvn]
+	美	['iːvn]
+1317
+evening
+	英	['iːvnɪŋ]
+	美	['iːvnɪŋ]
+1318
+event
+	英	[ɪ'vent]
+	美	[ɪ'vent]
+1319
+eventually
+	英	[ɪ'ventʃuəli]
+	美	[ɪ'ventʃuəli]
+1320
+ever
+	英	['evə(r)]
+	美	['evər]
+1321
+every
+	英	['evri]
+	美	['evri]
+1322
+everybody
+	英	['evribɒdi]
+	美	['evribɑːdi]
+1323
+everyday
+	英	['evrideɪ]
+	美	['evrideɪ]
+1324
+everyone
+	英	['evriwʌn]
+	美	['evriwʌn]
+1325
+everything
+	英	['evriθɪŋ]
+	美	['evriθɪŋ]
+1326
+everywhere
+	英	['evriweə(r)]
+	美	['evriwer]
+1327
+evidence
+	英	['evɪdəns]
+	美	['evɪdəns]
+1328
+evident
+	英	['evɪdənt]
+	美	['evɪdənt]
+1329
+evil
+	英	['iːvl]
+	美	['iːvl]
+1330
+evolution
+	英	[ˌiːvə'luːʃn]
+	美	[ˌiːvə'luːʃn]
+1331
+evolve
+	英	[i'vɒlv]
+	美	[i'vɑːlv]
+1332
+exact
+	英	[ɪɡ'zækt]
+	美	[ɪɡ'zækt]
+1333
+exactly
+	英	[ɪɡ'zæktli]
+	美	[ɪɡ'zæktli]
+1334
+exaggerate
+	英	[ɪɡ'zædʒəreɪt]
+	美	[ɪɡ'zædʒəreɪt]
+1335
+exam
+	英	[ɪɡ'zæm]
+	美	[ɪɡ'zæm]
+1336
+examination
+	英	[ɪɡˌzæmɪ'neɪʃn]
+	美	[ɪɡˌzæmɪ'neɪʃn]
+1337
+examine
+	英	[ɪɡ'zæmɪn]
+	美	[ɪɡ'zæmɪn]
+1338
+example
+	英	[ɪɡ'zɑːmpl]
+	美	[ɪɡ'zæmpl]
+1339
+exceed
+	英	[ɪk'siːd]
+	美	[ɪk'siːd]
+1340
+exceedingly
+	英	[ɪk'siːdɪŋli]
+	美	[ɪk'siːdɪŋli]
+1341
+excellent
+	英	['eksələnt]
+	美	['eksələnt]
+1342
+except
+	英	[ɪk'sept]
+	美	[ɪk'sept]
+1343
+exception
+	英	[ɪk'sepʃn]
+	美	[ɪk'sepʃn]
+1344
+excess
+	英	[ɪk'ses]
+	美	[ɪk'ses]
+1345
+excessive
+	英	[ɪk'sesɪv]
+	美	[ɪk'sesɪv]
+1346
+exchange
+	英	[ɪks'tʃeɪndʒ]
+	美	[ɪks'tʃeɪndʒ]
+1347
+excite
+	英	[ɪk'saɪt]
+	美	[ɪk'saɪt]
+1348
+exciting
+	英	[ɪk'saɪtɪŋ]
+	美	[ɪk'saɪtɪŋ]
+1349
+exclaim
+	英	[ɪk'skleɪm]
+	美	[ɪk'skleɪm]
+1350
+exclude
+	英	[ɪk'skluːd]
+	美	[ɪk'skluːd]
+1351
+exclusively
+	英	[ɪk'skluːsɪvli]
+	美	[ɪk'skluːsɪvli]
+1352
+excursion
+	英	[ɪk'skɜːʃn]
+	美	[ɪk'skɜːrʒn]
+1353
+excuse
+	英	[ɪk'skjuːs]
+	美	[ɪk'skjuːs]
+1354
+execute
+	英	['eksɪkjuːt]
+	美	['eksɪkjuːt]
+1355
+executive
+	英	[ɪɡ'zɛkjʊtɪv]
+	美	[ɪg'zɛkjətɪv]
+1356
+exercise
+	英	['eksəsaɪz]
+	美	['eksərsaɪz]
+1357
+exert
+	英	[ɪɡ'zɜːt]
+	美	[ɪɡ'zɜːrt]
+1358
+exhaust
+	英	[ɪɡ'zɔːst]
+	美	[ɪɡ'zɔːst]
+1359
+exhibit
+	英	[ɪɡ'zɪbɪt]
+	美	[ɪɡ'zɪbɪt]
+1360
+exhibition
+	英	[ˌeksɪ'bɪʃn]
+	美	[ˌeksɪ'bɪʃn]
+1361
+exist
+	英	[ɪɡ'zɪst]
+	美	[ɪɡ'zɪst]
+1362
+existence
+	英	[ɪɡ'zɪstəns]
+	美	[ɪɡ'zɪstəns]
+1363
+exit
+	英	['eksɪt]
+	美	['eksɪt]
+1364
+expand
+	英	[ɪk'spænd]
+	美	[ɪk'spænd]
+1365
+expansion
+	英	[ɪk'spænʃn]
+	美	[ɪk'spænʃn]
+1366
+expect
+	英	[ɪk'spekt]
+	美	[ɪk'spekt]
+1367
+expectation
+	英	[ˌekspek'teɪʃn]
+	美	[ˌekspek'teɪʃn]
+1368
+expense
+	英	[ɪk'spens]
+	美	[ɪk'spens]
+1369
+expensive
+	英	[ɪk'spensɪv]
+	美	[ɪk'spensɪv]
+1370
+experience
+	英	[ɪk'spɪəriəns]
+	美	[ɪk'spɪriəns]
+1371
+experiment
+	英	[ɪk'sperɪmənt]
+	美	[ɪk'sperɪmənt]
+1372
+experimental
+	英	[ɪkˌsperɪ'mentl]
+	美	[ɪkˌsperɪ'mentl]
+1373
+expert
+	英	['ekspɜːt]
+	美	['ekspɜːrt]
+1374
+explain
+	英	[ɪk'spleɪn]
+	美	[ɪk'spleɪn]
+1375
+explanation
+	英	[ˌeksplə'neɪʃn]
+	美	[ˌeksplə'neɪʃn]
+1376
+explode
+	英	[ɪk'spləʊd]
+	美	[ɪk'sploʊd]
+1377
+exploit
+	英	[ɪk'splɔɪt]
+	美	[ɪk'splɔɪt]
+1378
+explore
+	英	[ɪk'splɔː(r)]
+	美	[ɪk'splɔːr]
+1379
+explosion
+	英	[ɪk'spləʊʒn]
+	美	[ɪk'sploʊʒn]
+1380
+explosive
+	英	[ɪk'spləʊsɪv]
+	美	[ɪk'sploʊsɪv]
+1381
+export
+	英	['ekspɔːt]
+	美	['ekspɔːrt]
+1382
+expose
+	英	[ɪk'spəʊz]
+	美	[ɪk'spoʊz]
+1383
+exposure
+	英	[ɪk'spəʊʒə(r)]
+	美	[ɪk'spoʊʒər]
+1384
+express
+	英	[ɪk'spres]
+	美	[ɪk'spres]
+1385
+expression
+	英	[ɪk'spreʃn]
+	美	[ɪk'spreʃn]
+1386
+extend
+	英	[ɪk'stend]
+	美	[ɪk'stend]
+1387
+extension
+	英	[ɪk'stenʃn]
+	美	[ɪk'stenʃn]
+1388
+extensive
+	英	[ɪk'stensɪv]
+	美	[ɪk'stensɪv]
+1389
+extent
+	英	[ɪk'stent]
+	美	[ɪk'stent]
+1390
+exterior
+	英	[ɪk'stɪəriə(r)]
+	美	[ɪk'stɪriər]
+1391
+external
+	英	[ɪk'stɜːnl]
+	美	[ɪk'stɜːrnl]
+1392
+extra
+	英	['ekstrə]
+	美	['ekstrə]
+1393
+extraordinary
+	英	[ɪk'strɔːdnri]
+	美	[ɪk'strɔːrdəneri]
+1394
+extreme
+	英	[ɪk'striːm]
+	美	[ɪk'striːm]
+1395
+extremely
+	英	[ɪk'striːmli]
+	美	[ɪk'striːmli]
+1396
+eye
+	英	[aɪ]
+	美	[aɪ]
+1397
+eyesight
+	英	['aɪsaɪt]
+	美	['aɪsaɪt]
+1398
+fable
+	英	['feɪbl]
+	美	['feɪbl]
+1399
+fabric
+	英	['fæbrɪk]
+	美	['fæbrɪk]
+1400
+face
+	英	[feɪs]
+	美	[feɪs]
+1401
+facility
+	英	[fə'sɪləti]
+	美	[fə'sɪləti]
+1402
+fact
+	英	[fækt]
+	美	[fækt]
+1403
+factor
+	英	['fæktə(r)]
+	美	['fæktər]
+1404
+factory
+	英	['fæktri]
+	美	['fæktri]
+1405
+faculty
+	英	['fæklti]
+	美	['fæklti]
+1406
+fade
+	英	[feɪd]
+	美	[feɪd]
+1407
+Fahrenheit
+	英	['færənhaɪt]
+	美	['færənhaɪt]
+1408
+fail
+	英	[feɪl]
+	美	[feɪl]
+1409
+failure
+	英	['feɪljə(r)]
+	美	['feɪljər]
+1410
+faint
+	英	[feɪnt]
+	美	[feɪnt]
+1411
+fair
+	英	[feə(r)]
+	美	[fer]
+1412
+fairly
+	英	['feəli]
+	美	['ferli]
+1413
+faith
+	英	[feɪθ]
+	美	[feɪθ]
+1414
+faithful
+	英	['feɪθfl]
+	美	['feɪθfl]
+1415
+fall
+	英	[fɔːl]
+	美	[fɔːl]
+1416
+fame
+	英	[feɪm]
+	美	[feɪm]
+1417
+familiar
+	英	[fə'mɪliə(r)]
+	美	[fə'mɪliər]
+1418
+family
+	英	['fæməli]
+	美	['fæməli]
+1419
+famine
+	英	['fæmɪn]
+	美	['fæmɪn]
+1420
+famous
+	英	['feɪməs]
+	美	['feɪməs]
+1421
+fan
+	英	[fæn]
+	美	[fæn]
+1422
+fancy
+	英	['fænsi]
+	美	['fænsi]
+1423
+far
+	英	[fɑː(r)]
+	美	[fɑːr]
+1424
+fare
+	英	[feə(r)]
+	美	[fer]
+1425
+farewell
+	英	[ˌfeə'wel]
+	美	[ˌfer'wel]
+1426
+farm
+	英	[fɑːm]
+	美	[fɑːrm]
+1427
+farmer
+	英	['fɑːmə(r)]
+	美	['fɑːrmər]
+1428
+farther
+	英	['fɑːðə(r)]
+	美	['fɑːrðər]
+1429
+fashion
+	英	['fæʃn]
+	美	['fæʃn]
+1430
+fashionable
+	英	['fæʃnəbl]
+	美	['fæʃnəbl]
+1431
+fast
+	英	[fɑːst]
+	美	[fæst]
+1432
+fasten
+	英	['fɑːsn]
+	美	['fæsn]
+1433
+fatal
+	英	['feɪtl]
+	美	['feɪtl]
+1434
+fate
+	英	[feɪt]
+	美	[feɪt]
+1435
+father
+	英	['fɑːðə(r)]
+	美	['fɑːðər]
+1436
+father-in-law
+	英	['fɑːðə(r) ɪn lɔː]
+	美	['fɑːðər ɪn lɔː]
+1437
+fatigue
+	英	[fə'tiːɡ]
+	美	[fə'tiːɡ]
+1438
+fault
+	英	[fɔːlt]
+	美	[fɔːlt]
+1439
+faulty
+	英	['fɔːlti]
+	美	['fɔːlti]
+1440
+favour
+	英	['feɪvə(r)]
+	美	['feɪvər]
+1441
+favourable
+	英	['feɪvərəbl]
+	美	['feɪvərəbl]
+1442
+favourite
+	英	['feɪvərɪt]
+	美	['feɪvərɪt]
+1443
+fear
+	英	[fɪə(r)]
+	美	[fɪr]
+1444
+fearful
+	英	['fɪəfl]
+	美	['fɪrfl]
+1445
+feasible
+	英	['fiːzəbl]
+	美	['fiːzəbl]
+1446
+feast
+	英	[fiːst]
+	美	[fiːst]
+1447
+feather
+	英	['feðə(r)]
+	美	['feðər]
+1448
+feature
+	英	['fiːtʃə(r)]
+	美	['fiːtʃər]
+1449
+February
+	英	['februəri]
+	美	['februeri]
+1450
+federal
+	英	['fedərəl]
+	美	['fedərəl]
+1451
+fee
+	英	[fiː]
+	美	[fiː]
+1452
+feeble
+	英	['fiːbl]
+	美	['fiːbl]
+1453
+1454
+java.net.Connec`tException: Operation timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at java.net.URL.openStream(URL.java:1038)
+	at util.DumpData.extract(DumpData.java:34)
+	at util.DumpData.readFile(DumpData.java:23)
+	at util.DumpData.main(DumpData.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+feedback
+	英	['fiːdbæk]
+	美	['fiːdbæk]
+1455
+feel
+	英	[fiːl]
+	美	[fiːl]
+1456
+feeling
+	英	['fiːlɪŋ]
+	美	['fiːlɪŋ]
+1457
+fellow
+	英	['feləʊ]
+	美	['feloʊ]
+1458
+female
+	英	['fiːmeɪl]
+	美	['fiːmeɪl]
+1459
+fence
+	英	[fens]
+	美	[fens]
+1460
+fertile
+	英	['fɜːtaɪl]
+	美	['fɜːrtl]
+1461
+fertilizer
+	英	['fɜːtəlaɪzə(r)]
+	美	['fɜːrtəlaɪzər]
+1462
+festival
+	英	['festɪvl]
+	美	['festɪvl]
+1463
+fetch
+	英	[fetʃ]
+	美	[fetʃ]
+1464
+fever
+	英	['fiːvə(r)]
+	美	['fiːvər]
+1465
+few
+	英	[fjuː]
+	美	[fjuː]
+1466
+fibre
+	英	['faɪbə(r)]
+	美	['faɪbər]
+1467
+fiction
+	英	['fɪkʃn]
+	美	['fɪkʃn]
+1468
+field
+	英	[fiːld]
+	美	[fiːld]
+1469
+fierce
+	英	[fɪəs]
+	美	[fɪrs]
+1470
+fifteen
+	英	[ˌfɪf'tiːn]
+	美	[ˌfɪf'tiːn]
+1471
+fifth
+	英	[fɪfθ]
+	美	[fɪfθ]
+1472
+fifty
+	英	['fɪfti]
+	美	['fɪfti]
+1473
+fight
+	英	[faɪt]
+	美	[faɪt]
+1474
+figure
+	英	['fɪɡə(r)]
+	美	['fɪɡjər]
+1475
+file
+	英	[faɪl]
+	美	[faɪl]
+1476
+fill
+	英	[fɪl]
+	美	[fɪl]
+1477
+film
+	英	[fɪlm]
+	美	[fɪlm]
+1478
+filter
+	英	['fɪltə(r)]
+	美	['fɪltər]
+1479
+final
+	英	['faɪnl]
+	美	['faɪnl]
+1480
+finally
+	英	['faɪnəli]
+	美	['faɪnəli]
+1481
+finance
+	英	['faɪnæns]
+	美	['faɪnæns]
+1482
+financial
+	英	[faɪ'nænʃl]
+	美	[faɪ'nænʃl]
+1483
+find
+	英	[faɪnd]
+	美	[faɪnd]
+1484
+finding
+	英	['faɪndɪŋ]
+	美	['faɪndɪŋ]
+1485
+fine
+	英	[faɪn]
+	美	[faɪn]
+1486
+finger
+	英	['fɪŋɡə(r)]
+	美	['fɪŋɡər]
+1487
+finish
+	英	['fɪnɪʃ]
+	美	['fɪnɪʃ]
+1488
+fire
+	英	['faɪə(r)]
+	美	['faɪər]
+1489
+fireman
+	英	['faɪəmən]
+	美	['faɪərmən]
+1490
+firm
+	英	[fɜːm]
+	美	[fɜːrm]
+1491
+first
+	英	[fɜːst]
+	美	[fɜːrst]
+1492
+fish
+	英	[fɪʃ]
+	美	[fɪʃ]
+1493
+fisherman
+	英	['fɪʃəmən]
+	美	['fɪʃərmən]
+1494
+fist
+	英	[fɪst]
+	美	[fɪst]
+1495
+fit
+	英	[fɪt]
+	美	[fɪt]
+1496
+five
+	英	[faɪv]
+	美	[faɪv]
+1497
+fix
+	英	[fɪks]
+	美	[fɪks]
+1498
+flag
+	英	[flæɡ]
+	美	[flæɡ]
+1499
+flame
+	英	[fleɪm]
+	美	[fleɪm]
+1500
+flare
+	英	[fleə(r)]
+	美	[fler]
+1501
+flash
+	英	[flæʃ]
+	美	[flæʃ]
+1502
+flat
+	英	[flæt]
+	美	[flæt]
+1503
+flavour
+	英	['fleɪvə(r)]
+	美	['fleɪvər]
+1504
+fleet
+	英	[fliːt]
+	美	[fliːt]
+1505
+flesh
+	英	[fleʃ]
+	美	[fleʃ]
+1506
+flexible
+	英	['fleksəbl]
+	美	['fleksəbl]
+1507
+flight
+	英	[flaɪt]
+	美	[flaɪt]
+1508
+float
+	英	[fləʊt]
+	美	[floʊt]
+1509
+flock
+	英	[flɒk]
+	美	[flɑːk]
+1510
+flood
+	英	[flʌd]
+	美	[flʌd]
+1511
+floor
+	英	[flɔː(r)]
+	美	[flɔːr]
+1512
+flour
+	英	['flaʊə(r)]
+	美	['flaʊər]
+1513
+flourish
+	英	['flʌrɪʃ]
+	美	['flɜːrɪʃ]
+1514
+flow
+	英	[fləʊ]
+	美	[floʊ]
+1515
+flower
+	英	['flaʊə(r)]
+	美	['flaʊər]
+1516
+flu
+	英	[fluː]
+	美	[fluː]
+1517
+fluent
+	英	['fluːənt]
+	美	['fluːənt]
+1518
+fluid
+	英	['fluːɪd]
+	美	['fluːɪd]
+1519
+flush
+	英	[flʌʃ]
+	美	[flʌʃ]
+1520
+fly
+	英	[flaɪ]
+	美	[flaɪ]
+1521
+focus
+	英	['fəʊkəs]
+	美	['foʊkəs]
+1522
+fog
+	英	[fɒɡ]
+	美	[fɔːɡ]
+1523
+fold
+	英	[fəʊld]
+	美	[foʊld]
+1524
+folk
+	英	[fəʊk]
+	美	[foʊk]
+1525
+follow
+	英	['fɒləʊ]
+	美	['fɑːloʊ]
+1526
+following
+	英	['fɒləʊɪŋ]
+	美	['fɑːloʊɪŋ]
+1527
+fond
+	英	[fɒnd]
+	美	[fɑːnd]
+1528
+food
+	英	[fuːd]
+	美	[fud]
+1529
+fool
+	英	[fuːl]
+	美	[fuːl]
+1530
+foolish
+	英	['fuːlɪʃ]
+	美	['fuːlɪʃ]
+1531
+foot
+	英	[fʊt]
+	美	[fʊt]
+1532
+football
+	英	['fʊtbɔːl]
+	美	['fʊtbɔːl]
+1533
+footstep
+	英	['fʊtstep]
+	美	['fʊtstep]
+1534
+for
+	英	[fə(r)]
+	美	[fər]
+1535
+forbid
+	英	[fə'bɪd]
+	美	[fər'bɪd]
+1536
+force
+	英	[fɔːs]
+	美	[fɔːrs]
+1537
+forecast
+	英	['fɔːkɑːst]
+	美	['fɔːrkæst]
+1538
+forehead
+	英	['fɔːhed]
+	美	['fɔːrhed]
+1539
+foreign
+	英	['fɒrən]
+	美	['fɔːrən]
+1540
+foreigner
+	英	['fɒrənə(r)]
+	美	['fɔːrənər]
+1541
+foremost
+	英	['fɔːməʊst]
+	美	['fɔːrmoʊst]
+1542
+forest
+	英	['fɒrɪst]
+	美	['fɔːrɪst]
+1543
+forever
+	英	[fər'evə(r)]
+	美	[fər'evər]
+1544
+forget
+	英	[fə'ɡet]
+	美	[fər'ɡet]
+1545
+forgive
+	英	[fə'ɡɪv]
+	美	[fər'ɡɪv]
+1546
+fork
+	英	[fɔːk]
+	美	[fɔːrk]
+1547
+form
+	英	[fɔːm]
+	美	[fɔːrm]
+1548
+formal
+	英	['fɔːml]
+	美	['fɔːrml]
+1549
+formation
+	英	[fɔː'meɪʃn]
+	美	[fɔːr'meɪʃn]
+1550
+former
+	英	['fɔːmə(r)]
+	美	['fɔːrmər]
+1551
+formula
+	英	['fɔːmjələ]
+	美	['fɔːrmjələ]
+1552
+forth
+	英	[fɔːθ]
+	美	[fɔːrθ]
+1553
+fortnight
+	英	['fɔːtnaɪt]
+	美	['fɔːrtnaɪt]
+1554
+fortunate
+	英	['fɔːtʃənət]
+	美	['fɔːrtʃənət]
+1555
+fortunately
+	英	['fɔːtʃənətli]
+	美	['fɔːrtʃənətli]
+1556
+fortune
+	英	['fɔːtʃuːn]
+	美	['fɔːrtʃən]
+1557
+forty
+	英	['fɔːti]
+	美	['fɔːrti]
+1558
+forward
+	英	['fɔːwəd]
+	美	['fɔːrwərd]
+1559
+found
+	英	[faʊnd]
+	美	[faʊnd]
+1560
+foundation
+	英	[faʊn'deɪʃn]
+	美	[faʊn'deɪʃn]
+1561
+fountain
+	英	['faʊntən]
+	美	['faʊntn]
+1562
+four
+	英	[fɔː(r)]
+	美	[fɔːr]
+1563
+fourteen
+	英	[ˌfɔː'tiːn]
+	美	[ˌfɔːr'tiːn]
+1564
+fourth
+	英	[fɔːθ]
+	美	[fɔːrθ]
+1565
+fox
+	英	[fɒks]
+	美	[fɑːks]
+1566
+fraction
+	英	['frækʃn]
+	美	['frækʃn]
+1567
+fragment
+	英	['fræɡmənt]
+	美	['fræɡmənt]
+1568
+frame
+	英	[freɪm]
+	美	[freɪm]
+1569
+framework
+	英	['freɪmwɜːk]
+	美	['freɪmwɜːrk]
+1570
+France
+	英	[frɑːns]
+	美	[fræns]
+1571
+frank
+	英	[fræŋk]
+	美	[fræŋk]
+1572
+free
+	英	[friː]
+	美	[friː]
+1573
+freedom
+	英	['friːdəm]
+	美	['friːdəm]
+1574
+freely
+	英	['friːli]
+	美	['friːli]
+1575
+freeze
+	英	[friːz]
+	美	[friːz]
+1576
+freight
+	英	[freɪt]
+	美	[freɪt]
+1577
+French
+	英	[frentʃ]
+	美	[frentʃ]
+1578
+frequency
+	英	['friːkwənsi]
+	美	['friːkwənsi]
+1579
+frequent
+	英	['friːkwənt]
+	美	['friːkwənt]
+1580
+frequently
+	英	['friːkwəntli]
+	美	['friːkwəntli]
+1581
+fresh
+	英	[freʃ]
+	美	[freʃ]
+1582
+friction
+	英	['frɪkʃn]
+	美	['frɪkʃn]
+1583
+Friday
+	英	['fraɪdeɪ]
+	美	['fraɪdeɪ]
+1584
+fridge
+	英	[frɪdʒ]
+	美	[frɪdʒ]
+1585
+friend
+	英	[frend]
+	美	[frend]
+1586
+friendly
+	英	['frendli]
+	美	['frendli]
+1587
+friendship
+	英	['frendʃɪp]
+	美	['frendʃɪp]
+1588
+frighten
+	英	['fraɪtn]
+	美	['fraɪtn]
+1589
+frog
+	英	[frɒɡ]
+	美	[frɔːɡ]
+1590
+from
+	英	[frəm]
+	美	[frəm]
+1591
+front
+	英	[frʌnt]
+	美	[frʌnt]
+1592
+frontier
+	英	['frʌntɪə(r)]
+	美	[frʌn'tɪr]
+1593
+frost
+	英	[frɒst]
+	美	[frɔːst]
+1594
+frown
+	英	[fraʊn]
+	美	[fraʊn]
+1595
+fruit
+	英	[fruːt]
+	美	[fruːt]
+1596
+fruitful
+	英	['fruːtfl]
+	美	['fruːtfl]
+1597
+fry
+	英	[fraɪ]
+	美	[fraɪ]
+1598
+fuel
+	英	['fjuːəl]
+	美	['fjuːəl]
+1599
+fulfil
+	英	[fʊl'fɪl]
+	美	[fʊl'fɪl]
+1600
+full
+	英	[fʊl]
+	美	[fʊl]
+1601
+fun
+	英	[fʌn]
+	美	[fʌn]
+1602
+function
+	英	['fʌŋkʃn]
+	美	['fʌŋkʃn]
+1603
+fund
+	英	[fʌnd]
+	美	[fʌnd]
+1604
+fundamental
+	英	[ˌfʌndə'mentl]
+	美	[ˌfʌndə'mentl]
+1605
+funeral
+	英	['fjuːnərəl]
+	美	['fjuːnərəl]
+1606
+funny
+	英	['fʌni]
+	美	['fʌni]
+1607
+fur
+	英	[fɜː(r)]
+	美	[fɜːr]
+1608
+furious
+	英	['fjʊəriəs]
+	美	['fjʊriəs]
+1609
+furnace
+	英	['fɜːnɪs]
+	美	['fɜːrnɪs]
+1610
+furnish
+	英	['fɜːnɪʃ]
+	美	['fɜːrnɪʃ]
+1611
+furniture
+	英	['fɜːnɪtʃə(r)]
+	美	['fɜːrnɪtʃər]
+1612
+further
+	英	['fɜːðə(r)]
+	美	['fɜːrðər]
+1613
+furthermore
+	英	[ˌfɜːðə'mɔː(r)]
+	美	[ˌfɜːrðər'mɔːr]
+1614
+future
+	英	['fjuːtʃə(r)]
+	美	['fjuːtʃər]
+1615
+gain
+	英	[ɡeɪn]
+	美	[ɡeɪn]
+1616
+gallery
+	英	['ɡæləri]
+	美	['ɡæləri]
+1617
+gallon
+	英	['ɡælən]
+	美	['ɡælən]
+1618
+game
+	英	[ɡeɪm]
+	美	[ɡeɪm]
+1619
+gang
+	英	[ɡæŋ]
+	美	[ɡæŋ]
+1620
+gap
+	英	[ɡæp]
+	美	[ɡæp]
+1621
+garage
+	英	['ɡærɑːʒ]
+	美	[ɡə'rɑːʒ]
+1622
+garbage
+	英	['ɡɑːbɪdʒ]
+	美	['ɡɑːrbɪdʒ]
+1623
+garden
+	英	['ɡɑːdn]
+	美	['ɡɑːrdn]
+1624
+gardener
+	英	['ɡɑːdnə(r)]
+	美	['ɡɑːdnə(r)]
+1625
+gas
+	英	[ɡæs]
+	美	[ɡæs]
+1626
+gaseous
+	英	['ɡæsiəs]
+	美	['ɡæsiəs]
+1627
+gasoline
+	英	['ɡæsəliːn]
+	美	['ɡæsəliːn]
+1628
+gasp
+	英	[ɡɑːsp]
+	美	[ɡæsp]
+1629
+gate
+	英	[ɡeɪt]
+	美	[ɡeɪt]
+1630
+gather
+	英	['ɡæðə(r)]
+	美	['ɡæðər]
+1631
+gauge
+	英	[ɡeɪdʒ]
+	美	[ɡeɪdʒ]
+1632
+gay
+	英	[ɡeɪ]
+	美	[ɡeɪ]
+1633
+gaze
+	英	[ɡeɪz]
+	美	[ɡeɪz]
+1634
+general
+	英	['dʒenrəl]
+	美	['dʒenrəl]
+1635
+generally
+	英	['dʒenrəli]
+	美	['dʒenrəli]
+1636
+generate
+	英	['dʒenəreɪt]
+	美	['dʒenəreɪt]
+1637
+generation
+	英	[ˌdʒenə'reɪʃn]
+	美	[ˌdʒenə'reɪʃn]
+1638
+generator
+	英	['dʒenəreɪtə(r)]
+	美	['dʒenəreɪtər]
+1639
+generous
+	英	['dʒenərəs]
+	美	['dʒenərəs]
+1640
+genius
+	英	['dʒiːniəs]
+	美	['dʒiːniəs]
+1641
+gentle
+	英	['dʒentl]
+	美	['dʒentl]
+1642
+gentleman
+	英	['dʒentlmən]
+	美	['dʒentlmən]
+1643
+gently
+	英	['dʒentli]
+	美	['dʒentli]
+1644
+genuine
+	英	['dʒenjuɪn]
+	美	['dʒenjuɪn]
+1645
+geography
+	英	[dʒi'ɒɡrəfi]
+	美	[dʒi'ɑːɡrəfi]
+1646
+geometry
+	英	[dʒi'ɒmətri]
+	美	[dʒi'ɑːmətri]
+1647
+germ
+	英	[dʒɜːm]
+	美	[dʒɜːrm]
+1648
+German
+	英	['dʒɜːmən]
+	美	['dʒɜːrmən]
+1649
+Germany
+	英	['dʒɜːməni]
+	美	['dʒɜːrməni]
+1650
+gesture
+	英	['dʒestʃə(r)]
+	美	['dʒestʃər]
+1651
+get
+	英	[ɡet]
+	美	[ɡet]
+1652
+ghost
+	英	[ɡəʊst]
+	美	[ɡoʊst]
+1653
+giant
+	英	['dʒaɪənt]
+	美	['dʒaɪənt]
+1654
+gift
+	英	[ɡɪft]
+	美	[ɡɪft]
+1655
+girl
+	英	[ɡɜːl]
+	美	[ɡɜːrl]
+1656
+give
+	英	[ɡɪv]
+	美	[ɡɪv]
+1657
+glad
+	英	[ɡlæd]
+	美	[ɡlæd]
+1658
+glance
+	英	[ɡlɑːns]
+	美	[ɡlæns]
+1659
+glare
+	英	[ɡleə(r)]
+	美	[ɡler]
+1660
+glass
+	英	[ɡlɑːs]
+	美	[ɡlæs]
+1661
+glide
+	英	[ɡlaɪd]
+	美	[ɡlaɪd]
+1662
+glimpse
+	英	[ɡlɪmps]
+	美	[ɡlɪmps]
+1663
+glitter
+	英	['ɡlɪtə(r)]
+	美	['ɡlɪtər]
+1664
+globe
+	英	[ɡləʊb]
+	美	[ɡloʊb]
+1665
+gloomy
+	英	['ɡluːmi]
+	美	['ɡluːmi]
+1666
+glorious
+	英	['ɡlɔːriəs]
+	美	['ɡlɔːriəs]
+1667
+glory
+	英	['ɡlɔːri]
+	美	['ɡlɔːri]
+1668
+glove
+	英	[ɡlʌv]
+	美	[ɡlʌv]
+1669
+glow
+	英	[ɡləʊ]
+	美	[ɡloʊ]
+1670
+glue
+	英	[ɡluː]
+	美	[ɡluː]
+1671
+go
+	英	[ɡəʊ]
+	美	[ɡoʊ]
+1672
+goal
+	英	[ɡəʊl]
+	美	[ɡoʊl]
+1673
+goat
+	英	[ɡəʊt]
+	美	[ɡoʊt]
+1674
+God
+	英	[ɡɒd]
+	美	[ɡɑːd]
+1675
+gold
+	英	[ɡəʊld]
+	美	[ɡoʊld]
+1676
+golden
+	英	['ɡəʊldən]
+	美	['ɡoʊldən]
+1677
+golf
+	英	[ɡɒlf]
+	美	[ɡɑːlf]
+1678
+good
+	英	[ɡʊd]
+	美	[ɡʊd]
+1679
+good-bye
+	英	['gʊd'baɪ]
+	美	[gʊd'baɪ]
+1680
+goodness
+	英	['ɡʊdnəs]
+	美	['ɡʊdnəs]
+1681
+goods
+	英	[ɡʊdz]
+	美	[ɡʊdz]
+1682
+goose
+	英	[ɡuːs]
+	美	[ɡuːs]
+1683
+govern
+	英	['ɡʌvn]
+	美	['ɡʌvərn]
+1684
+government
+	英	['ɡʌvənmənt]
+	美	['ɡʌvərnmənt]
+1685
+governor
+	英	['ɡʌvənə(r)]
+	美	['ɡʌvərnər]
+1686
+gown
+	英	[ɡaʊn]
+	美	[ɡaʊn]
+1687
+grace
+	英	[ɡreɪs]
+	美	[ɡreɪs]
+1688
+graceful
+	英	['ɡreɪsfl]
+	美	['ɡreɪsfl]
+1689
+gracious
+	英	['ɡreɪʃəs]
+	美	['ɡreɪʃəs]
+1690
+grade
+	英	[ɡreɪd]
+	美	[ɡreɪd]
+1691
+gradual
+	英	['ɡrædʒuəl]
+	美	['ɡrædʒuəl]
+1692
+gradually
+	英	['ɡrædʒuəli]
+	美	['ɡrædʒuəli]
+1693
+graduate
+	英	['ɡrædʒuət]
+	美	['ɡrædʒuət]
+1694
+grain
+	英	[ɡreɪn]
+	美	[ɡreɪn]
+1695
+grammar
+	英	['ɡræmə(r)]
+	美	['ɡræmər]
+1696
+grammatical
+	英	[ɡrə'mætɪkl]
+	美	[ɡrə'mætɪkl]
+1697
+gramme
+1698
+grand
+	英	[ɡrænd]
+	美	[ɡrænd]
+1699
+granddaughter
+	英	['ɡrændɔːtə(r)]
+	美	['ɡrændɔːtər]
+1700
+grandfather
+	英	['ɡrænfɑːðə(r)]
+	美	['ɡrænfɑːðər]
+1701
+grandmother
+	英	['ɡrænmʌðə(r)]
+	美	['ɡrænmʌðər]
+1702
+grandson
+	英	['ɡrænsʌn]
+	美	['ɡrænsʌn]
+1703
+grant
+	英	[ɡrɑːnt]
+	美	[ɡrænt]
+1704
+grape
+	英	[ɡreɪp]
+	美	[ɡreɪp]
+1705
+graph
+	英	[ɡræf]
+	美	[ɡræf]
+1706
+grasp
+	英	[ɡrɑːsp]
+	美	[ɡræsp]
+1707
+grass
+	英	[ɡrɑːs]
+	美	[ɡræs]
+1708
+grateful
+	英	['ɡreɪtfl]
+	美	['ɡreɪtfl]
+1709
+gratitude
+	英	['ɡrætɪtjuːd]
+	美	['ɡrætɪtuːd]
+1710
+grave
+	英	[ɡreiv]
+	美	[ɡreiv]
+1711
+gravity
+	英	['ɡrævəti]
+	美	['ɡrævəti]
+1712
+gray
+	英	[ɡreɪ]
+	美	[ɡreɪ]
+1713
+great
+	英	[ɡreɪt]
+	美	[ɡreɪt]
+1714
+greatly
+	英	['ɡreɪtli]
+	美	['ɡreɪtli]
+1715
+greedy
+	英	['ɡriːdi]
+	美	['ɡriːdi]
+1716
+Greek
+	英	[ɡriːk]
+	美	[ɡriːk]
+1717
+green
+	英	[ɡriːn]
+	美	[ɡriːn]
+1718
+greenhouse
+	英	['ɡriːnhaʊs]
+	美	['ɡriːnhaʊs]
+1719
+greet
+	英	[ɡriːt]
+	美	[ɡriːt]
+1720
+greeting
+	英	['ɡriːtɪŋ]
+	美	['ɡriːtɪŋ]
+1721
+grey
+	英	[ɡreɪ]
+	美	[ɡreɪ]
+1722
+grieve
+	英	[ɡriːv]
+	美	[ɡriːv]
+1723
+grind
+	英	[ɡraɪnd]
+	美	[ɡraɪnd]
+1724
+grip
+	英	[ɡrɪp]
+	美	[ɡrɪp]
+1725
+groan
+	英	[ɡrəʊn]
+	美	[ɡroʊn]
+1726
+grocer
+	英	['ɡrəʊsə(r)]
+	美	['ɡroʊsər]
+1727
+grocery
+	英	['ɡrəʊsəri]
+	美	['ɡroʊsəri]
+1728
+gross
+	英	[ɡrəʊs]
+	美	[ɡroʊs]
+1729
+ground
+	英	[ɡraʊnd]
+	美	[ɡraʊnd]
+1730
+group
+	英	[ɡruːp]
+	美	[ɡruːp]
+1731
+grow
+	英	[ɡrəʊ]
+	美	[ɡroʊ]
+1732
+growth
+	英	[ɡrəʊθ]
+	美	[ɡroʊθ]
+1733
+guarantee
+	英	[ˌɡærən'tiː]
+	美	[ˌɡærən'tiː]
+1734
+guard
+	英	[ɡɑːd]
+	美	[ɡɑːrd]
+1735
+guess
+	英	[ɡes]
+	美	[ɡes]
+1736
+guest
+	英	[ɡest]
+	美	[ɡest]
+1737
+guidance
+	英	['ɡaɪdns]
+	美	['ɡaɪdns]
+1738
+guide
+	英	[ɡaɪd]
+	美	[ɡaɪd]
+1739
+guilty
+	英	['ɡɪlti]
+	美	['ɡɪlti]
+1740
+gulf
+	英	[ɡʌlf]
+	美	[ɡʌlf]
+1741
+gum
+	英	[ɡʌm]
+	美	[ɡʌm]
+1742
+gun
+	英	[ɡʌn]
+	美	[ɡʌn]
+1743
+gunpowder
+	英	['ɡʌnpaʊdə(r)]
+	美	['ɡʌnpaʊdər]
+1744
+gymnasium
+	英	[dʒɪm'neɪziəm]
+	美	[dʒɪm'neɪziəm]
+1745
+habit
+	英	['hæbɪt]
+	美	['hæbɪt]
+1746
+habitual
+	英	[hə'bɪtʃuəl]
+	美	[hə'bɪtʃuəl]
+1747
+hair
+	英	[heə(r)]
+	美	[her]
+1748
+haircut
+	英	['heəkʌt]
+	美	['herkʌt]
+1749
+half
+	英	[hɑːf]
+	美	[hæf]
+1750
+hall
+	英	[hɔːl]
+	美	[hɔːl]
+1751
+halt
+	英	[hɔːlt]
+	美	[hɔːlt]
+1752
+hamburger
+	英	['hæmbɜːɡə(r)]
+	美	['hæmbɜːrɡər]
+1753
+hammer
+	英	['hæmə(r)]
+	美	['hæmər]
+1754
+hand
+	英	[hænd]
+	美	[hænd]
+1755
+handful
+	英	['hændfʊl]
+	美	['hændfʊl]
+1756
+handkerchief
+	英	['hæŋkətʃɪf]
+	美	['hæŋkərtʃɪf]
+1757
+handle
+	英	['hændl]
+	美	['hændl]
+1758
+handsome
+	英	['hænsəm]
+	美	['hænsəm]
+1759
+handwriting
+	英	['hændraɪtɪŋ]
+	美	['hændraɪtɪŋ]
+1760
+handy
+	英	['hændi]
+	美	['hændi]
+1761
+hang
+	英	[hæŋ]
+	美	[hæŋ]
+1762
+happen
+	英	['hæpən]
+	美	['hæpən]
+1763
+happiness
+	英	['hæpinəs]
+	美	['hæpinəs]
+1764
+happy
+	英	['hæpi]
+	美	['hæpi]
+1765
+harbour
+	英	['hɑːbə(r)]
+	美	['hɑːrbər]
+1766
+hard
+	英	[hɑːd]
+	美	[hɑːrd]
+1767
+harden
+	英	['hɑːdn]
+	美	['hɑːrdn]
+1768
+hardly
+	英	['hɑːdli]
+	美	['hɑːrdli]
+1769
+hardship
+	英	['hɑːdʃɪp]
+	美	['hɑːrdʃɪp]
+1770
+hardware
+	英	['hɑːdweə(r)]
+	美	['hɑːrdwer]
+1771
+hare
+	英	[heə(r)]
+	美	[her]
+1772
+harm
+	英	[hɑːm]
+	美	[hɑːrm]
+1773
+harmful
+	英	['hɑːmfl]
+	美	['hɑːrmfl]
+1774
+harmony
+	英	['hɑːməni]
+	美	['hɑːrməni]
+1775
+harness
+	英	['hɑːnɪs]
+	美	['hɑːrnɪs]
+1776
+harsh
+	英	[hɑːʃ]
+	美	[hɑːrʃ]
+1777
+harvest
+	英	['hɑːvɪst]
+	美	['hɑːrvɪst]
+1778
+haste
+	英	[heɪst]
+	美	[heɪst]
+1779
+hasten
+	英	['heɪsn]
+	美	['heɪsn]
+1780
+hasty
+	英	['heɪsti]
+	美	['heɪsti]
+1781
+hat
+	英	[hæt]
+	美	[hæt]
+1782
+hatch
+	英	[hætʃ]
+	美	[hætʃ]
+1783
+hate
+	英	[heɪt]
+	美	[heɪt]
+1784
+hateful
+	英	['heɪtfl]
+	美	['heɪtfl]
+1785
+hatred
+	英	['heɪtrɪd]
+	美	['heɪtrɪd]
+1786
+have
+	英	[həv]
+	美	[həv]
+1787
+hawk
+	英	[hɔːk]
+	美	[hɔːk]
+1788
+hay
+	英	[heɪ]
+	美	[heɪ]
+1789
+hazard
+	英	['hæzəd]
+	美	['hæzərd]
+1790
+he
+	英	[hi:]
+	美	[hi:]
+1791
+head
+	英	[hed]
+	美	[hed]
+1792
+headache
+	英	['hedeɪk]
+	美	['hedeɪk]
+1793
+heading
+	英	['hedɪŋ]
+	美	['hedɪŋ]
+1794
+headline
+	英	['hedlaɪn]
+	美	['hedlaɪn]
+1795
+headmaster
+	英	[ˌhed'mɑːstə(r)]
+	美	[ˌhed'mæstər]
+1796
+headquarters
+	英	[ˌhed'kwɔːtəz]
+	美	['hedkwɔːrtərz]
+1797
+heal
+	英	[hiːl]
+	美	[hiːl]
+1798
+health
+	英	[helθ]
+	美	[helθ]
+1799
+healthy
+	英	['helθi]
+	美	['helθi]
+1800
+heap
+	英	[hiːp]
+	美	[hiːp]
+1801
+hear
+	英	[hɪə(r)]
+	美	[hɪr]
+1802
+heart
+	英	[hɑːt]
+	美	[hɑːrt]
+1803
+heat
+	英	[hiːt]
+	美	[hiːt]
+1804
+heating
+	英	['hiːtɪŋ]
+	美	['hiːtɪŋ]
+1805
+heaven
+	英	['hevn]
+	美	['hevn]
+1806
+heavily
+	英	['hevɪli]
+	美	['hevɪli]
+1807
+heavy
+	英	['hevi]
+	美	['hevi]
+1808
+hedge
+	英	[hedʒ]
+	美	[hedʒ]
+1809
+heel
+	英	[hiːl]
+	美	[hiːl]
+1810
+height
+	英	[haɪt]
+	美	[haɪt]
+1811
+heir
+	英	[eə(r)]
+	美	[er]
+1812
+helicopter
+	英	['helɪkɒptə(r)]
+	美	['helɪkɑːptər]
+1813
+hell
+	英	[hel]
+	美	[hel]
+1814
+hello
+	英	[hə'ləʊ]
+	美	[hə'loʊ]
+1815
+helmet
+	英	['helmɪt]
+	美	['helmɪt]
+1816
+help
+	英	[help]
+	美	[help]
+1817
+helpful
+	英	['helpfl]
+	美	['helpfl]
+1818
+helpless
+	英	['helpləs]
+	美	['helpləs]
+1819
+hen
+	英	[hen]
+	美	[hen]
+1820
+hence
+	英	[hens]
+	美	[hens]
+1821
+her
+	英	[hə(r)]
+	美	[hər]
+1822
+herd
+	英	[hɜːd]
+	美	[hɜːrd]
+1823
+here
+	英	[hɪə(r)]
+	美	[hɪr]
+1824
+hero
+	英	['hɪərəʊ]
+	美	['hɪroʊ]
+1825
+heroic
+	英	[hə'rəʊɪk]
+	美	[hə'roʊɪk]
+1826
+heroine
+	英	['herəʊɪn]
+	美	['heroʊɪn]
+1827
+hers
+	英	[hɜːz]
+	美	[hɜːrz]
+1828
+herself
+	英	[hɜː'self]
+	美	[hɜːr'self]
+1829
+hesitate
+	英	['hezɪteɪt]
+	美	['hezɪteɪt]
+1830
+hi
+	英	[haɪ]
+	美	[haɪ]
+1831
+hide
+	英	[haɪd]
+	美	[haɪd]
+1832
+high
+	英	[haɪ]
+	美	[haɪ]
+1833
+highly
+	英	['haɪli]
+	美	['haɪli]
+1834
+highway
+	英	['haɪweɪ]
+	美	['haɪweɪ]
+1835
+hill
+	英	[hɪl]
+	美	[hɪl]
+1836
+hillside
+	英	['hɪlsaɪd]
+	美	['hɪlsaɪd]
+1837
+him
+	英	[hɪm]
+	美	[hɪm]
+1838
+himself
+	英	[hɪm'self]
+	美	[hɪm'self]
+1839
+hint
+	英	[hɪnt]
+	美	[hɪnt]
+1840
+hire
+	英	['haɪə(r)]
+	美	['haɪər]
+1841
+his
+	英	[hɪz]
+	美	[hɪz]
+1842
+historical
+	英	[hɪ'stɒrɪkl]
+	美	[hɪ'stɔːrɪkl]
+1843
+history
+	英	['hɪstri]
+	美	['hɪstri]
+1844
+hit
+	英	[hɪt]
+	美	[hɪt]
+1845
+hobby
+	英	['hɒbi]
+	美	['hɑːbi]
+1846
+hold
+	英	[həʊld]
+	美	[hoʊld]
+1847
+hole
+	英	[həʊl]
+	美	[hoʊl]
+1848
+holiday
+	英	['hɒlədeɪ]
+	美	['hɑːlədeɪ]
+1849
+hollow
+	英	['hɒləʊ]
+	美	['hɑːloʊ]
+1850
+holy
+	英	['həʊli]
+	美	['hoʊli]
+1851
+home
+	英	[həʊm]
+	美	[hoʊm]
+1852
+honest
+	英	['ɒnɪst]
+	美	['ɑːnɪst]
+1853
+honesty
+	英	['ɒnəsti]
+	美	['ɑːnəsti]
+1854
+honey
+	英	['hʌni]
+	美	['hʌni]
+1855
+honeymoon
+	英	['hʌnimuːn]
+	美	['hʌnimuːn]
+1856
+honour
+	英	['ɒnə(r)]
+	美	['ɑːnər]
+1857
+honourable
+	英	['ɒnərəbl]
+	美	['ɑːnərəbl]
+1858
+hook
+	英	[hʊk]
+	美	[hʊk]
+1859
+hope
+	英	[həʊp]
+	美	[hoʊp]
+1860
+hopeful
+	英	['həʊpfl]
+	美	['hoʊpfl]
+1861
+hopeless
+	英	['həʊpləs]
+	美	['hoʊpləs]
+1862
+horizon
+	英	[hə'raɪzn]
+	美	[hə'raɪzn]
+1863
+horizontal
+	英	[ˌhɒrɪ'zɒntl]
+	美	[ˌhɔːrə'zɑːntl]
+1864
+horn
+	英	[hɔːn]
+	美	[hɔːrn]
+1865
+horror
+	英	['hɒrə(r)]
+	美	['hɔːrər]
+1866
+horse
+	英	[hɔːs]
+	美	[hɔːrs]
+1867
+horsepower
+	英	['hɔːspaʊə(r)]
+	美	['hɔːrspaʊər]
+1868
+hospital
+	英	['hɒspɪtl]
+	美	['hɑːspɪtl]
+1869
+host
+	英	[həʊst]
+	美	[hoʊst]
+1870
+hostess
+	英	['həʊstəs]
+	美	['hoʊstəs]
+1871
+hostile
+	英	['hɒstaɪl]
+	美	['hɑːstl]
+1872
+hot
+	英	[hɒt]
+	美	[hɑːt]
+1873
+hotel
+	英	[həʊ'tel]
+	美	[hoʊ'tel]
+1874
+hour
+	英	['aʊə(r)]
+	美	['aʊər]
+1875
+house
+	英	[haʊs]
+	美	[haʊs]
+1876
+household
+	英	['haʊshəʊld]
+	美	['haʊshoʊld]
+1877
+housewife
+	英	['haʊswaɪf]
+	美	['haʊswaɪf]
+1878
+how
+	英	[haʊ]
+	美	[haʊ]
+1879
+however
+	英	[haʊ'evə(r)]
+	美	[haʊ'evər]
+1880
+huge
+	英	[hjuːdʒ]
+	美	[hjuːdʒ]
+1881
+human
+	英	['hjuːmən]
+	美	['hjuːmən]
+1882
+humble
+	英	['hʌmbl]
+	美	['hʌmbl]
+1883
+humid
+	英	['hjuːmɪd]
+	美	['hjuːmɪd]
+1884
+humorous
+	英	['hjuːmərəs]
+	美	['hjuːmərəs]
+1885
+humour
+	英	['hjuːmə(r)]
+	美	['hjuːmər]
+1886
+hundred
+	英	['hʌndrəd]
+	美	['hʌndrəd]
+1887
+hunger
+	英	['hʌŋɡə(r)]
+	美	['hʌŋɡər]
+1888
+hungry
+	英	['hʌŋɡri]
+	美	['hʌŋɡri]
+1889
+hunt
+	英	[hʌnt]
+	美	[hʌnt]
+1890
+hurry
+	英	['hʌri]
+	美	['hɜːri]
+1891
+hurt
+	英	[hɜːt]
+	美	[hɜːrt]
+1892
+husband
+	英	['hʌzbənd]
+	美	['hʌzbənd]
+1893
+hut
+	英	[hʌt]
+	美	[hʌt]
+1894
+hydrogen
+	英	['haɪdrədʒən]
+	美	['haɪdrədʒən]
+1895
+I
+	英	[aɪ]
+	美	[aɪ]
+1896
+ice
+	英	[aɪs]
+	美	[aɪs]
+1897
+ice-cream
+	英	['aɪskriːm]
+	美	['aɪskriːm]
+1898
+idea
+	英	[aɪ'dɪə]
+	美	[aɪ'diːə]
+1899
+ideal
+	英	[aɪ'diːəl]
+	美	[aɪ'diːəl]
+1900
+identical
+	英	[aɪ'dentɪkl]
+	美	[aɪ'dentɪkl]
+1901
+identify
+	英	[aɪ'dentɪfaɪ]
+	美	[aɪ'dentɪfaɪ]
+1902
+idiom
+	英	['ɪdiəm]
+	美	['ɪdiəm]
+1903
+idle
+	英	['aɪdl]
+	美	['aɪdl]
+1904
+if
+	英	[ɪf]
+	美	[ɪf]
+1905
+ignorant
+	英	['ɪɡnərənt]
+	美	['ɪɡnərənt]
+1906
+ignore
+	英	[ɪɡ'nɔː(r)]
+	美	[ɪɡ'nɔːr]
+1907
+ill
+	英	[ɪl]
+	美	[ɪl]
+1908
+illegal
+	英	[ɪ'liːɡl]
+	美	[ɪ'liːɡl]
+1909
+illness
+	英	['ɪlnəs]
+	美	['ɪlnəs]
+1910
+illustrate
+	英	['ɪləstreɪt]
+	美	['ɪləstreɪt]
+1911
+illustration
+	英	[ˌɪlə'streɪʃn]
+	美	[ˌɪlə'streɪʃn]
+1912
+image
+	英	['ɪmɪdʒ]
+	美	['ɪmɪdʒ]
+1913
+imaginary
+	英	[ɪ'mædʒɪnəri]
+	美	[ɪ'mædʒɪneri]
+1914
+imagination
+	英	[ɪˌmædʒɪ'neɪʃn]
+	美	[ɪˌmædʒɪ'neɪʃn]
+1915
+imagine
+	英	[ɪ'mædʒɪn]
+	美	[ɪ'mædʒɪn]
+1916
+imitate
+	英	['ɪmɪteɪt]
+	美	['ɪmɪteɪt]
+1917
+immediate
+	英	[ɪ'miːdiət]
+	美	[ɪ'miːdiət]
+1918
+immediately
+	英	[ɪ'miːdiətli]
+	美	[ɪ'miːdiətli]
+1919
+immense
+	英	[ɪ'mens]
+	美	[ɪ'mens]
+1920
+immigrant
+	英	['ɪmɪɡrənt]
+	美	['ɪmɪɡrənt]
+1921
+impact
+	英	['ɪmpækt]
+	美	['ɪmpækt]
+1922
+impatient
+	英	[ɪm'peɪʃnt]
+	美	[ɪm'peɪʃnt]
+1923
+implication
+	英	[ˌɪmplɪ'keɪʃn]
+	美	[ˌɪmplɪ'keɪʃn]
+1924
+imply
+	英	[ɪm'plaɪ]
+	美	[ɪm'plaɪ]
+1925
+import
+	英	['ɪmpɔːt]
+	美	['ɪmpɔːrt]
+1926
+importance
+	英	[ɪm'pɔːtns]
+	美	[ɪm'pɔːrtns]
+1927
+important
+	英	[ɪm'pɔːtnt]
+	美	[ɪm'pɔːrtnt]
+1928
+impose
+	英	[ɪm'pəʊz]
+	美	[ɪm'poʊz]
+1929
+impossible
+	英	[ɪm'pɒsəbl]
+	美	[ɪm'pɑːsəbl]
+1930
+impress
+	英	[ɪm'pres]
+	美	[ɪm'pres]
+1931
+impression
+	英	[ɪm'preʃn]
+	美	[ɪm'preʃn]
+1932
+impressive
+	英	[ɪm'presɪv]
+	美	[ɪm'presɪv]
+1933
+imprison
+	英	[ɪm'prɪzn]
+	美	[ɪm'prɪzn]
+1934
+improve
+	英	[ɪm'pruːv]
+	美	[ɪm'pruːv]
+1935
+improvement
+	英	[ɪm'pruːvmənt]
+	美	[ɪm'pruːvmənt]
+1936
+in
+	英	[ɪn]
+	美	[ɪn]
+1937
+inch
+	英	[ɪntʃ]
+	美	[ɪntʃ]
+1938
+incident
+	英	['ɪnsɪdənt]
+	美	['ɪnsɪdənt]
+1939
+incline
+	英	[ɪn'klaɪn]
+	美	[ɪn'klaɪn]
+1940
+include
+	英	[ɪn'kluːd]
+	美	[ɪn'kluːd]
+1941
+income
+	英	['ɪnkʌm]
+	美	['ɪnkʌm]
+1942
+incorrect
+	英	[ˌɪnkə'rekt]
+	美	[ˌɪnkə'rekt]
+1943
+increase
+	英	[ɪn'kriːs]
+	美	[ɪn'kriːs]
+1944
+increasingly
+	英	[ɪn'kriːsɪŋli]
+	美	[ɪn'kriːsɪŋli]
+1945
+indeed
+	英	[ɪn'diːd]
+	美	[ɪn'diːd]
+1946
+indefinite
+	英	[ɪn'defɪnət]
+	美	[ɪn'defɪnət]
+1947
+independence
+	英	[ˌɪndɪ'pendəns]
+	美	[ˌɪndɪ'pendəns]
+1948
+independent
+	英	[ˌɪndɪ'pendənt]
+	美	[ˌɪndɪ'pendənt]
+1949
+index
+	英	['ɪndeks]
+	美	['ɪndeks]
+1950
+India
+	英	['ɪndɪə]
+	美	['ɪndɪə]
+1951
+Indian
+	英	['ɪndiən]
+	美	['ɪndiən]
+1952
+indicate
+	英	['ɪndɪkeɪt]
+	美	['ɪndɪkeɪt]
+1953
+indication
+	英	[ˌɪndɪ'keɪʃn]
+	美	[ˌɪndɪ'keɪʃn]
+1954
+indifferent
+	英	[ɪn'dɪfrənt]
+	美	[ɪn'dɪfrənt]
+1955
+indignant
+	英	[ɪn'dɪɡnənt]
+	美	[ɪn'dɪɡnənt]
+1956
+indirect
+	英	[ˌɪndə'rekt]
+	美	[ˌɪndə'rekt]
+1957
+indispensable
+	英	[ˌɪndɪ'spensəbl]
+	美	[ˌɪndɪ'spensəbl]
+1958
+individual
+	英	[ˌɪndɪ'vɪdʒuəl]
+	美	[ˌɪndɪ'vɪdʒuəl]
+1959
+indoors
+	英	[ˌɪn'dɔːz]
+	美	[ˌɪn'dɔːrz]
+1960
+industrial
+	英	[ɪn'dʌstriəl]
+	美	[ɪn'dʌstriəl]
+1961
+industrialize
+	英	[ɪn'dʌstriəlaɪz]
+	美	[ɪn'dʌstriəlaɪz]
+1962
+industry
+	英	['ɪndəstri]
+	美	['ɪndəstri]
+1963
+inefficient
+	英	[ˌɪnɪ'fɪʃnt]
+	美	[ˌɪnɪ'fɪʃnt]
+1964
+inevitable
+	英	[ɪn'evɪtəbl]
+	美	[ɪn'evɪtəbl]
+1965
+inexpensive
+	英	[ˌɪnɪk'spensɪv]
+	美	[ˌɪnɪk'spensɪv]
+1966
+infant
+	英	['ɪnfənt]
+	美	['ɪnfənt]
+1967
+infect
+	英	[ɪn'fekt]
+	美	[ɪn'fekt]
+1968
+infer
+	英	[ɪn'fɜː(r)]
+	美	[ɪn'fɜːr]
+1969
+inferior
+	英	[ɪn'fɪəriə(r)]
+	美	[ɪn'fɪriər]
+1970
+infinite
+	英	['ɪnfɪnət]
+	美	['ɪnfɪnət]
+1971
+influence
+	英	['ɪnfluəns]
+	美	['ɪnfluəns]
+1972
+influential
+	英	[ˌɪnflu'enʃl]
+	美	[ˌɪnflu'enʃl]
+1973
+inform
+	英	[ɪn'fɔːm]
+	美	[ɪn'fɔːrm]
+1974
+information
+	英	[ˌɪnfə'meɪʃn]
+	美	[ˌɪnfər'meɪʃn]
+1975
+inhabit
+	英	[ɪn'hæbɪt]
+	美	[ɪn'hæbɪt]
+1976
+inhabitant
+	英	[ɪn'hæbɪtənt]
+	美	[ɪn'hæbɪtənt]
+1977
+inherit
+	英	[ɪn'herɪt]
+	美	[ɪn'herɪt]
+1978
+initial
+	英	[ɪ'nɪʃl]
+	美	[ɪ'nɪʃl]
+1979
+injection
+	英	[ɪn'dʒekʃn]
+	美	[ɪn'dʒekʃn]
+1980
+injure
+	英	['ɪndʒə(r)]
+	美	['ɪndʒər]
+1981
+injury
+	英	['ɪndʒəri]
+	美	['ɪndʒəri]
+1982
+ink
+	英	[ɪŋk]
+	美	[ɪŋk]
+1983
+inn
+	英	[ɪn]
+	美	[ɪn]
+1984
+inner
+	英	['ɪnə(r)]
+	美	['ɪnər]
+1985
+innocent
+	英	['ɪnəsnt]
+	美	['ɪnəsnt]
+1986
+input
+	英	['ɪnpʊt]
+	美	['ɪnpʊt]
+1987
+inquire
+	英	[ɪn'kwaɪə(r)]
+	美	[ɪn'kwaɪər]
+1988
+inquiry
+	英	[ɪn'kwaɪərɪ]
+	美	[ɪn'kwaɪrɪ]
+1989
+insect
+	英	['ɪnsekt]
+	美	['ɪnsekt]
+1990
+insert
+	英	[ɪn'sɜːt]
+	美	[ɪn'sɜːrt]
+1991
+inside
+	英	[ˌɪn'saɪd]
+	美	[ˌɪn'saɪd]
+1992
+insist
+	英	[ɪn'sɪst]
+	美	[ɪn'sɪst]
+1993
+inspect
+	英	[ɪn'spekt]
+	美	[ɪn'spekt]
+1994
+inspection
+	英	[ɪn'spekʃn]
+	美	[ɪn'spekʃn]
+1995
+inspire
+	英	[ɪn'spaɪə(r)]
+	美	[ɪn'spaɪər]
+1996
+install
+	英	[ɪn'stɔːl]
+	美	[ɪn'stɔːl]
+1997
+installation
+	英	[ˌɪnstə'leɪʃn]
+	美	[ˌɪnstə'leɪʃn]
+1998
+instance
+	英	['ɪnstəns]
+	美	['ɪnstəns]
+1999
+instant
+	英	['ɪnstənt]
+	美	['ɪnstənt]
+2000
+instantly
+	英	['ɪnstəntli]
+	美	['ɪnstəntli]
+2001
+instead
+	英	[ɪn'sted]
+	美	[ɪn'sted]
+2002
+instinct
+	英	['ɪnstɪŋkt]
+	美	['ɪnstɪŋkt]
+2003
+institute
+	英	['ɪnstɪtjuːt]
+	美	['ɪnstɪtuːt]
+2004
+institution
+	英	[ˌɪnstɪ'tjuːʃn]
+	美	[ˌɪnstɪ'tuːʃn]
+2005
+instruct
+	英	[ɪn'strʌkt]
+	美	[ɪn'strʌkt]
+2006
+instruction
+	英	[ɪn'strʌkʃn]
+	美	[ɪn'strʌkʃn]
+2007
+instrument
+	英	['ɪnstrəmənt]
+	美	['ɪnstrəmənt]
+2008
+insufficient
+	英	[ˌɪnsə'fɪʃnt]
+	美	[ˌɪnsə'fɪʃnt]
+2009
+insult
+	英	[ɪn'sʌlt]
+	美	[ɪn'sʌlt]
+2010
+insurance
+	英	[ɪn'ʃʊərəns]
+	美	[ɪn'ʃʊrəns]
+2011
+insure
+	英	[ɪn'ʃʊə(r)]
+	美	[ɪn'ʃʊr]
+2012
+intellectual
+	英	[ˌɪntə'lektʃuəl]
+	美	[ˌɪntə'lektʃuəl]
+2013
+intelligence
+	英	[ɪn'telɪdʒəns]
+	美	[ɪn'telɪdʒəns]
+2014
+intelligent
+	英	[ɪn'telɪdʒənt]
+	美	[ɪn'telɪdʒənt]
+2015
+intend
+	英	[ɪn'tend]
+	美	[ɪn'tend]
+2016
+intense
+	英	[ɪn'tens]
+	美	[ɪn'tens]
+2017
+intensity
+	英	[ɪn'tensəti]
+	美	[ɪn'tensəti]
+2018
+intensive
+	英	[ɪn'tensɪv]
+	美	[ɪn'tensɪv]
+2019
+intention
+	英	[ɪn'tenʃn]
+	美	[ɪn'tenʃn]
+2020
+intentional
+	英	[ɪn'tenʃənl]
+	美	[ɪn'tenʃənl]
+2021
+interaction
+	英	[ˌɪntər'ækʃn]
+	美	[ˌɪntər'ækʃn]
+2022
+interest
+	英	['ɪntrəst]
+	美	['ɪntrəst]
+2023
+interesting
+	英	['ɪntrəstɪŋ]
+	美	['ɪntrəstɪŋ]
+2024
+interfere
+	英	[ˌɪntə'fɪə(r)]
+	美	[ˌɪntər'fɪr]
+2025
+interference
+	英	[ˌɪntə'fɪərəns]
+	美	[ˌɪntər'fɪrəns]
+2026
+interior
+	英	[ɪn'tɪəriə(r)]
+	美	[ɪn'tɪriər]
+2027
+intermediate
+	英	[ˌɪntə'miːdiət]
+	美	[ˌɪntər'miːdiət]
+2028
+internal
+	英	[ɪn'tɜːnl]
+	美	[ɪn'tɜːrnl]
+2029
+international
+	英	[ˌɪntə'næʃnəl]
+	美	[ˌɪntər'næʃnəl]
+2030
+interpret
+	英	[ɪn'tɜːprɪt]
+	美	[ɪn'tɜːrprɪt]
+2031
+interpretation
+	英	[ɪnˌtɜːprɪ'teɪʃn]
+	美	[ɪnˌtɜːrprɪ'teɪʃn]
+2032
+interpreter
+	英	[ɪn'tɜːprɪtə(r)]
+	美	[ɪn'tɜːrprɪtər]
+2033
+interrupt
+	英	[ˌɪntə'rʌpt]
+	美	[ˌɪntə'rʌpt]
+2034
+interruption
+	英	[ˌɪntə'rʌpʃn]
+	美	[ˌɪntə'rʌpʃn]
+2035
+interval
+	英	['ɪntəvl]
+	美	['ɪntərvl]
+2036
+interview
+	英	['ɪntəvjuː]
+	美	['ɪntərvjuː]
+2037
+intimate
+	英	['ɪntɪmət]
+	美	['ɪntɪmət]
+2038
+into
+	英	['ɪntə]
+	美	['ɪntə]
+2039
+introduce
+	英	[ˌɪntrə'djuːs]
+	美	[ˌɪntrə'duːs]
+2040
+introduction
+	英	[ˌɪntrə'dʌkʃn]
+	美	[ˌɪntrə'dʌkʃn]
+2041
+invade
+	英	[ɪn'veɪd]
+	美	[ɪn'veɪd]
+2042
+invasion
+	英	[ɪn'veɪʒn]
+	美	[ɪn'veɪʒn]
+2043
+invent
+	英	[ɪn'vent]
+	美	[ɪn'vent]
+2044
+invention
+	英	[ɪn'venʃn]
+	美	[ɪn'venʃn]
+2045
+inventor
+	英	[ɪn'ventə(r)]
+	美	[ɪn'ventər]
+2046
+invest
+	英	[ɪn'vest]
+	美	[ɪn'vest]
+2047
+investigate
+	英	[ɪn'vestɪɡeɪt]
+	美	[ɪn'vestɪɡeɪt]
+2048
+investigation
+	英	[ɪnˌvestɪ'ɡeɪʃn]
+	美	[ɪnˌvestɪ'ɡeɪʃn]
+2049
+investment
+	英	[ɪn'vestmənt]
+	美	[ɪn'vestmənt]
+2050
+invisible
+	英	[ɪn'vɪzəbl]
+	美	[ɪn'vɪzəbl]
+2051
+invitation
+	英	[ˌɪnvɪ'teɪʃn]
+	美	[ˌɪnvɪ'teɪʃn]
+2052
+invite
+	英	[ɪn'vaɪt]
+	美	[ɪn'vaɪt]
+2053
+involve
+	英	[ɪn'vɒlv]
+	美	[ɪn'vɑːlv]
+2054
+inward
+	英	['ɪnwəd]
+	美	['ɪnwərd]
+2055
+iron
+	英	['aɪən]
+	美	['aɪərn]
+2056
+irregular
+	英	[ɪ'reɡjələ(r)]
+	美	[ɪ'reɡjələr]
+2057
+island
+	英	['aɪlənd]
+	美	['aɪlənd]
+2058
+isolate
+	英	['aɪsəleɪt]
+	美	['aɪsəleɪt]
+2059
+issue
+	英	['ɪʃuː]
+	美	['ɪʃuː]
+2060
+it
+	英	[ɪt]
+	美	[ɪt]
+2061
+Italian
+	英	[ɪ'tæliən]
+	美	[ɪ'tæliən]
+2062
+item
+	英	['aɪtəm]
+	美	['aɪtəm]
+2063
+its
+	英	[ɪts]
+	美	[ɪts]
+2064
+itself
+	英	[ɪt'self]
+	美	[ɪt'self]
+2065
+jacket
+	英	['dʒækɪt]
+	美	['dʒækɪt]
+2066
+jail
+	英	[dʒeɪl]
+	美	[dʒeɪl]
+2067
+jam
+	英	[dʒæm]
+	美	[dʒæm]
+2068
+January
+	英	['dʒænjuəri]
+	美	['dʒænjueri]
+2069
+Japan
+	英	[dʒə'pæn]
+	美	[dʒə'pæn]
+2070
+Japanese
+	英	[ˌdʒæpə'niːz]
+	美	[ˌdʒæpə'niːz]
+2071
+jar
+	英	[dʒɑː(r)]
+	美	[dʒɑːr]
+2072
+jaw
+	英	[dʒɔː]
+	美	[dʒɔː]
+2073
+jazz
+	英	[dʒæz]
+	美	[dʒæz]
+2074
+jealous
+	英	['dʒeləs]
+	美	['dʒeləs]
+2075
+jet
+	英	[dʒet]
+	美	[dʒet]
+2076
+jewel
+	英	['dʒuːəl]
+	美	['dʒuːəl]
+2077
+jewish
+	英	['dʒuːɪʃ]
+	美	['dʒuːɪʃ]
+2078
+job
+	英	[dʒɒb]
+	美	[dʒɑːb]
+2079
+join
+	英	[dʒɔɪn]
+	美	[dʒɔɪn]
+2080
+joint
+	英	[dʒɔɪnt]
+	美	[dʒɔɪnt]
+2081
+joke
+	英	[dʒəʊk]
+	美	[dʒoʊk]
+2082
+jolly
+	英	['dʒɒli]
+	美	['dʒɑːli]
+2083
+journal
+	英	['dʒɜːnl]
+	美	['dʒɜːrnl]
+2084
+journalist
+	英	['dʒɜːnəlɪst]
+	美	['dʒɜːrnəlɪst]
+2085
+journey
+	英	['dʒɜːni]
+	美	['dʒɜːrni]
+2086
+joy
+	英	[dʒɔɪ]
+	美	[dʒɔɪ]
+2087
+joyful
+	英	['dʒɔɪfl]
+	美	['dʒɔɪfl]
+2088
+judge
+	英	[dʒʌdʒ]
+	美	[dʒʌdʒ]
+2089
+judgement
+	英	['dʒʌdʒmənt]
+	美	['dʒʌdʒmənt]
+2090
+juice
+	英	[dʒuːs]
+	美	[dʒuːs]
+2091
+July
+	英	[dʒu'laɪ]
+	美	[dʒu'laɪ]
+2092
+jump
+	英	[dʒʌmp]
+	美	[dʒʌmp]
+2093
+June
+	英	[dʒuːn]
+	美	[dʒuːn]
+2094
+jungle
+	英	['dʒʌŋɡl]
+	美	['dʒʌŋɡl]
+2095
+junior
+	英	['dʒuːniə(r)]
+	美	['dʒuːniər]
+2096
+jury
+	英	['dʒʊəri]
+	美	['dʒʊri]
+2097
+just
+	英	[dʒʌst]
+	美	[dʒʌst]
+2098
+justice
+	英	['dʒʌstɪs]
+	美	['dʒʌstɪs]
+2099
+justify
+	英	['dʒʌstɪfaɪ]
+	美	['dʒʌstɪfaɪ]
+2100
+keen
+	英	[kiːn]
+	美	[kiːn]
+2101
+keep
+	英	[kiːp]
+	美	[kiːp]
+2102
+keeper
+	英	['kiːpə(r)]
+	美	['kiːpər]
+2103
+kettle
+	英	['ketl]
+	美	['ketl]
+2104
+key
+	英	[kiː]
+	美	[kiː]
+2105
+keyboard
+	英	['kiːbɔːd]
+	美	['kiːbɔːrd]
+2106
+kick
+	英	[kɪk]
+	美	[kɪk]
+2107
+kid
+	英	[kɪd]
+	美	[kɪd]
+2108
+kill
+	英	[kɪl]
+	美	[kɪl]
+2109
+kilogram
+	英	['kɪləɡræm]
+	美	['kɪləɡræm]
+2110
+kilometre
+	英	['kɪləmiːtə(r)]
+	美	['kɪləmiːtər]
+2111
+kind
+	英	[kaɪnd]
+	美	[kaɪnd]
+2112
+kindness
+	英	['kaɪndnəs]
+	美	['kaɪndnəs]
+2113
+king
+	英	[kɪŋ]
+	美	[kɪŋ]
+2114
+kingdom
+	英	['kɪŋdəm]
+	美	['kɪŋdəm]
+2115
+kiss
+	英	[kɪs]
+	美	[kɪs]
+2116
+kitchen
+	英	['kɪtʃɪn]
+	美	['kɪtʃɪn]
+2117
+kite
+	英	[kaɪt]
+	美	[kaɪt]
+2118
+knee
+	英	[niː]
+	美	[niː]
+2119
+kneel
+	英	[niːl]
+	美	[niːl]
+2120
+knife
+	英	[naɪf]
+	美	[naɪf]
+2121
+knit
+	英	[nɪt]
+	美	[nɪt]
+2122
+knob
+	英	[nɒb]
+	美	[nɑːb]
+2123
+knock
+	英	[nɒk]
+	美	[nɑːk]
+2124
+knot
+	英	[nɒt]
+	美	[nɑːt]
+2125
+know
+	英	[nəʊ]
+	美	[noʊ]
+2126
+knowledge
+	英	['nɒlɪdʒ]
+	美	['nɑːlɪdʒ]
+2127
+lab
+	英	[læb]
+	美	[læb]
+2128
+label
+	英	['leɪbl]
+	美	['leɪbl]
+2129
+laboratory
+	英	[lə'bɒrətri]
+	美	['læbrətɔːri]
+2130
+labour
+	英	['leɪbə(r)]
+	美	['leɪbər]
+2131
+lace
+	英	[leɪs]
+	美	[leɪs]
+2132
+lack
+	英	[læk]
+	美	[læk]
+2133
+ladder
+	英	['lædə(r)]
+	美	['lædər]
+2134
+lady
+	英	['leɪdi]
+	美	['leɪdi]
+2135
+lag
+	英	[læɡ]
+	美	[læɡ]
+2136
+lake
+	英	[leɪk]
+	美	[leɪk]
+2137
+lamb
+	英	[læm]
+	美	[læm]
+2138
+lame
+	英	[leɪm]
+	美	[leɪm]
+2139
+lamp
+	英	[læmp]
+	美	[læmp]
+2140
+land
+	英	[lænd]
+	美	[lænd]
+2141
+landing
+	英	['lændɪŋ]
+	美	['lændɪŋ]
+2142
+landlady
+	英	['lændleɪdi]
+	美	['lændleɪdi]
+2143
+landlord
+	英	['lændlɔːd]
+	美	['lændlɔːrd]
+2144
+lane
+	英	[leɪn]
+	美	[leɪn]
+2145
+language
+	英	['læŋɡwɪdʒ]
+	美	['læŋɡwɪdʒ]
+2146
+lantern
+	英	['læntən]
+	美	['læntərn]
+2147
+lap
+	英	[læp]
+	美	[læp]
+2148
+large
+	英	[lɑːdʒ]
+	美	[lɑːrdʒ]
+2149
+largely
+	英	['lɑːdʒli]
+	美	['lɑːrdʒli]
+2150
+laser
+	英	['leɪzə(r)]
+	美	['leɪzər]
+2151
+last
+	英	[lɑːst]
+	美	[læst]
+2152
+late
+	英	[leɪt]
+	美	[leɪt]
+2153
+lately
+	英	['leɪtli]
+	美	['leɪtli]
+2154
+later
+	英	['leɪtə(r)]
+	美	['leɪtər]
+2155
+Latin
+	英	['lætɪn]
+	美	['lætn]
+2156
+latter
+	英	['lætə(r)]
+	美	['lætər]
+2157
+laugh
+	英	[lɑːf]
+	美	[læf]
+2158
+laughter
+	英	['lɑːftə(r)]
+	美	['læftər]
+2159
+launch
+	英	[lɔːntʃ]
+	美	[lɔːntʃ]
+2160
+laundry
+	英	['lɔːndri]
+	美	['lɔːndri]
+2161
+lavatory
+	英	['lævətri]
+	美	['lævətɔːri]
+2162
+law
+	英	[lɔː]
+	美	[lɔː]
+2163
+lawn
+	英	[lɔːn]
+	美	[lɔːn]
+2164
+lawyer
+	英	['lɔːjə(r)]
+	美	['lɔːjər]
+2165
+lay
+	英	[leɪ]
+	美	[leɪ]
+2166
+layer
+	英	['leɪə(r)]
+	美	['ler]
+2167
+layout
+	英	['leɪaʊt]
+	美	['leɪaʊt]
+2168
+lazy
+	英	['leɪzi]
+	美	['leɪzi]
+2169
+lead
+	英	[liːd]
+	美	[liːd]
+2170
+leader
+	英	['liːdə(r)]
+	美	['liːdər]
+2171
+leadership
+	英	['liːdəʃɪp]
+	美	['liːdərʃɪp]
+2172
+leading
+	英	['liːdɪŋ]
+	美	['liːdɪŋ]
+2173
+leaf
+	英	[liːf]
+	美	[liːf]
+2174
+league
+	英	[liːɡ]
+	美	[liːɡ]
+2175
+leak
+	英	[liːk]
+	美	[liːk]
+2176
+lean
+	英	[liːn]
+	美	[liːn]
+2177
+leap
+	英	[liːp]
+	美	[liːp]
+2178
+learn
+	英	[lɜːn]
+	美	[lɜːrn]
+2179
+learned
+	英	['lɜːnɪd]
+	美	['lɜːrnɪd]
+2180
+learning
+	英	['lɜːnɪŋ]
+	美	['lɜːrnɪŋ]
+2181
+least
+	英	[liːst]
+	美	[liːst]
+2182
+leather
+	英	['leðə(r)]
+	美	['leðər]
+2183
+leave
+	英	[liːv]
+	美	[liːv]
+2184
+lecture
+	英	['lektʃə(r)]
+	美	['lektʃər]
+2185
+left
+	英	[left]
+	美	[left]
+2186
+leg
+	英	[leɡ]
+	美	[leɡ]
+2187
+legal
+	英	['liːɡl]
+	美	['liːɡl]
+2188
+legend
+	英	['ledʒənd]
+	美	['ledʒənd]
+2189
+leisure
+	英	['leʒə(r)]
+	美	['liːʒər]
+2190
+lemon
+	英	['lemən]
+	美	['lemən]
+2191
+lend
+	英	[lend]
+	美	[lend]
+2192
+length
+	英	[leŋθ]
+	美	[leŋθ]
+2193
+lens
+	英	[lenz]
+	美	[lenz]
+2194
+less
+	英	[les]
+	美	[les]
+2195
+lessen
+	英	['lesn]
+	美	['lesn]
+2196
+lesson
+	英	['lesn]
+	美	['lesn]
+2197
+lest
+	英	[lest]
+	美	[lest]
+2198
+let
+	英	[let]
+	美	[let]
+2199
+letter
+	英	['letə(r)]
+	美	['letər]
+2200
+level
+	英	['levl]
+	美	['levl]
+2201
+lever
+	英	['liːvə(r)]
+	美	['levər]
+2202
+liable
+	英	['laɪəbl]
+	美	['laɪəbl]
+2203
+liar
+	英	['laɪə(r)]
+	美	['laɪər]
+2204
+liberal
+	英	['lɪbərəl]
+	美	['lɪbərəl]
+2205
+liberate
+	英	['lɪbəreɪt]
+	美	['lɪbəreɪt]
+2206
+liberation
+	英	[ˌlɪbə'reɪʃn]
+	美	[ˌlɪbə'reɪʃn]
+2207
+liberty
+	英	['lɪbəti]
+	美	['lɪbərti]
+2208
+librarian
+	英	[laɪ'breəriən]
+	美	[laɪ'breriən]
+2209
+library
+	英	['laɪbrəri]
+	美	['laɪbreri]
+2210
+license
+	英	['laɪsns]
+	美	['laɪsns]
+2211
+lick
+	英	[lɪk]
+	美	[lɪk]
+2212
+lid
+	英	[lɪd]
+	美	[lɪd]
+2213
+lie
+	英	[laɪ]
+	美	[laɪ]
+2214
+lieutenant
+	英	[lef'tenənt]
+	美	[luː'tenənt]
+2215
+life
+	英	[laɪf]
+	美	[laɪf]
+2216
+lifetime
+	英	['laɪftaɪm]
+	美	['laɪftaɪm]
+2217
+lift
+	英	[lɪft]
+	美	[lɪft]
+2218
+light
+	英	[laɪt]
+	美	[laɪt]
+2219
+lighten
+	英	['laɪtn]
+	美	['laɪtn]
+2220
+lightly
+	英	['laɪtli]
+	美	['laɪtli]
+2221
+lightning
+	英	['laɪtnɪŋ]
+	美	['laɪtnɪŋ]
+2222
+like
+	英	[laɪk]
+	美	[laɪk]
+2223
+likely
+	英	['laɪkli]
+	美	['laɪkli]
+2224
+likewise
+	英	['laɪkwaɪz]
+	美	['laɪkwaɪz]
+2225
+limb
+	英	[lɪm]
+	美	[lɪm]
+2226
+lime
+	英	[laɪm]
+	美	[laɪm]
+2227
+limit
+	英	['lɪmɪt]
+	美	['lɪmɪt]
+2228
+limitation
+	英	[ˌlɪmɪ'teɪʃn]
+	美	[ˌlɪmɪ'teɪʃn]
+2229
+limited
+	英	['lɪmɪtɪd]
+	美	['lɪmɪtɪd]
+2230
+line
+	英	[laɪn]
+	美	[laɪn]
+2231
+linen
+	英	['lɪnɪn]
+	美	['lɪnɪn]
+2232
+liner
+	英	['laɪnə(r)]
+	美	['laɪnər]
+2233
+link
+	英	[lɪŋk]
+	美	[lɪŋk]
+2234
+lion
+	英	['laɪən]
+	美	['laɪən]
+2235
+lip
+	英	[lɪp]
+	美	[lɪp]
+2236
+liquid
+	英	['lɪkwɪd]
+	美	['lɪkwɪd]
+2237
+liquor
+	英	['lɪkə(r)]
+	美	['lɪkər]
+2238
+list
+	英	[lɪst]
+	美	[lɪst]
+2239
+listen
+	英	['lɪsn]
+	美	['lɪsn]
+2240
+listener
+	英	['lɪsənə(r)]
+	美	['lɪsənər]
+2241
+liter
+	英	['liːtə(r)]
+	美	['liːtər]
+2242
+literary
+	英	['lɪtərəri]
+	美	[lɪtəreri]
+2243
+literature
+	英	['lɪtrətʃə(r)]
+	美	['lɪtrətʃər]
+2244
+little
+	英	['lɪtl]
+	美	['lɪtl]
+2245
+live
+	英	[lɪv]
+	美	[lɪv]
+2246
+lively
+	英	['laɪvli]
+	美	['laɪvli]
+2247
+liver
+	英	['lɪvə(r)]
+	美	['lɪvər]
+2248
+living
+	英	['lɪvɪŋ]
+	美	['lɪvɪŋ]
+2249
+living-room
+	英	['lɪvɪŋ'ruːm]
+	美	['lɪvɪŋ'ruːm]
+2250
+load
+	英	[ləʊd]
+	美	[loʊd]
+2251
+loaf
+	英	[ləʊf]
+	美	[loʊf]
+2252
+loan
+	英	[ləʊn]
+	美	[loʊn]
+2253
+local
+	英	['ləʊkl]
+	美	['loʊkl]
+2254
+locate
+	英	[ləʊ'keɪt]
+	美	['loʊkeɪt]
+2255
+location
+	英	[ləʊ'keɪʃn]
+	美	[loʊ'keɪʃn]
+2256
+lock
+	英	[lɒk]
+	美	[lɑːk]
+2257
+locomotive
+	英	[ˌləʊkə'məʊtɪv]
+	美	[ˌloʊkə'moʊtɪv]
+2258
+lodge
+	英	[lɒdʒ]
+	美	[lɑːdʒ]
+2259
+log
+	英	[lɒɡ]
+	美	[lɔːɡ]
+2260
+logic
+	英	['lɒdʒɪk]
+	美	['lɑːdʒɪk]
+2261
+logical
+	英	['lɒdʒɪkl]
+	美	['lɑːdʒɪkl]
+2262
+lonely
+	英	['ləʊnli]
+	美	['loʊnli]
+2263
+long
+	英	[lɒŋ]
+	美	[lɔːŋ]
+2264
+look
+	英	[lʊk]
+	美	[lʊk]
+2265
+loop
+	英	[luːp]
+	美	[luːp]
+2266
+loose
+	英	[luːs]
+	美	[luːs]
+2267
+loosen
+	英	['luːsn]
+	美	['luːsn]
+2268
+lord
+	英	[lɔːd]
+	美	[lɔːrd]
+2269
+lorry
+	英	['lɒri]
+	美	['lɔːri]
+2270
+lose
+	英	[luːz]
+	美	[luːz]
+2271
+loss
+	英	[lɒs]
+	美	[lɔːs]
+2272
+lot
+	英	[lɒt]
+	美	[lɑːt]
+2273
+loud
+	英	[laʊd]
+	美	[laʊd]
+2274
+loudspeaker
+	英	[ˌlaʊd'spiːkə(r)]
+	美	[ˌlaʊd'spiːkər]
+2275
+love
+	英	[lʌv]
+	美	[lʌv]
+2276
+lovely
+	英	['lʌvli]
+	美	['lʌvli]
+2277
+lover
+	英	['lʌvə(r)]
+	美	['lʌvər]
+2278
+low
+	英	[ləʊ]
+	美	[loʊ]
+2279
+lower
+	英	['ləʊə(r)]
+	美	['loʊər]
+2280
+loyal
+	英	['lɔɪəl]
+	美	['lɔɪəl]
+2281
+loyalty
+	英	['lɔɪəlti]
+	美	['lɔɪəlti]
+2282
+luck
+	英	[lʌk]
+	美	[lʌk]
+2283
+lucky
+	英	['lʌki]
+	美	['lʌki]
+2284
+luggage
+	英	['lʌɡɪdʒ]
+	美	['lʌɡɪdʒ]
+2285
+lumber
+	英	['lʌmbə(r)]
+	美	['lʌmbər]
+2286
+lump
+	英	[lʌmp]
+	美	[lʌmp]
+2287
+lunch
+	英	[lʌntʃ]
+	美	[lʌntʃ]
+2288
+lung
+	英	[lʌŋ]
+	美	[lʌŋ]
+2289
+luxury
+	英	['lʌkʃəri]
+	美	['lʌkʃəri]
+2290
+machine
+	英	[mə'ʃiːn]
+	美	[mə'ʃiːn]
+2291
+mad
+	英	[mæd]
+	美	[mæd]
+2292
+madam
+	英	['mædəm]
+	美	['mædəm]
+2293
+magazine
+	英	[ˌmæɡə'ziːn]
+	美	['mæɡəziːn]
+2294
+magic
+	英	['mædʒɪk]
+	美	['mædʒɪk]
+2295
+magnet
+	英	['mæɡnət]
+	美	['mæɡnət]
+2296
+magnetic
+	英	[mæɡ'netɪk]
+	美	[mæɡ'netɪk]
+2297
+magnificent
+	英	[mæɡ'nɪfɪsnt]
+	美	[mæɡ'nɪfɪsnt]
+2298
+maid
+	英	[meɪd]
+	美	[meɪd]
+2299
+mail
+	英	[meɪl]
+	美	[meɪl]
+2300
+main
+	英	[meɪn]
+	美	[meɪn]
+2301
+mainland
+	英	['meɪnlænd]
+	美	['meɪnlænd]
+2302
+mainly
+	英	['meɪnli]
+	美	['meɪnli]
+2303
+maintain
+	英	[meɪn'teɪn]
+	美	[meɪn'teɪn]
+2304
+maintenance
+	英	['meɪntənəns]
+	美	['meɪntənəns]
+2305
+major
+	英	['meɪdʒə(r)]
+	美	['meɪdʒər]
+2306
+majority
+	英	[mə'dʒɒrəti]
+	美	[mə'dʒɔːrəti]
+2307
+make
+	英	[meɪk]
+	美	[meɪk]
+2308
+male
+	英	[meɪl]
+	美	[meɪl]
+2309
+man
+	英	[mæn]
+	美	[mæn]
+2310
+manage
+	英	['mænɪdʒ]
+	美	['mænɪdʒ]
+2311
+management
+	英	['mænɪdʒmənt]
+	美	['mænɪdʒmənt]
+2312
+manager
+	英	['mænɪdʒə(r)]
+	美	['mænɪdʒər]
+2313
+mankind
+	英	[mæn'kaɪnd]
+	美	[mæn'kaɪnd]
+2314
+manly
+	英	['mænli]
+	美	['mænli]
+2315
+manner
+	英	['mænə(r)]
+	美	['mænər]
+2316
+manual
+	英	['mænjuəl]
+	美	['mænjuəl]
+2317
+manufacture
+	英	[ˌmænju'fæktʃə(r)]
+	美	[ˌmænju'fæktʃər]
+2318
+manufacturer
+	英	[ˌmænju'fæktʃərə(r)]
+	美	[ˌmænju'fæktʃərər]
+2319
+many
+	英	['meni]
+	美	['meni]
+2320
+map
+	英	[mæp]
+	美	[mæp]
+2321
+marble
+	英	['mɑːbl]
+	美	['mɑːrbl]
+2322
+march
+	英	[mɑːtʃ]
+	美	[mɑːrtʃ]
+2323
+margin
+	英	['mɑːdʒɪn]
+	美	['mɑːrdʒən]
+2324
+marine
+	英	[mə'riːn]
+	美	[mə'riːn]
+2325
+mark
+	英	[mɑːk]
+	美	[mɑːrk]
+2326
+market
+	英	['mɑːkɪt]
+	美	['mɑːrkɪt]
+2327
+marriage
+	英	['mærɪdʒ]
+	美	['mærɪdʒ]
+2328
+married
+	英	['mærid]
+	美	['mærid]
+2329
+marry
+	英	['mæri]
+	美	['mæri]
+2330
+marvellous
+	英	['mɑːvələs]
+	美	['mɑːrvələs]
+2331
+Marxism
+	英	['mɑːksɪzəm]
+	美	['mɑːrksɪzəm]
+2332
+Marxist
+	英	['mɑːksɪst]
+	美	['mɑːksɪst]
+2333
+mask
+	英	[mɑːsk]
+	美	[mæsk]
+2334
+mass
+	英	[mæs]
+	美	[mæs]
+2335
+master
+	英	['mɑːstə(r)]
+	美	['mæstər]
+2336
+masterpiece
+	英	['mɑːstəpiːs]
+	美	['mæstərpiːs]
+2337
+mat
+	英	[mæt]
+	美	[mæt]
+2338
+match
+	英	[mætʃ]
+	美	[mætʃ]
+2339
+mate
+	英	[meɪt]
+	美	[meɪt]
+2340
+material
+	英	[mə'tɪəriəl]
+	美	[mə'tɪriəl]
+2341
+materialism
+	英	[mə'tɪəriəlɪzəm]
+	美	[mə'tɪriəlɪzəm]
+2342
+mathematical
+	英	[ˌmæθə'mætɪkl]
+	美	[ˌmæθə'mætɪkl]
+2343
+mathematics
+	英	[ˌmæθə'mætɪks]
+	美	[ˌmæθə'mætɪks]
+2344
+maths
+	英	[mæθs]
+	美	[mæθs]
+2345
+matter
+	英	['mætə(r)]
+	美	['mætər]
+2346
+mature
+	英	[mə'tʃʊə(r)]
+	美	[mə'tʃʊr]
+2347
+maximum
+	英	['mæksɪməm]
+	美	['mæksɪməm]
+2348
+May
+	英	[meɪ]
+	美	[meɪ]
+2349
+maybe
+	英	['meɪbi]
+	美	['meɪbi]
+2350
+mayor
+	英	[meə(r)]
+	美	['meɪər]
+2351
+me
+	英	[mi:]
+	美	[mi:]
+2352
+meadow
+	英	['medəʊ]
+	美	['medoʊ]
+2353
+meal
+	英	[miːl]
+	美	[miːl]
+2354
+mean
+	英	[miːn]
+	美	[miːn]
+2355
+meaning
+	英	['miːnɪŋ]
+	美	['miːnɪŋ]
+2356
+means
+	英	[miːnz]
+	美	[miːnz]
+2357
+meantime
+	英	['miːntaɪm]
+	美	['miːntaɪm]
+2358
+meanwhile
+	英	['miːnwaɪl]
+	美	['miːnwaɪl]
+2359
+measurable
+	英	['meʒərəbl]
+	美	['meʒərəbl]
+2360
+measure
+	英	['meʒə(r)]
+	美	['meʒər]
+2361
+measurement
+	英	['meʒəmənt]
+	美	['meʒərmənt]
+2362
+meat
+	英	[miːt]
+	美	[miːt]
+2363
+mechanic
+	英	[mə'kænɪk]
+	美	[mə'kænɪk]
+2364
+mechanical
+	英	[mə'kænɪkl]
+	美	[mə'kænɪkl]
+2365
+mechanically
+	英	[mə'kænɪkli]
+	美	[mə'kænɪkli]
+2366
+mechanics
+	英	[mɪ'kænɪks]
+	美	[mə'kænɪks]
+2367
+medal
+	英	['medl]
+	美	['medl]
+2368
+medical
+	英	['medɪkl]
+	美	['medɪkl]
+2369
+medicine
+	英	['medsn]
+	美	['medsn]
+2370
+Mediterranean
+	英	[ˌmedɪtə'reɪniən]
+	美	[ˌmedɪtə'reɪniən]
+2371
+medium
+	英	['miːdiəm]
+	美	['miːdiəm]
+2372
+meet
+	英	[miːt]
+	美	[miːt]
+2373
+meeting
+	英	['miːtɪŋ]
+	美	['miːtɪŋ]
+2374
+melon
+	英	['melən]
+	美	['melən]
+2375
+melt
+	英	[melt]
+	美	[melt]
+2376
+member
+	英	['membə(r)]
+	美	['membər]
+2377
+memorial
+	英	[mə'mɔːriəl]
+	美	[mə'mɔːriəl]
+2378
+memory
+	英	['meməri]
+	美	['meməri]
+2379
+mend
+	英	[mend]
+	美	[mend]
+2380
+mental
+	英	['mentl]
+	美	['mentl]
+2381
+mention
+	英	['menʃn]
+	美	['menʃn]
+2382
+menu
+	英	['menjuː]
+	美	['menjuː]
+2383
+merchant
+	英	['mɜːtʃənt]
+	美	['mɜːrtʃənt]
+2384
+Mercury
+	英	['mɜːkjəri]
+	美	['mɜːrkjəri]
+2385
+mercy
+	英	['mɜːsi]
+	美	['mɜːrsi]
+2386
+mere
+	英	[mɪə(r)]
+	美	[mɪr]
+2387
+merely
+	英	['mɪəli]
+	美	['mɪrli]
+2388
+merit
+	英	['merɪt]
+	美	['merɪt]
+2389
+merry
+	英	['meri]
+	美	['meri]
+2390
+mess
+	英	[mes]
+	美	[mes]
+2391
+message
+	英	['mesɪdʒ]
+	美	['mesɪdʒ]
+2392
+messenger
+	英	['mesɪndʒə(r)]
+	美	['mesɪndʒər]
+2393
+metal
+	英	['metl]
+	美	['metl]
+2394
+meter
+	英	['miːtə(r)]
+	美	['miːtər]
+2395
+method
+	英	['meθəd]
+	美	['meθəd]
+2396
+metre
+	英	['miːtə(r)]
+	美	['miːtər]
+2397
+metric
+	英	['metrɪk]
+	美	['metrɪk]
+2398
+microcomputer
+	英	['maɪkrəʊkəmpjuːtə(r)]
+	美	['maɪkroʊkəmpjuːtər]
+2399
+microphone
+	英	['maɪkrəfəʊn]
+	美	['maɪkrəfoʊn]
+2400
+microscope
+	英	['maɪkrəskəʊp]
+	美	['maɪkrəskoʊp]
+2401
+midday
+	英	[ˌmɪd'deɪ]
+	美	[ˌmɪd'deɪ]
+2402
+middle
+	英	['mɪdl]
+	美	['mɪdl]
+2403
+midnight
+	英	['mɪdnaɪt]
+	美	['mɪdnaɪt]
+2404
+midst
+	英	[mɪdst]
+	美	[mɪdst]
+2405
+might
+	英	[maɪt]
+	美	[maɪt]
+2406
+mild
+	英	[maɪld]
+	美	[maɪld]
+2407
+mile
+	英	[maɪl]
+	美	[maɪl]
+2408
+military
+	英	['mɪlətri]
+	美	['mɪləteri]
+2409
+milk
+	英	[mɪlk]
+	美	[mɪlk]
+2410
+mill
+	英	[mɪl]
+	美	[mɪl]
+2411
+millimetre
+	英	['mɪlimiːtə(r)]
+	美	['mɪlimiːtər]
+2412
+million
+	英	['mɪljən]
+	美	['mɪljən]
+2413
+mind
+	英	[maɪnd]
+	美	[maɪnd]
+2414
+mine
+	英	[maɪn]
+	美	[maɪn]
+2415
+miner
+	英	['maɪnə(r)]
+	美	['maɪnər]
+2416
+mineral
+	英	['mɪnərəl]
+	美	['mɪnərəl]
+2417
+minimum
+	英	['mɪnɪməm]
+	美	['mɪnɪməm]
+2418
+minister
+	英	['mɪnɪstə(r)]
+	美	['mɪnɪstər]
+2419
+ministry
+	英	['mɪnɪstri]
+	美	['mɪnɪstri]
+2420
+minor
+	英	['maɪnə(r)]
+	美	['maɪnər]
+2421
+minority
+	英	[maɪ'nɒrəti]
+	美	[maɪ'nɔːrəti]
+2422
+minus
+	英	['maɪnəs]
+	美	['maɪnəs]
+2423
+minute
+	英	['mɪnɪt]
+	美	['mɪnɪt]
+2424
+miracle
+	英	['mɪrəkl]
+	美	['mɪrəkl]
+2425
+mirror
+	英	['mɪrə(r)]
+	美	['mɪrər]
+2426
+miserable
+	英	['mɪzrəbl]
+	美	['mɪzrəbl]
+2427
+mislead
+	英	[ˌmɪs'liːd]
+	美	[ˌmɪs'liːd]
+2428
+miss
+	英	[mɪs]
+	美	[mɪs]
+2429
+missile
+	英	['mɪsaɪl]
+	美	['mɪsl]
+2430
+missing
+	英	['mɪsɪŋ]
+	美	['mɪsɪŋ]
+2431
+mission
+	英	['mɪʃn]
+	美	['mɪʃn]
+2432
+mist
+	英	[mɪst]
+	美	[mɪst]
+2433
+mistake
+	英	[mɪ'steɪk]
+	美	[mɪ'steɪk]
+2434
+Mister
+	英	['mɪstə(r)]
+	美	['mɪstər]
+2435
+mistress
+	英	['mɪstrəs]
+	美	['mɪstrəs]
+2436
+misunderstand
+	英	[ˌmɪsʌndə'stænd]
+	美	[ˌmɪsʌndər'stænd]
+2437
+mix
+	英	[mɪks]
+	美	[mɪks]
+2438
+mixture
+	英	['mɪkstʃə(r)]
+	美	['mɪkstʃər]
+2439
+moan
+	英	[məʊn]
+	美	[moʊn]
+2440
+mobile
+	英	['məʊbaɪl]
+	美	['moʊbl]
+2441
+mode
+	英	[məʊd]
+	美	[moʊd]
+2442
+model
+	英	['mɒdl]
+	美	['mɑːdl]
+2443
+moderate
+	英	['mɒdərət]
+	美	['mɑːdərət]
+2444
+modern
+	英	['mɒdn]
+	美	['mɑːdərn]
+2445
+modest
+	英	['mɒdɪst]
+	美	['mɑːdɪst]
+2446
+modify
+	英	['mɒdɪfaɪ]
+	美	['mɑːdɪfaɪ]
+2447
+moist
+	英	[mɔɪst]
+	美	[mɔɪst]
+2448
+moisture
+	英	['mɔɪstʃə(r)]
+	美	['mɔɪstʃər]
+2449
+molecule
+	英	['mɒlɪkjuːl]
+	美	['mɑːlɪkjuːl]
+2450
+moment
+	英	['məʊmənt]
+	美	['moʊmənt]
+2451
+Monday
+	英	['mʌndeɪ]
+	美	['mʌndeɪ]
+2452
+money
+	英	['mʌni]
+	美	['mʌni]
+2453
+monitor
+	英	['mɒnɪtə(r)]
+	美	['mɑːnɪtər]
+2454
+monkey
+	英	['mʌŋki]
+	美	['mʌŋki]
+2455
+month
+	英	[mʌnθ]
+	美	[mʌnθ]
+2456
+monthly
+	英	['mʌnθli]
+	美	['mʌnθli]
+2457
+monument
+	英	['mɒnjumənt]
+	美	['mɑːnjumənt]
+2458
+mood
+	英	[muːd]
+	美	[muːd]
+2459
+moon
+	英	[muːn]
+	美	[muːn]
+2460
+moral
+	英	['mɒrəl]
+	美	['mɔːrəl]
+2461
+more
+	英	[mɔː(r)]
+	美	[mɔːr]
+2462
+moreover
+	英	[mɔːr'əʊvə(r)]
+	美	[mɔːr'oʊvər]
+2463
+morning
+	英	['mɔːnɪŋ]
+	美	['mɔːrnɪŋ]
+2464
+mortal
+	英	['mɔːtl]
+	美	['mɔːrtl]
+2465
+mosquito
+	英	[mə'skiːtəʊ]
+	美	[mə'skiːtoʊ]
+2466
+most
+	英	[məʊst]
+	美	[moʊst]
+2467
+mostly
+	英	['məʊstli]
+	美	['moʊstli]
+2468
+mother
+	英	['mʌðə(r)]
+	美	['mʌðər]
+2469
+motion
+	英	['məʊʃn]
+	美	['moʊʃn]
+2470
+motivate
+	英	['məʊtɪveɪt]
+	美	['moʊtɪveɪt]
+2471
+motive
+	英	['məʊtɪv]
+	美	['moʊtɪv]
+2472
+motor
+	英	['məʊtə(r)]
+	美	['moʊtər]
+2473
+mould
+	英	[məʊld]
+	美	[moʊld]
+2474
+mount
+	英	[maʊnt]
+	美	[maʊnt]
+2475
+mountain
+	英	['maʊntən]
+	美	['maʊntən]
+2476
+mourn
+	英	[mɔːn]
+	美	[mɔːrn]
+2477
+mouse
+	英	[maʊs]
+	美	[maʊs]
+2478
+mouth
+	英	[maʊθ]
+	美	[maʊθ]
+2479
+mouthful
+	英	['maʊθfʊl]
+	美	['maʊθfʊl]
+2480
+move
+	英	[muːv]
+	美	[muːv]
+2481
+movement
+	英	['muːvmənt]
+	美	['muːvmənt]
+2482
+movie
+	英	['muːvi]
+	美	['muːvi]
+2483
+much
+	英	[mʌtʃ]
+	美	[mʌtʃ]
+2484
+mud
+	英	[mʌd]
+	美	[mʌd]
+2485
+muddy
+	英	['mʌdi]
+	美	['mʌdi]
+2486
+mug
+	英	[mʌɡ]
+	美	[mʌɡ]
+2487
+multiple
+	英	['mʌltɪpl]
+	美	['mʌltɪpl]
+2488
+multiply
+	英	['mʌltɪplaɪ]
+	美	['mʌltɪplaɪ]
+2489
+murder
+	英	['mɜːdə(r)]
+	美	['mɜːrdər]
+2490
+murderer
+	英	['mɜːdərə(r)]
+	美	['mɜːrdərər]
+2491
+muscle
+	英	['mʌsl]
+	美	['mʌsl]
+2492
+museum
+	英	[mju'ziːəm]
+	美	[mju'ziːəm]
+2493
+mushroom
+	英	['mʌʃrʊm]
+	美	['mʌʃrʊm]
+2494
+music
+	英	['mjuːzɪk]
+	美	['mjuːzɪk]
+2495
+musical
+	英	['mjuːzɪkl]
+	美	['mjuːzɪkl]
+2496
+musician
+	英	[mju'zɪʃn]
+	美	[mju'zɪʃn]
+2497
+must
+	英	[mʌst]
+	美	[mʌst]
+2498
+mute
+	英	[mjuːt]
+	美	[mjuːt]
+2499
+mutter
+	英	['mʌtə(r)]
+	美	['mʌtər]
+2500
+mutton
+	英	['mʌtn]
+	美	['mʌtn]
+2501
+mutual
+	英	['mjuːtʃuəl]
+	美	['mjuːtʃuəl]
+2502
+my
+	英	[maɪ]
+	美	[maɪ]
+2503
+myself
+	英	[maɪ'self]
+	美	[maɪ'self]
+2504
+mysterious
+	英	[mɪ'stɪəriəs]
+	美	[mɪ'stɪriəs]
+2505
+mystery
+	英	['mɪstri]
+	美	['mɪstri]
+2506
+nail
+	英	[neɪl]
+	美	[neɪl]
+2507
+naked
+	英	['neɪkɪd]
+	美	['neɪkɪd]
+2508
+name
+	英	[neɪm]
+	美	[neɪm]
+2509
+namely
+	英	['neɪmli]
+	美	['neɪmli]
+2510
+nap
+	英	[næp]
+	美	[næp]
+2511
+narrow
+	英	['nærəʊ]
+	美	['næroʊ]
+2512
+nasty
+	英	['nɑːsti]
+	美	['næsti]
+2513
+nation
+	英	['neɪʃn]
+	美	['neɪʃn]
+2514
+national
+	英	['næʃnəl]
+	美	['næʃnəl]
+2515
+nationality
+	英	[ˌnæʃə'næləti]
+	美	[ˌnæʃə'næləti]
+2516
+native
+	英	['neɪtɪv]
+	美	['neɪtɪv]
+2517
+natural
+	英	['nætʃrəl]
+	美	['nætʃrəl]
+2518
+naturally
+	英	['nætʃrəli]
+	美	['nætʃrəli]
+2519
+nature
+	英	['neɪtʃə(r)]
+	美	['neɪtʃər]
+2520
+naughty
+	英	['nɔːti]
+	美	['nɔːti]
+2521
+naval
+	英	['neɪvl]
+	美	['neɪvl]
+2522
+navigation
+	英	[ˌnævɪ'ɡeɪʃn]
+	美	[ˌnævɪ'ɡeɪʃn]
+2523
+navy
+	英	['neɪvi]
+	美	['neɪvi]
+2524
+near
+	英	[nɪə(r)]
+	美	[nɪr]
+2525
+nearby
+	英	[ˌnɪə'baɪ]
+	美	[ˌnɪr'baɪ]
+2526
+nearly
+	英	['nɪəli]
+	美	['nɪrli]
+2527
+neat
+	英	[niːt]
+	美	[niːt]
+2528
+necessarily
+	英	[ˌnesə'serəli]
+	美	[ˌnesə'serəli]
+2529
+necessary
+	英	['nesəsəri]
+	美	['nesəseri]
+2530
+necessity
+	英	[nə'sesəti]
+	美	[nə'sesəti]
+2531
+neck
+	英	[nek]
+	美	[nek]
+2532
+necklace
+	英	['nekləs]
+	美	['nekləs]
+2533
+need
+	英	[niːd]
+	美	[niːd]
+2534
+needle
+	英	['niːdl]
+	美	['niːdl]
+2535
+needless
+	英	['niːdləs]
+	美	['niːdləs]
+2536
+negative
+	英	['neɡətɪv]
+	美	['neɡətɪv]
+2537
+neglect
+	英	[nɪ'ɡlekt]
+	美	[nɪ'ɡlekt]
+2538
+Negro
+	英	['niːɡrəʊ]
+	美	['niːɡroʊ]
+2539
+neighbour
+	英	['neɪbə(r)]
+	美	['neɪbər]
+2540
+neighbourhood
+	英	['neɪbəhʊd]
+	美	['neɪbərhʊd]
+2541
+neither
+	英	['naɪðə(r)]
+	美	['niːðər]
+2542
+nephew
+	英	['nefjuː]
+	美	['nefjuː]
+2543
+nerve
+	英	[nɜːv]
+	美	[nɜːrv]
+2544
+nervous
+	英	['nɜːvəs]
+	美	['nɜːrvəs]
+2545
+nest
+	英	[nest]
+	美	[nest]
+2546
+net
+	英	[net]
+	美	[net]
+2547
+network
+	英	['netwɜːk]
+	美	['netwɜːrk]
+2548
+neutral
+	英	['njuːtrəl]
+	美	['nuːtrəl]
+2549
+never
+	英	['nevə(r)]
+	美	['nevər]
+2550
+nevertheless
+	英	[ˌnevəðə'les]
+	美	[ˌnevərðə'les]
+2551
+new
+	英	[njuː]
+	美	[nuː]
+2552
+newly
+	英	['njuːli]
+	美	['nuːli]
+2553
+news
+	英	[njuːz]
+	美	[nuːz]
+2554
+newspaper
+	英	['njuːzpeɪpə(r)]
+	美	['nuːzpeɪpər]
+2555
+next
+	英	[nekst]
+	美	[nekst]
+2556
+nice
+	英	[naɪs]
+	美	[naɪs]
+2557
+niece
+	英	[niːs]
+	美	[niːs]
+2558
+night
+	英	[naɪt]
+	美	[naɪt]
+2559
+nine
+	英	[naɪn]
+	美	[naɪn]
+2560
+nineteen
+	英	[ˌnaɪn'tiːn]
+	美	[ˌnaɪn'tiːn]
+2561
+ninety
+	英	['naɪnti]
+	美	['naɪnti]
+2562
+ninth
+	英	[naɪnθ]
+	美	[naɪnθ]
+2563
+nitrogen
+	英	['naɪtrədʒən]
+	美	['naɪtrədʒən]
+2564
+no
+	英	[nəʊ]
+	美	[noʊ]
+2565
+noble
+	英	['nəʊbl]
+	美	['noʊbl]
+2566
+nobody
+	英	['nəʊbədi]
+	美	['noʊbədi]
+2567
+nod
+	英	[nɒd]
+	美	[nɑːd]
+2568
+noise
+	英	[nɔɪz]
+	美	[nɔɪz]
+2569
+noisy
+	英	['nɔɪzi]
+	美	['nɔɪzi]
+2570
+none
+	英	[nʌn]
+	美	[nʌn]
+2571
+nonsense
+	英	['nɒnsns]
+	美	['nɑːnsens]
+2572
+noon
+	英	[nuːn]
+	美	[nuːn]
+2573
+nor
+	英	[nɔː(r)]
+	美	[nɔːr]
+2574
+normal
+	英	['nɔːml]
+	美	['nɔːrml]
+2575
+normally
+	英	['nɔːməli]
+	美	['nɔːrməli]
+2576
+north
+	英	[nɔːθ]
+	美	[nɔːrθ]
+2577
+northeast
+	英	['nɔːθ'iːst]
+	美	['nɔːθ'iːst]
+2578
+northern
+	英	['nɔːðən]
+	美	['nɔːrðərn]
+2579
+northwest
+	英	['nɔːθ'west]
+	美	['nɔːθ'west]
+2580
+nose
+	英	[nəʊz]
+	美	[noʊz]
+2581
+not
+	英	[nɒt]
+	美	[nɑːt]
+2582
+note
+	英	[nəʊt]
+	美	[noʊt]
+2583
+notebook
+	英	['nəʊtbʊk]
+	美	['noʊtbʊk]
+2584
+nothing
+	英	['nʌθɪŋ]
+	美	['nʌθɪŋ]
+2585
+notice
+	英	['nəʊtɪs]
+	美	['noʊtɪs]
+2586
+noticeable
+	英	['nəʊtɪsəbl]
+	美	['noʊtɪsəbl]
+2587
+noun
+	英	[naʊn]
+	美	[naʊn]
+2588
+novel
+	英	['nɒvl]
+	美	['nɑːvl]
+2589
+November
+	英	[nəʊ'vembə(r)]
+	美	[noʊ'vembər]
+2590
+now
+	英	[naʊ]
+	美	[naʊ]
+2591
+nowadays
+	英	['naʊədeɪz]
+	美	['naʊədeɪz]
+2592
+nowhere
+	英	['nəʊweə(r)]
+	美	['noʊwer]
+2593
+nuclear
+	英	['njuːkliə(r)]
+	美	['nuːkliər]
+2594
+nucleus
+	英	['njuːkliəs]
+	美	['nuːkliəs]
+2595
+nuisance
+	英	['njuːsns]
+	美	['nuːsns]
+2596
+number
+	英	['nʌmbə(r)]
+	美	['nʌmbə(r)]
+2597
+numerous
+	英	['njuːmərəs]
+	美	['nuːmərəs]
+2598
+nurse
+	英	[nɜːs]
+	美	[nɜːrs]
+2599
+nursery
+	英	['nɜːsəri]
+	美	['nɜːrsəri]
+2600
+nut
+	英	[nʌt]
+	美	[nʌt]
+2601
+nylon
+	英	['naɪlɒn]
+	美	['naɪlɑːn]
+2602
+o'clock
+	英	[ə'klɒk]
+	美	[ə'klɒk]
+2603
+oak
+	英	[əʊk]
+	美	[oʊk]
+2604
+oar
+	英	[ɔː(r)]
+	美	[ɔːr]
+2605
+obey
+	英	[ə'beɪ]
+	美	[ə'beɪ]
+2606
+object
+	英	['ɒbdʒɪkt]
+	美	['ɑːbdʒekt]
+2607
+objection
+	英	[əb'dʒekʃn]
+	美	[əb'dʒekʃn]
+2608
+objective
+	英	[əb'dʒektɪv]
+	美	[əb'dʒektɪv]
+2609
+oblige
+	英	[ə'blaɪdʒ]
+	美	[ə'blaɪdʒ]
+2610
+observation
+	英	[ˌɒbzə'veɪʃn]
+	美	[ˌɑːbzər'veɪʃn]
+2611
+observe
+	英	[əb'zɜːv]
+	美	[əb'zɜːrv]
+2612
+observer
+	英	[əb'zɜːvə(r)]
+	美	[əb'zɜːrvər]
+2613
+obstacle
+	英	['ɒbstəkl]
+	美	['ɑːbstəkl]
+2614
+obtain
+	英	[əb'teɪn]
+	美	[əb'teɪn]
+2615
+obvious
+	英	['ɒbviəs]
+	美	['ɑːbviəs]
+2616
+obviously
+	英	['ɒbviəsli]
+	美	['ɑːbviəsli]
+2617
+occasion
+	英	[ə'keɪʒn]
+	美	[ə'keɪʒn]
+2618
+occasional
+	英	[ə'keɪʒənl]
+	美	[ə'keɪʒənl]
+2619
+occasionally
+	英	[ə'keɪʒnəli]
+	美	[ə'keɪʒnəli]
+2620
+occupation
+	英	[ˌɒkju'peɪʃn]
+	美	[ˌɑːkju'peɪʃn]
+2621
+occupy
+	英	['ɒkjupaɪ]
+	美	['ɑːkjupaɪ]
+2622
+occur
+	英	[ə'kɜː(r)]
+	美	[ə'kɜːr]
+2623
+occurrence
+	英	[ə'kʌrəns]
+	美	[ə'kɜːrəns]
+2624
+ocean
+	英	['əʊʃn]
+	美	['oʊʃn]
+2625
+Oceania
+	英	[ˌəʊsi'ɑːniə]
+	美	[ˌoʊʃi'ɑːniə]
+2626
+October
+	英	[ɒk'təʊbə(r)]
+	美	[ɑːk'toʊbər]
+2627
+odd
+	英	[ɒd]
+	美	[ɑːd]
+2628
+odour
+	英	['əʊdə(r)]
+	美	['oʊdər]
+2629
+of
+	英	[əv]
+	美	[əv]
+2630
+off
+	英	[ɒf]
+	美	[ɔːf]
+2631
+offend
+	英	[ə'fend]
+	美	[ə'fend]
+2632
+offer
+	英	['ɒfə(r)]
+	美	['ɔːfər]
+2633
+office
+	英	['ɒfɪs]
+	美	['ɔːfɪs]
+2634
+officer
+	英	['ɒfɪsə(r)]
+	美	['ɔːfɪsər]
+2635
+official
+	英	[ə'fɪʃl]
+	美	[ə'fɪʃl]
+2636
+often
+	英	['ɒfn]
+	美	['ɔːfn]
+2637
+oh
+	英	[əʊ]
+	美	[oʊ]
+2638
+oil
+	英	[ɔɪl]
+	美	[ɔɪl]
+2639
+okay
+	英	[ˌəʊ'keɪ]
+	美	[oʊ'keɪ]
+2640
+old
+	英	[əʊld]
+	美	[oʊld]
+2641
+omit
+	英	[ə'mɪt]
+	美	[ə'mɪt]
+2642
+on
+	英	[ɒn]
+	美	[ɑːn]
+2643
+once
+	英	[wʌns]
+	美	[wʌns]
+2644
+one
+	英	[wʌn]
+	美	[wʌn]
+2645
+oneself
+	英	[wʌn'self]
+	美	[wʌn'self]
+2646
+onion
+	英	['ʌnjən]
+	美	['ʌnjən]
+2647
+only
+	英	['əʊnli]
+	美	['oʊnli]
+2648
+onto
+	英	['ɒntə]
+	美	['ɑːntə]
+2649
+open
+	英	['əʊpən]
+	美	['oʊpən]
+2650
+opening
+	英	['əʊpnɪŋ]
+	美	['oʊpnɪŋ]
+2651
+opera
+	英	['ɒpərə]
+	美	['ɒpərə]
+2652
+operate
+	英	['ɒpəreɪt]
+	美	['ɑːpəreɪt]
+2653
+operation
+	英	[ˌɒpə'reɪʃn]
+	美	[ˌɑːpə'reɪʃn]
+2654
+operational
+	英	[ˌɒpə'reɪʃənl]
+	美	[ˌɑːpə'reɪʃənl]
+2655
+operator
+	英	['ɒpəreɪtə(r)]
+	美	['ɑːpəreɪtər]
+2656
+opinion
+	英	[ə'pɪnjən]
+	美	[ə'pɪnjən]
+2657
+opponent
+	英	[ə'pəʊnənt]
+	美	[ə'poʊnənt]
+2658
+opportunity
+	英	[ˌɒpə'tjuːnəti]
+	美	[ˌɑːpər'tuːnəti]
+2659
+oppose
+	英	[ə'pəʊz]
+	美	[ə'poʊz]
+2660
+opposite
+	英	['ɒpəzɪt]
+	美	['ɑːpəzət]
+2661
+oppress
+	英	[ə'pres]
+	美	[ə'pres]
+2662
+optical
+	英	['ɒptɪkl]
+	美	['ɑːptɪkl]
+2663
+optimistic
+	英	[ˌɒptɪ'mɪstɪk]
+	美	[ˌɑːptɪ'mɪstɪk]
+2664
+option
+	英	['ɒpʃn]
+	美	['ɑːpʃn]
+2665
+optional
+	英	['ɒpʃənl]
+	美	['ɑːpʃənl]
+2666
+or
+	英	[ɔː(r)]
+	美	[ɔːr]
+2667
+oral
+	英	['ɔːrəl]
+	美	['ɔːrəl]
+2668
+orange
+	英	['ɒrɪndʒ]
+	美	['ɔːrɪndʒ]
+2669
+orbit
+	英	['ɔːbɪt]
+	美	['ɔːrbɪt]
+2670
+orchestra
+	英	['ɔːkɪstrə]
+	美	['ɔːrkɪstrə]
+2671
+order
+	英	['ɔːdə(r)]
+	美	['ɔːrdər]
+2672
+orderly
+	英	['ɔːdəli]
+	美	['ɔːrdərli]
+2673
+ordinary
+	英	['ɔːdnri]
+	美	['ɔːrdneri]
+2674
+ore
+	英	[ɔː(r)]
+	美	[ɔːr]
+2675
+organ
+	英	['ɔːɡən]
+	美	['ɔːrɡən]
+2676
+organic
+	英	[ɔː'ɡænɪk]
+	美	[ɔːr'ɡænɪk]
+2677
+organism
+	英	['ɔːɡənɪzəm]
+	美	['ɔːrɡənɪzəm]
+2678
+organization
+	英	[ˌɔːɡənaɪ'zeɪʃn]
+	美	[ˌɔːrɡənə'zeɪʃn]
+2679
+organize
+	英	['ɔːɡənaɪz]
+	美	['ɔːrɡənaɪz]
+2680
+oriental
+	英	[ˌɔːri'entl]
+	美	[ˌɔːri'entl]
+2681
+origin
+	英	['ɒrɪdʒɪn]
+	美	['ɔːrɪdʒɪn]
+2682
+original
+	英	[ə'rɪdʒənl]
+	美	[ə'rɪdʒənl]
+2683
+ornament
+	英	['ɔːnəmənt]
+	美	['ɔːrnəmənt]
+2684
+orphan
+	英	['ɔːfn]
+	美	['ɔːrfn]
+2685
+other
+	英	['ʌðə(r)]
+	美	['ʌðər]
+2686
+otherwise
+	英	['ʌðəwaɪz]
+	美	['ʌðərwaɪz]
+2687
+ought
+	英	[ɔːt]
+	美	[ɔːt]
+2688
+ounce
+	英	[aʊns]
+	美	[aʊns]
+2689
+our
+	英	['aʊə(r) ]
+	美	['aʊər]
+2690
+ours
+	英	[ɑːz]
+	美	[ɑːrz]
+2691
+ourselves
+	英	[ɑː'selvz]
+	美	[ɑːr'selvz]
+2692
+out
+	英	[aʊt]
+	美	[aʊt]
+2693
+outcome
+	英	['aʊtkʌm]
+	美	['aʊtkʌm]
+2694
+outdoor
+	英	['aʊtdɔː(r)]
+	美	['aʊtdɔːr]
+2695
+outdoors
+	英	[ˌaʊt'dɔːz]
+	美	[ˌaʊt'dɔːrz]
+2696
+outer
+	英	['aʊtə(r)]
+	美	['aʊtər]
+2697
+outlet
+	英	['aʊtlet]
+	美	['aʊtlet]
+2698
+outline
+	英	['aʊtlaɪn]
+	美	['aʊtlaɪn]
+2699
+outlook
+	英	['aʊtlʊk]
+	美	['aʊtlʊk]
+2700
+output
+	英	['aʊtpʊt]
+	美	['aʊtpʊt]
+2701
+outset
+	英	['aʊtset]
+	美	['aʊtset]
+2702
+outside
+	英	[ˌaʊt'saɪd]
+	美	[ˌaʊt'saɪd]
+2703
+outskirt
+	英	['aʊtˌskɜːt]
+	美	['aʊtˌskɜːt]
+2704
+outstanding
+	英	[aʊt'stændɪŋ]
+	美	[aʊt'stændɪŋ]
+2705
+outward
+	英	['aʊtwəd]
+	美	['aʊtwərd]
+2706
+outwards
+	英	['aʊtwədz]
+	美	['aʊtwərdz]
+2707
+oven
+	英	['ʌvn]
+	美	['ʌvn]
+2708
+over
+	英	['əʊvə(r)]
+	美	['oʊvər]
+2709
+overall
+	英	[ˌəʊvər'ɔːl]
+	美	[ˌoʊvər'ɔːl]
+2710
+overcoat
+	英	['əʊvəkəʊt]
+	美	['oʊvərkoʊt]
+2711
+overcome
+	英	[ˌəʊvə'kʌm]
+	美	[ˌoʊvər'kʌm]
+2712
+overhead
+	英	[ˌəʊvə'hed]
+	美	[ˌoʊvər'hed]
+2713
+overlook
+	英	[ˌəʊvə'lʊk]
+	美	[ˌoʊvər'lʊk]
+2714
+overnight
+	英	[ˌəʊvə'naɪt]
+	美	[ˌoʊvər'naɪt]
+2715
+overseas
+	英	[ˌəʊvə'siːz]
+	美	[ˌoʊvər'siːz]
+2716
+overtake
+	英	[ˌəʊvə'teɪk]
+	美	[ˌoʊvər'teɪk]
+2717
+overtime
+	英	['əʊvətaɪm]
+	美	['oʊvərtaɪm]
+2718
+owe
+	英	[əʊ]
+	美	[oʊ]
+2719
+owl
+	英	[aʊl]
+	美	[aʊl]
+2720
+own
+	英	[əʊn]
+	美	[oʊn]
+2721
+owner
+	英	['əʊnə(r)]
+	美	['oʊnər]
+2722
+ownership
+	英	['əʊnəʃɪp]
+	美	['oʊnərʃɪp]
+2723
+ox
+	英	[ɒks]
+	美	[ɑːks]
+2724
+pace
+	英	[peɪs]
+	美	[peɪs]
+2725
+pacific
+	英	[pə'sɪfɪk]
+	美	[pə'sɪfɪk]
+2726
+pack
+	英	[pæk]
+	美	[pæk]
+2727
+package
+	英	['pækɪdʒ]
+	美	['pækɪdʒ]
+2728
+packet
+	英	['pækɪt]
+	美	['pækɪt]
+2729
+pad
+	英	[pæd]
+	美	[pæd]
+2730
+page
+	英	[peɪdʒ]
+	美	[peɪdʒ]
+2731
+pail
+	英	[peɪl]
+	美	[peɪl]
+2732
+pain
+	英	[peɪn]
+	美	[peɪn]
+2733
+painful
+	英	['peɪnfl]
+	美	['peɪnfl]
+2734
+paint
+	英	[peɪnt]
+	美	[peɪnt]
+2735
+painter
+	英	['peɪntə(r)]
+	美	['peɪntər]
+2736
+painting
+	英	['peɪntɪŋ]
+	美	['peɪntɪŋ]
+2737
+pair
+	英	[peə(r)]
+	美	[per]
+2738
+palace
+	英	['pæləs]
+	美	['pæləs]
+2739
+pale
+	英	[peɪl]
+	美	[peɪl]
+2740
+palm
+	英	[pɑːm]
+	美	[pɑːm]
+2741
+pan
+	英	[pæn]
+	美	[pæn]
+2742
+panda
+	英	['pændə]
+	美	['pændə]
+2743
+pane
+	英	[peɪn]
+	美	[peɪn]
+2744
+panel
+	英	['pænl]
+	美	['pænl]
+2745
+pant
+	英	[pænt]
+	美	[pænt]
+2746
+paper
+	英	['peɪpə(r)]
+	美	['peɪpər]
+2747
+parade
+	英	[pə'reɪd]
+	美	[pə'reɪd]
+2748
+paradise
+	英	['pærədaɪs]
+	美	['pærədaɪs]
+2749
+paragraph
+	英	['pærəɡrɑːf]
+	美	['pærəɡræf]
+2750
+parallel
+	英	['pærəlel]
+	美	['pærəlel]
+2751
+parcel
+	英	['pɑːsl]
+	美	['pɑːrsl]
+2752
+pardon
+	英	['pɑːdn]
+	美	['pɑːrdn]
+2753
+parent
+	英	['peərənt]
+	美	['perənt]
+2754
+park
+	英	[pɑːk]
+	美	[pɑːrk]
+2755
+parliament
+	英	['pɑːləmənt]
+	美	['pɑːrləmənt]
+2756
+part
+	英	[pɑːt]
+	美	[pɑːrt]
+2757
+partial
+	英	['pɑːʃl]
+	美	['pɑːrʃl]
+2758
+partially
+	英	['pɑːʃəli]
+	美	['pɑːrʃəli]
+2759
+participate
+	英	[pɑː'tɪsɪpeɪt]
+	美	[pɑːr'tɪsɪpeɪt]
+2760
+particle
+	英	['pɑːtɪkl]
+	美	['pɑːrtɪkl]
+2761
+particular
+	英	[pə'tɪkjələ(r)]
+	美	[pər'tɪkjələr]
+2762
+particularly
+	英	[pə'tɪkjələli]
+	美	[pər'tɪkjələrli]
+2763
+partly
+	英	['pɑːtli]
+	美	['pɑːrtli]
+2764
+partner
+	英	['pɑːtnə(r)]
+	美	['pɑːrtnər]
+2765
+party
+	英	['pɑːti]
+	美	['pɑːrti]
+2766
+pass
+	英	[pɑːs]
+	美	[pæs]
+2767
+passage
+	英	['pæsɪdʒ]
+	美	['pæsɪdʒ]
+2768
+passenger
+	英	['pæsɪndʒə(r)]
+	美	['pæsɪndʒər]
+2769
+passion
+	英	['pæʃn]
+	美	['pæʃn]
+2770
+passive
+	英	['pæsɪv]
+	美	['pæsɪv]
+2771
+passport
+	英	['pɑːspɔːt]
+	美	['pæspɔːrt]
+2772
+past
+	英	[pɑːst]
+	美	[pæst]
+2773
+paste
+	英	[peɪst]
+	美	[peɪst]
+2774
+pastime
+	英	['pɑːstaɪm]
+	美	['pæstaɪm]
+2775
+pat
+	英	[pæt]
+	美	[pæt]
+2776
+patch
+	英	[pætʃ]
+	美	[pætʃ]
+2777
+path
+	英	[pɑːθ]
+	美	[pæθ]
+2778
+patience
+	英	['peɪʃns]
+	美	['peɪʃns]
+2779
+patient
+	英	['peɪʃnt]
+	美	['peɪʃnt]
+2780
+pattern
+	英	['pætn]
+	美	['pætərn]
+2781
+pause
+	英	[pɔːz]
+	美	[pɔːz]
+2782
+pave
+	英	[peɪv]
+	美	[peɪv]
+2783
+pavement
+	英	['peɪvmənt]
+	美	['peɪvmənt]
+2784
+paw
+	英	[pɔː]
+	美	[pɔː]
+2785
+pay
+	英	[peɪ]
+	美	[peɪ]
+2786
+payment
+	英	['peɪmənt]
+	美	['peɪmənt]
+2787
+pea
+	英	[piː]
+	美	[piː]
+2788
+peace
+	英	[piːs]
+	美	[piːs]
+2789
+peaceful
+	英	['piːsfl]
+	美	['piːsfl]
+2790
+peach
+	英	[piːtʃ]
+	美	[piːtʃ]
+2791
+peak
+	英	[piːk]
+	美	[piːk]
+2792
+pear
+	英	[peə(r)]
+	美	[per]
+2793
+pearl
+	英	[pɜːl]
+	美	[pɜːrl]
+2794
+peasant
+	英	['peznt]
+	美	['peznt]
+2795
+pebble
+	英	['pebl]
+	美	['pebl]
+2796
+peculiar
+	英	[pɪ'kjuːliə(r)]
+	美	[pɪ'kjuːliər]
+2797
+peel
+	英	[piːl]
+	美	[piːl]
+2798
+peep
+	英	[piːp]
+	美	[piːp]
+2799
+pen
+	英	[pen]
+	美	[pen]
+2800
+pencil
+	英	['pensl]
+	美	['pensl]
+2801
+penetrate
+	英	['penətreɪt]
+	美	['penətreɪt]
+2802
+peninsula
+	英	[pə'nɪnsjələ]
+	美	[pə'nɪnsələ]
+2803
+penny
+	英	['peni]
+	美	['peni]
+2804
+pension
+	英	['penʃn]
+	美	['penʃn]
+2805
+people
+	英	['piːpl]
+	美	['piːpl]
+2806
+pepper
+	英	['pepə(r)]
+	美	['pepər]
+2807
+per
+	英	[pə(r)]
+	美	[pər]
+2808
+perceive
+	英	[pə'siːv]
+	美	[pər'sːv]
+2809
+percent
+	英	[pə'sent]
+	美	[pə'sent]
+2810
+percentage
+	英	[pə'sentɪdʒ]
+	美	[pər'sentɪdʒ]
+2811
+perfect
+	英	['pɜːfɪkt]
+	美	['pɜːrfɪkt]
+2812
+perfectly
+	英	['pɜːfɪktli]
+	美	['pɜːrfɪktli]
+2813
+perform
+	英	[pə'fɔːm]
+	美	[pər'fɔːrm]
+2814
+performance
+	英	[pə'fɔːməns]
+	美	[pər'fɔːrməns]
+2815
+perfume
+	英	['pɜːfjuːm]
+	美	[pər'fjuːm]
+2816
+perhaps
+	英	[pə'hæps]
+	美	[pər'hæps]
+2817
+period
+	英	['pɪəriəd]
+	美	['pɪriəd]
+2818
+permanent
+	英	['pɜːmənənt]
+	美	['pɜːrmənənt]
+2819
+permanently
+	英	['pɜːmənəntli]
+	美	['pɜːmənəntli]
+2820
+permission
+	英	[pə'mɪʃn]
+	美	[pər'mɪʃn]
+2821
+permit
+	英	[pə'mɪt]
+	美	[pər'mɪt]
+2822
+persist
+	英	[pə'sɪst]
+	美	[pər'sɪst]
+2823
+person
+	英	['pɜːsn]
+	美	['pɜːrsn]
+2824
+personal
+	英	['pɜːsənl]
+	美	['pɜːrsənl]
+2825
+personnel
+	英	[ˌpɜːsə'nel]
+	美	[ˌpɜːrsə'nel]
+2826
+perspective
+	英	[pə'spektɪv]
+	美	[pər'spektɪv]
+2827
+persuade
+	英	[pə'sweɪd]
+	美	[pər'sweɪd]
+2828
+pessimistic
+	英	[ˌpesɪ'mɪstɪk]
+	美	[ˌpesɪ'mɪstɪk]
+2829
+pet
+	英	[pet]
+	美	[pet]
+2830
+petrol
+	英	['petrəl]
+	美	['petrəl]
+2831
+petroleum
+	英	[pə'trəʊliəm]
+	美	[pə'troʊliəm]
+2832
+phase
+	英	[feɪz]
+	美	[feɪz]
+2833
+phenomenon
+	英	[fə'nɒmɪnən]
+	美	[fə'nɑːmɪnən]
+2834
+philosopher
+	英	[fə'lɒsəfə(r)]
+	美	[fə'lɑːsəfər]
+2835
+philosophy
+	英	[fə'lɒsəfi]
+	美	[fə'lɑːsəfi]
+2836
+phone
+	英	[fəʊn]
+	美	[foʊn]
+2837
+photograph
+	英	['fəʊtəɡrɑːf]
+	美	['foʊtəɡræf]
+2838
+photographic
+	英	[ˌfəʊtə'ɡræfɪk]
+	美	[ˌfoʊtə'ɡræfɪk]
+2839
+phrase
+	英	[freɪz]
+	美	[freɪz]
+2840
+physical
+	英	['fɪzɪkl]
+	美	['fɪzɪkl]
+2841
+physician
+	英	[fɪ'zɪʃn]
+	美	[fɪ'zɪʃn]
+2842
+physicist
+	英	['fɪzɪsɪst]
+	美	['fɪzɪsɪst]
+2843
+physics
+	英	['fɪzɪks]
+	美	['fɪzɪks]
+2844
+piano
+	英	[pɪ'ænəʊ]
+	美	[pi'ɑnoʊ]
+2845
+pick
+	英	[pɪk]
+	美	[pɪk]
+2846
+picnic
+	英	['pɪknɪk]
+	美	['pɪknɪk]
+2847
+picture
+	英	['pɪktʃə(r)]
+	美	['pɪktʃər]
+2848
+pie
+	英	[paɪ]
+	美	[paɪ]
+2849
+piece
+	英	[piːs]
+	美	[piːs]
+2850
+pierce
+	英	[pɪəs]
+	美	[pɪrs]
+2851
+pig
+	英	[pɪɡ]
+	美	[pɪɡ]
+2852
+pigeon
+	英	['pɪdʒɪn]
+	美	['pɪdʒɪn]
+2853
+pile
+	英	[paɪl]
+	美	[paɪl]
+2854
+pill
+	英	[pɪl]
+	美	[pɪl]
+2855
+pillar
+	英	['pɪlə(r)]
+	美	['pɪlər]
+2856
+pillow
+	英	['pɪləʊ]
+	美	['pɪloʊ]
+2857
+pilot
+	英	['paɪlət]
+	美	['paɪlət]
+2858
+pin
+	英	[pɪn]
+	美	[pɪn]
+2859
+pinch
+	英	[pɪntʃ]
+	美	[pɪntʃ]
+2860
+pine
+	英	[paɪn]
+	美	[paɪn]
+2861
+pink
+	英	[pɪŋk]
+	美	[pɪŋk]
+2862
+pint
+	英	[paɪnt]
+	美	[paɪnt]
+2863
+pioneer
+	英	[ˌpaɪə'nɪə(r)]
+	美	[ˌpaɪə'nɪr]
+2864
+pipe
+	英	[paɪp]
+	美	[paɪp]
+2865
+pipeline
+	英	['paɪplaɪn]
+	美	['paɪplaɪn]
+2866
+pistol
+	英	['pɪstl]
+	美	['pɪstl]
+2867
+pit
+	英	[pɪt]
+	美	[pɪt]
+2868
+pitch
+	英	[pɪtʃ]
+	美	[pɪtʃ]
+2869
+pity
+	英	['pɪti]
+	美	['pɪti]
+2870
+place
+	英	[pleɪs]
+	美	[pleɪs]
+2871
+plain
+	英	[pleɪn]
+	美	[pleɪn]
+2872
+plan
+	英	[plæn]
+	美	[plæn]
+2873
+plane
+	英	[pleɪn]
+	美	[pleɪn]
+2874
+planet
+	英	['plænɪt]
+	美	['plænɪt]
+2875
+plant
+	英	[plɑːnt]
+	美	[plænt]
+2876
+plantation
+	英	[plɑːn'teɪʃn]
+	美	[plæn'teɪʃn]
+2877
+plaster
+	英	['plɑːstə(r)]
+	美	['plæstər]
+2878
+plastic
+	英	['plæstɪk]
+	美	['plæstɪk]
+2879
+plate
+	英	[pleɪt]
+	美	[pleɪt]
+2880
+platform
+	英	['plætfɔːm]
+	美	['plætfɔːrm]
+2881
+play
+	英	[pleɪ]
+	美	[pleɪ]
+2882
+player
+	英	['pleɪə(r)]
+	美	['pleɪər]
+2883
+playground
+	英	['pleɪɡraʊnd]
+	美	['pleɪɡraʊnd]
+2884
+pleasant
+	英	['pleznt]
+	美	['pleznt]
+2885
+please
+	英	[pliːz]
+	美	[pliːz]
+2886
+pleasure
+	英	['pleʒə(r)]
+	美	['pleʒər]
+2887
+plentiful
+	英	['plentɪfl]
+	美	['plentɪfl]
+2888
+plenty
+	英	['plenti]
+	美	['plenti]
+2889
+plot
+	英	[plɒt]
+	美	[plɑːt]
+2890
+plough
+	英	[plaʊ]
+	美	[plaʊ]
+2891
+pluck
+	英	[plʌk]
+	美	[plʌk]
+2892
+plug
+	英	[plʌɡ]
+	美	[plʌɡ]
+2893
+plunge
+	英	[plʌndʒ]
+	美	[plʌndʒ]
+2894
+plural
+	英	['plʊərəl]
+	美	['plʊrəl]
+2895
+plus
+	英	[plʌs]
+	美	[plʌs]
+2896
+pocket
+	英	['pɒkɪt]
+	美	['pɑːkɪt]
+2897
+poem
+	英	['pəʊɪm]
+	美	['poʊəm]
+2898
+poet
+	英	['pəʊɪt]
+	美	['poʊət]
+2899
+poetry
+	英	['pəʊətri]
+	美	['poʊətri]
+2900
+point
+	英	[pɔɪnt]
+	美	[pɔɪnt]
+2901
+poison
+	英	['pɔɪzn]
+	美	['pɔɪzn]
+2902
+poisonous
+	英	['pɔɪzənəs]
+	美	['pɔɪzənəs]
+2903
+pole
+	英	[pəʊl]
+	美	[poʊl]
+2904
+police
+	英	[pə'liːs]
+	美	[pə'liːs]
+2905
+policeman
+	英	[pə'liːsmən]
+	美	[pə'liːsmən]
+2906
+policy
+	英	['pɒləsi]
+	美	['pɑːləsi]
+2907
+polish
+	英	['pɒlɪʃ]
+	美	['pɑːlɪʃ]
+2908
+polite
+	英	[pə'laɪt]
+	美	[pə'laɪt]
+2909
+political
+	英	[pə'lɪtɪkl]
+	美	[pə'lɪtɪkl]
+2910
+politician
+	英	[ˌpɒlə'tɪʃn]
+	美	[ˌpɑːlə'tɪʃn]
+2911
+politics
+	英	['pɒlətɪks]
+	美	['pɑːlətɪks]
+2912
+pollute
+	英	[pə'luːt]
+	美	[pə'luːt]
+2913
+pollution
+	英	[pə'luːʃn]
+	美	[pə'luːʃn]
+2914
+pond
+	英	[pɒnd]
+	美	[pɑːnd]
+2915
+pool
+	英	[puːl]
+	美	[puːl]
+2916
+poor
+	英	[pʊə(r)]
+	美	[pʊr]
+2917
+pop
+	英	[pɒp]
+	美	[pɑːp]
+2918
+popular
+	英	['pɒpjələ(r)]
+	美	['pɑːpjələr]
+2919
+population
+	英	[ˌpɒpju'leɪʃn]
+	美	[ˌpɑːpju'leɪʃn]
+2920
+porch
+	英	[pɔːtʃ]
+	美	[pɔːrtʃ]
+2921
+pork
+	英	[pɔːk]
+	美	[pɔːrk]
+2922
+porridge
+	英	['pɒrɪdʒ]
+	美	['pɔːrɪdʒ]
+2923
+port
+	英	[pɔːt]
+	美	[pɔːrt]
+2924
+portable
+	英	['pɔːtəbl]
+	美	['pɔːrtəbl]
+2925
+porter
+	英	['pɔːtə(r)]
+	美	['pɔːrtər]
+2926
+portion
+	英	['pɔːʃn]
+	美	['pɔːrʃn]
+2927
+portrait
+	英	['pɔːtreɪt]
+	美	['pɔːrtrət]
+2928
+Portuguese
+	英	[ˌpɔːtʃu'ɡiːz]
+	美	[ˌpɔːrtʃu'ɡiːz]
+2929
+position
+	英	[pə'zɪʃn]
+	美	[pə'zɪʃn]
+2930
+positive
+	英	['pɒzətɪv]
+	美	['pɑːzətɪv]
+2931
+possess
+	英	[pə'zes]
+	美	[pə'zes]
+2932
+possession
+	英	[pə'zeʃn]
+	美	[pə'zeʃn]
+2933
+possibility
+	英	[ˌpɒsə'bɪləti]
+	美	[ˌpɑːsə'bɪləti]
+2934
+possible
+	英	['pɒsəbl]
+	美	['pɑːsəbl]
+2935
+possibly
+	英	['pɒsəbli]
+	美	['pɑːsəbli]
+2936
+post
+	英	[pəʊst]
+	美	[poʊst]
+2937
+postage
+	英	['pəʊstɪdʒ]
+	美	['poʊstɪdʒ]
+2938
+postman
+	英	['pəʊstmən]
+	美	['poʊstmən]
+2939
+postpone
+	英	[pə'spəʊn]
+	美	[poʊ'spoʊn]
+2940
+pot
+	英	[pɒt]
+	美	[pɑːt]
+2941
+potato
+	英	[pə'teɪtəʊ]
+	美	[pə'teɪtoʊ]
+2942
+potential
+	英	[pə'tenʃl]
+	美	[pə'tenʃl]
+2943
+pound
+	英	[paʊnd]
+	美	[paʊnd]
+2944
+pour
+	英	[pɔː(r)]
+	美	[pɔːr]
+2945
+poverty
+	英	['pɒvəti]
+	美	['pɑːvərti]
+2946
+powder
+	英	['paʊdə(r)]
+	美	['paʊdər]
+2947
+power
+	英	['paʊə(r)]
+	美	['paʊər]
+2948
+powerful
+	英	['paʊəfl]
+	美	['paʊərfl]
+2949
+practical
+	英	['præktɪkl]
+	美	['præktɪkl]
+2950
+practically
+	英	['præktɪkli]
+	美	['præktɪkli]
+2951
+practice
+	英	['præktɪs]
+	美	['præktɪs]
+2952
+practise
+	英	['præktɪs]
+	美	['præktɪs]
+2953
+praise
+	英	[preɪz]
+	美	[preɪz]
+2954
+pray
+	英	[preɪ]
+	美	[preɪ]
+2955
+prayer
+	英	[preə(r)]
+	美	[prer]
+2956
+precaution
+	英	[prɪ'kɔːʃn]
+	美	[prɪ'kɔːʃn]
+2957
+preceding
+	英	[prɪ'siːdɪŋ]
+	美	[priː'siːdɪŋ]
+2958
+precious
+	英	['preʃəs]
+	美	['preʃəs]
+2959
+precise
+	英	[prɪ'saɪs]
+	美	[prɪ'saɪs]
+2960
+precision
+	英	[prɪ'sɪʒn]
+	美	[prɪ'sɪʒn]
+2961
+predict
+	英	[prɪ'dɪkt]
+	美	[prɪ'dɪkt]
+2962
+preface
+	英	['prefəs]
+	美	['prefəs]
+2963
+prefer
+	英	[prɪ'fɜː(r)]
+	美	[prɪ'fɜːr]
+2964
+preferable
+	英	['prefrəbl]
+	美	['prefrəbl]
+2965
+preference
+	英	['prefrəns]
+	美	['prefrəns]
+2966
+prejudice
+	英	['predʒudɪs]
+	美	['predʒudɪs]
+2967
+preliminary
+	英	[prɪ'lɪmɪnəri]
+	美	[prɪ'lɪmɪneri]
+2968
+premier
+	英	['premiə(r)]
+	美	[prɪ'mɪr]
+2969
+preparation
+	英	[ˌprepə'reɪʃn]
+	美	[ˌprepə'reɪʃn]
+2970
+prepare
+	英	[prɪ'peə(r)]
+	美	[prɪ'per]
+2971
+preposition
+	英	[ˌprepə'zɪʃn]
+	美	[ˌprepə'zɪʃn]
+2972
+prescribe
+	英	[prɪ'skraɪb]
+	美	[prɪ'skraɪb]
+2973
+presence
+	英	['prezns]
+	美	['prezns]
+2974
+present
+	英	['preznt]
+	美	['preznt]
+2975
+presently
+	英	['prezntli]
+	美	['prezntli]
+2976
+preserve
+	英	[prɪ'zɜːv]
+	美	[prɪ'zɜːrv]
+2977
+president
+	英	['prezɪdənt]
+	美	['prezɪdənt]
+2978
+press
+	英	[pres]
+	美	[pres]
+2979
+pressure
+	英	['preʃə(r)]
+	美	['preʃər]
+2980
+pretend
+	英	[prɪ'tend]
+	美	[prɪ'tend]
+2981
+pretty
+	英	['prɪti]
+	美	['prɪti]
+2982
+prevail
+	英	[prɪ'veɪl]
+	美	[prɪ'veɪl]
+2983
+prevent
+	英	[prɪ'vent]
+	美	[prɪ'vent]
+2984
+previous
+	英	['priːviəs]
+	美	['priːviəs]
+2985
+previously
+	英	['priːviəsli]
+	美	['priːviəsli]
+2986
+price
+	英	[praɪs]
+	美	[praɪs]
+2987
+pride
+	英	[praɪd]
+	美	[praɪd]
+2988
+priest
+	英	[priːst]
+	美	[priːst]
+2989
+primarily
+	英	[praɪ'merəli]
+	美	[praɪ'merəli]
+2990
+primary
+	英	['praɪməri]
+	美	['praɪmeri]
+2991
+prime
+	英	[praɪm]
+	美	[praɪm]
+2992
+primitive
+	英	['prɪmətɪv]
+	美	['prɪmətɪv]
+2993
+prince
+	英	[prɪns]
+	美	[prɪns]
+2994
+princess
+	英	[ˌprɪn'ses]
+	美	[ˌprɪn'ses]
+2995
+principal
+	英	['prɪnsəp(ə)l]
+	美	['prɪnsəpl]
+2996
+principle
+	英	['prɪnsəpl]
+	美	['prɪnsəpl]
+2997
+print
+	英	[prɪnt]
+	美	[prɪnt]
+2998
+prior
+	英	['praɪə(r)]
+	美	['praɪər]
+2999
+prison
+	英	['prɪzn]
+	美	['prɪzn]
+3000
+prisoner
+	英	['prɪznə(r)]
+	美	['prɪznər]
+3001
+private
+	英	['praɪvət]
+	美	['praɪvət]
+3002
+privilege
+	英	['prɪvəlɪdʒ]
+	美	['prɪvəlɪdʒ]
+3003
+prize
+	英	[praɪz]
+	美	[praɪz]
+3004
+probability
+	英	[ˌprɒbə'bɪləti]
+	美	[ˌprɑːbə'bɪləti]
+3005
+probable
+	英	['prɒbəbl]
+	美	['prɑːbəbl]
+3006
+probably
+	英	['prɒbəbli]
+	美	['prɑːbəbli]
+3007
+problem
+	英	['prɒbləm]
+	美	['prɑːbləm]
+3008
+procedure
+	英	[prə'siːdʒə(r)]
+	美	[prə'siːdʒər]
+3009
+proceed
+	英	[prə'siːd]
+	美	[proʊ'siːd]
+3010
+process
+	英	['prəʊsɛs]
+	美	['prɑˌsɛs]
+3011
+procession
+	英	[prə'seʃn]
+	美	[prə'seʃn]
+3012
+proclaim
+	英	[prə'kleɪm]
+	美	[prə'kleɪm]
+3013
+produce
+	英	[prə'djuːs]
+	美	[prə'duːs]
+3014
+product
+	英	['prɒdʌkt]
+	美	['prɑːdʌkt]
+3015
+production
+	英	[prə'dʌkʃn]
+	美	[prə'dʌkʃn]
+3016
+productive
+	英	[prə'dʌktɪv]
+	美	[prə'dʌktɪv]
+3017
+profession
+	英	[prə'feʃn]
+	美	[prə'feʃn]
+3018
+professional
+	英	[prə'feʃənl]
+	美	[prə'feʃənl]
+3019
+professor
+	英	[prə'fesə(r)]
+	美	[prə'fesər]
+3020
+profit
+	英	['prɒfɪt]
+	美	['prɑːfɪt]
+3021
+program
+	英	['prəʊɡræm]
+	美	['proʊɡræm]
+3022
+progress
+	英	['prəʊɡres]
+	美	['prɑːɡres]
+3023
+progressive
+	英	[prə'ɡresɪv]
+	美	[prə'ɡresɪv]
+3024
+prohibit
+	英	[prə'hɪbɪt]
+	美	[prə'hɪbɪt]
+3025
+project
+	英	['prɒdʒekt]
+	美	['prɑːdʒekt]
+3026
+prominent
+	英	['prɒmɪnənt]
+	美	['prɑːmɪnənt]
+3027
+promise
+	英	['prɒmɪs]
+	美	['prɑːmɪs]
+3028
+promising
+	英	['prɒmɪsɪŋ]
+	美	['prɑːmɪsɪŋ]
+3029
+promote
+	英	[prə'məʊt]
+	美	[prə'moʊt]
+3030
+prompt
+	英	[prɒmpt]
+	美	[prɑːmpt]
+3031
+pronoun
+	英	['prəʊnaʊn]
+	美	['prəʊnaʊn]
+3032
+pronounce
+	英	[prə'naʊns]
+	美	[prə'naʊns]
+3033
+pronunciation
+	英	[prəˌnʌnsi'eɪʃn]
+	美	[prəˌnʌnsi'eɪʃn]
+3034
+proof
+	英	[pruːf]
+	美	[pruːf]
+3035
+proper
+	英	['prɒpə(r)]
+	美	['prɑːpər]
+3036
+properly
+	英	['prɒpəli]
+	美	['prɑːpərli]
+3037
+property
+	英	['prɒpəti]
+	美	['prɑːpərti]
+3038
+proportion
+	英	[prə'pɔːʃn]
+	美	[prə'pɔːrʃn]
+3039
+proportional
+	英	[prə'pɔːʃənl]
+	美	[prə'pɔːrʃənl]
+3040
+proposal
+	英	[prə'pəʊzl]
+	美	[prə'poʊzl]
+3041
+propose
+	英	[prə'pəʊz]
+	美	[prə'poʊz]
+3042
+prospect
+	英	['prɒspekt]
+	美	['prɑːspekt]
+3043
+prosperity
+	英	[prɒ'sperəti]
+	美	[prɑː'sperəti]
+3044
+prosperous
+	英	['prɒspərəs]
+	美	['prɑːspərəs]
+3045
+protect
+	英	[prə'tekt]
+	美	[prə'tekt]
+3046
+protection
+	英	[prə'tekʃn]
+	美	[prə'tekʃn]
+3047
+protective
+	英	[prə'tektɪv]
+	美	[prə'tektɪv]
+3048
+protein
+	英	['prəʊtiːn]
+	美	['proʊtiːn]
+3049
+protest
+	英	['prəʊtest]
+	美	['proʊtest]
+3050
+proud
+	英	[praʊd]
+	美	[praʊd]
+3051
+prove
+	英	[pruːv]
+	美	[pruːv]
+3052
+provide
+	英	[prə'vaɪd]
+	美	[prə'vaɪd]
+3053
+provided
+	英	[prə'vaɪdɪd]
+	美	[prə'vaɪdɪd]
+3054
+province
+	英	['prɒvɪns]
+	美	['prɑːvɪns]
+3055
+provision
+	英	[prə'vɪʒn]
+	美	[prə'vɪʒn]
+3056
+psychological
+	英	[ˌsaɪkə'lɒdʒɪkl]
+	美	[ˌsaɪkə'lɑːdʒɪkl]
+3057
+public
+	英	['pʌblɪk]
+	美	['pʌblɪk]
+3058
+publication
+	英	[ˌpʌblɪ'keɪʃn]
+	美	[ˌpʌblɪ'keɪʃn]
+3059
+publish
+	英	['pʌblɪʃ]
+	美	['pʌblɪʃ]
+3060
+pudding
+	英	['pʊdɪŋ]
+	美	['pʊdɪŋ]
+3061
+puff
+	英	[pʌf]
+	美	[pʌf]
+3062
+pull
+	英	[pʊl]
+	美	[pʊl]
+3063
+pulse
+	英	[pʌls]
+	美	[pʌls]
+3064
+pump
+	英	[pʌmp]
+	美	[pʌmp]
+3065
+punch
+	英	[pʌntʃ]
+	美	[pʌntʃ]
+3066
+punctual
+	英	['pʌŋktʃuəl]
+	美	['pʌŋktʃuəl]
+3067
+punish
+	英	['pʌnɪʃ]
+	美	['pʌnɪʃ]
+3068
+punishment
+	英	['pʌnɪʃmənt]
+	美	['pʌnɪʃmənt]
+3069
+pupil
+	英	['pjuːpl]
+	美	['pjuːpl]
+3070
+puppet
+	英	['pʌpɪt]
+	美	['pʌpɪt]
+3071
+purchase
+	英	['pɜːtʃəs]
+	美	['pɜːrtʃəs]
+3072
+pure
+	英	[pjʊə(r)]
+	美	[pjʊr]
+3073
+purely
+	英	['pjʊəli]
+	美	['pjʊrli]
+3074
+purify
+	英	['pjʊərɪfaɪ]
+	美	['pjʊrɪfaɪ]
+3075
+purity
+	英	['pjʊərəti]
+	美	['pjʊrəti]
+3076
+purple
+	英	['pɜːpl]
+	美	['pɜːrpl]
+3077
+purpose
+	英	['pɜːpəs]
+	美	['pɜːrpəs]
+3078
+purse
+	英	[pɜːs]
+	美	[pɜːrs]
+3079
+pursue
+	英	[pə'sjuː]
+	美	[pər'suː]
+3080
+pursuit
+	英	[pə'sjuːt]
+	美	[pər'suːt]
+3081
+push
+	英	[pʊʃ]
+	美	[pʊʃ]
+3082
+put
+	英	[pʊt]
+	美	[pʊt]
+3083
+puzzle
+	英	['pʌzl]
+	美	['pʌzl]
+3084
+qualify
+	英	['kwɒlɪfaɪ]
+	美	['kwɑːlɪfaɪ]
+3085
+quality
+	英	['kwɒləti]
+	美	['kwɑːləti]
+3086
+quantity
+	英	['kwɒntəti]
+	美	['kwɑːntəti]
+3087
+quarrel
+	英	['kwɒrəl]
+	美	['kwɔːrəl]
+3088
+quart
+	英	[kwɔːt]
+	美	[kwɔːrt]
+3089
+quarter
+	英	['kwɔːtə(r)]
+	美	['kwɔːrtər]
+3090
+quarterly
+	英	['kwɔːtəli]
+	美	['kwɔːrtərli]
+3091
+queen
+	英	[kwiːn]
+	美	[kwiːn]
+3092
+queer
+	英	[kwɪə(r)]
+	美	[kwɪr]
+3093
+question
+	英	['kwestʃən]
+	美	['kwestʃən]
+3094
+queue
+	英	[kjuː]
+	美	[kjuː]
+3095
+quick
+	英	[kwɪk]
+	美	[kwɪk]
+3096
+quicken
+	英	['kwɪkən]
+	美	['kwɪkən]
+3097
+quickly
+	英	['kwɪkli]
+	美	['kwɪkli]
+3098
+quiet
+	英	['kwaɪət]
+	美	['kwaɪət]
+3099
+quilt
+	英	[kwɪlt]
+	美	[kwɪlt]
+3100
+quit
+	英	[kwɪt]
+	美	[kwɪt]
+3101
+quite
+	英	[kwaɪt]
+	美	[kwaɪt]
+3102
+quiz
+	英	[kwɪz]
+	美	[kwɪz]
+3103
+quotation
+	英	[kwəʊ'teɪʃn]
+	美	[kwoʊ'teɪʃn]
+3104
+quote
+	英	[kwəʊt]
+	美	[kwoʊt]
+3105
+rabbit
+	英	['ræbɪt]
+	美	['ræbɪt]
+3106
+race
+	英	[reɪs]
+	美	[reɪs]
+3107
+racial
+	英	['reɪʃl]
+	美	['reɪʃl]
+3108
+rack
+	英	[ræk]
+	美	[ræk]
+3109
+racket
+	英	['rækɪt]
+	美	['rækɪt]
+3110
+radar
+	英	['reɪdɑː(r)]
+	美	['reɪdɑːr]
+3111
+radiate
+	英	['reɪdieɪt]
+	美	['reɪdieɪt]
+3112
+radiation
+	英	[ˌreɪdi'eɪʃn]
+	美	[ˌreɪdi'eɪʃn]
+3113
+radio
+	英	['reɪdiəʊ]
+	美	['reɪdioʊ]
+3114
+radioactive
+	英	[ˌreɪdiəʊ'æktɪv]
+	美	['reɪdioʊ'æktɪv]
+3115
+radioactivity
+	英	[ˌreɪdiəʊæk'tɪvəti]
+	美	[ˌreɪdiəʊæk'tɪvəti]
+3116
+radish
+	英	['rædɪʃ]
+	美	['rædɪʃ]
+3117
+radium
+	英	['reɪdiəm]
+	美	['reɪdiəm]
+3118
+radius
+	英	['reɪdiəs]
+	美	['reɪdiəs]
+3119
+rag
+	英	[ræɡ]
+	美	[ræɡ]
+3120
+rage
+	英	[reɪdʒ]
+	美	[reɪdʒ]
+3121
+raid
+	英	[reɪd]
+	美	[reɪd]
+3122
+rail
+	英	[reɪl]
+	美	[reɪl]
+3123
+railroad
+	英	['reɪlrəʊd]
+	美	['reɪlroʊd]
+3124
+railway
+	英	['reɪlweɪ]
+	美	['reɪlweɪ]
+3125
+rain
+	英	[reɪn]
+	美	[reɪn]
+3126
+rainbow
+	英	['reɪnbəʊ]
+	美	['reɪnboʊ]
+3127
+rainy
+	英	['reɪni]
+	美	['reɪni]
+3128
+raise
+	英	[reɪz]
+	美	[reɪz]
+3129
+rake
+	英	[reɪk]
+	美	[reɪk]
+3130
+range
+	英	[reɪndʒ]
+	美	[reɪndʒ]
+3131
+rank
+	英	[ræŋk]
+	美	[ræŋk]
+3132
+rapid
+	英	['ræpɪd]
+	美	['ræpɪd]
+3133
+rapidly
+	英	['ræpɪdli]
+	美	['ræpɪdli]
+3134
+rare
+	英	[reə(r)]
+	美	[rer]
+3135
+rarely
+	英	['reəli]
+	美	['rerli]
+3136
+rat
+	英	[ræt]
+	美	[ræt]
+3137
+rate
+	英	[reɪt]
+	美	[reɪt]
+3138
+rather
+	英	['rɑːðə(r)]
+	美	['ræðər]
+3139
+ratio
+	英	['reɪʃiəʊ]
+	美	['reɪʃioʊ]
+3140
+rational
+	英	['ræʃnəl]
+	美	['ræʃnəl]
+3141
+raw
+	英	[rɔː]
+	美	[rɔː]
+3142
+ray
+	英	[reɪ]
+	美	[reɪ]
+3143
+razor
+	英	['reɪzə(r)]
+	美	['reɪzər]
+3144
+reach
+	英	[riːtʃ]
+	美	[riːtʃ]
+3145
+react
+	英	[ri'ækt]
+	美	[ri'ækt]
+3146
+reaction
+	英	[ri'ækʃn]
+	美	[ri'ækʃn]
+3147
+read
+	英	[riːd]
+	美	[riːd]
+3148
+reader
+	英	['riːdə(r)]
+	美	['riːdər]
+3149
+readily
+	英	['redɪli]
+	美	['redɪli]
+3150
+reading
+	英	['riːdɪŋ]
+	美	['riːdɪŋ]
+3151
+ready
+	英	['redi]
+	美	['redi]
+3152
+real
+	英	[rɪəl]
+	美	['riːəl]
+3153
+reality
+	英	[ri'æləti]
+	美	[ri'æləti]
+3154
+realize
+	英	['riːəlaɪz]
+	美	['riːəlaɪz]
+3155
+really
+	英	['riːəli]
+	美	['riːəli]
+3156
+realm
+	英	[relm]
+	美	[relm]
+3157
+reap
+	英	[riːp]
+	美	[riːp]
+3158
+rear
+	英	[rɪə(r)]
+	美	[rɪr]
+3159
+reason
+	英	['riːzn]
+	美	['riːzn]
+3160
+reasonable
+	英	['riːznəbl]
+	美	['riːznəbl]
+3161
+rebel
+	英	['rebl]
+	美	['rebl]
+3162
+rebellion
+	英	[rɪ'beljən]
+	美	[rɪ'beljən]
+3163
+recall
+	英	[rɪ'kɔːl]
+	美	[rɪ'kɔːl]
+3164
+receipt
+	英	[rɪ'siːt]
+	美	[rɪ'siːt]
+3165
+receive
+	英	[rɪ'siːv]
+	美	[rɪ'siːv]
+3166
+receiver
+	英	[rɪ'siːvə(r)]
+	美	[rɪ'siːvər]
+3167
+recent
+	英	['riːsnt]
+	美	['riːsnt]
+3168
+recently
+	英	['riːsntli]
+	美	['riːsntli]
+3169
+reception
+	英	[rɪ'sepʃn]
+	美	[rɪ'sepʃn]
+3170
+recite
+	英	[rɪ'saɪt]
+	美	[rɪ'saɪt]
+3171
+recognition
+	英	[ˌrekəɡ'nɪʃn]
+	美	[ˌrekəɡ'nɪʃn]
+3172
+recognize
+	英	['rekəɡnaɪz]
+	美	['rekəɡnaɪz]
+3173
+recollect
+	英	[ˌrekə'lekt]
+	美	[ˌrekə'lekt]
+3174
+recommend
+	英	[ˌrekə'mend]
+	美	[ˌrekə'mend]
+3175
+recommendation
+	英	[ˌrekəmen'deɪʃn]
+	美	[ˌrekəmen'deɪʃn]
+3176
+record
+	英	['rekɔːd]
+	美	['rekərd]
+3177
+recorder
+	英	[rɪ'kɔːdə(r)]
+	美	[rɪ'kɔːrdər]
+3178
+recover
+	英	[rɪ'kʌvə(r)]
+	美	[rɪ'kʌvər]
+3179
+recovery
+	英	[rɪ'kʌvəri]
+	美	[rɪ'kʌvəri]
+3180
+red
+	英	[red]
+	美	[red]
+3181
+reduce
+	英	[rɪ'djuːs]
+	美	[rɪ'duːs]
+3182
+reduction
+	英	[rɪ'dʌkʃn]
+	美	[rɪ'dʌkʃn]
+3183
+reed
+	英	[riːd]
+	美	[riːd]
+3184
+reel
+	英	[riːl]
+	美	[riːl]
+3185
+refer
+	英	[rɪ'fɜː(r)]
+	美	[rɪ'fɜːr]
+3186
+reference
+	英	['refrəns]
+	美	['refrəns]
+3187
+refine
+	英	[rɪ'faɪn]
+	美	[rɪ'faɪn]
+3188
+reflect
+	英	[rɪ'flekt]
+	美	[rɪ'flekt]
+3189
+reflection
+	英	[rɪ'flekʃn]
+	美	[rɪ'flekʃn]
+3190
+reflexion
+	英	[rɪ'flekʃən]
+	美	[rɪ'flekʃən]
+3191
+reform
+	英	[rɪ'fɔːm]
+	美	[rɪ'fɔːrm]
+3192
+refresh
+	英	[rɪ'freʃ]
+	美	[rɪ'freʃ]
+3193
+refreshment
+	英	[rɪ'freʃmənt]
+	美	[rɪ'freʃmənt]
+3194
+3195
+java.net.ConnectException: Operation timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at java.net.URL.openStream(URL.java:1038)
+	at util.DumpData.extract(DumpData.java:34)
+	at util.DumpData.readFile(DumpData.java:23)
+	at util.DumpData.main(DumpData.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+refuge
+	英	['refjuːdʒ]
+	美	['refjuːdʒ]
+3196
+refusal
+	英	[rɪ'fjuːzl]
+	美	[rɪ'fjuːzl]
+3197
+refuse
+	英	[rɪ'fjuːz]
+	美	[rɪ'fjuːz]
+3198
+refute
+	英	[rɪ'fjuːt]
+	美	[rɪ'fjuːt]
+3199
+regard
+	英	[rɪ'ɡɑːd]
+	美	[rɪ'ɡɑːrd]
+3200
+regarding
+	英	[rɪ'ɡɑːdɪŋ]
+	美	[rɪ'ɡɑːrdɪŋ]
+3201
+regardless
+	英	[rɪ'ɡɑːdləs]
+	美	[rɪ'ɡɑːrdləs]
+3202
+region
+	英	['riːdʒən]
+	美	['riːdʒən]
+3203
+register
+	英	['redʒɪstə(r)]
+	美	['redʒɪstər]
+3204
+regret
+	英	[rɪ'ɡret]
+	美	[rɪ'ɡret]
+3205
+regular
+	英	['reɡjələ(r)]
+	美	['reɡjələr]
+3206
+regularly
+	英	['reɡjələli]
+	美	['reɡjələrli]
+3207
+regulate
+	英	['reɡjuleɪt]
+	美	['reɡjuleɪt]
+3208
+regulation
+	英	[ˌreɡju'leɪʃn]
+	美	[ˌreɡju'leɪʃn]
+3209
+rehearsal
+	英	[rɪ'hɜːsl]
+	美	[rɪ'hɜːrsl]
+3210
+reign
+	英	[reɪn]
+	美	[reɪn]
+3211
+rein
+	英	[reɪn]
+	美	[reɪn]
+3212
+reinforce
+	英	[ˌriːɪn'fɔːs]
+	美	[ˌriːɪn'fɔːrs]
+3213
+reject
+	英	['riːdʒekt]
+	美	['riːdʒekt]
+3214
+rejoice
+	英	[rɪ'dʒɔɪs]
+	美	[rɪ'dʒɔɪs]
+3215
+relate
+	英	[rɪ'leɪt]
+	美	[rɪ'leɪt]
+3216
+relation
+	英	[rɪ'leɪʃn]
+	美	[rɪ'leɪʃn]
+3217
+relationship
+	英	[rɪ'leɪʃnʃɪp]
+	美	[rɪ'leɪʃnʃɪp]
+3218
+relative
+	英	['relətɪv]
+	美	['relətɪv]
+3219
+relatively
+	英	['relətɪvli]
+	美	['relətɪvli]
+3220
+relativity
+	英	[ˌrelə'tɪvəti]
+	美	[ˌrelə'tɪvəti]
+3221
+relax
+	英	[rɪ'læks]
+	美	[rɪ'læks]
+3222
+release
+	英	[rɪ'liːs]
+	美	[rɪ'liːs]
+3223
+relevant
+	英	['reləvənt]
+	美	['reləvənt]
+3224
+reliability
+	英	[rɪˌlaɪə'bɪləti]
+	美	[rɪˌlaɪə'bɪləti]
+3225
+reliable
+	英	[rɪ'laɪəbl]
+	美	[rɪ'laɪəbl]
+3226
+reliance
+	英	[rɪ'laɪəns]
+	美	[rɪ'laɪəns]
+3227
+relief
+	英	[rɪ'liːf]
+	美	[rɪ'liːf]
+3228
+relieve
+	英	[rɪ'liːv]
+	美	[rɪ'liːv]
+3229
+religion
+	英	[rɪ'lɪdʒən]
+	美	[rɪ'lɪdʒən]
+3230
+religious
+	英	[rɪ'lɪdʒəs]
+	美	[rɪ'lɪdʒəs]
+3231
+reluctant
+	英	[rɪ'lʌktənt]
+	美	[rɪ'lʌktənt]
+3232
+rely
+	英	[rɪ'laɪ]
+	美	[rɪ'laɪ]
+3233
+remain
+	英	[rɪ'meɪn]
+	美	[rɪ'meɪn]
+3234
+remains
+	英	[rɪ'meɪnz]
+	美	[rɪ'meɪnz]
+3235
+remark
+	英	[rɪ'mɑːk]
+	美	[rɪ'mɑːrk]
+3236
+remarkable
+	英	[rɪ'mɑːkəbl]
+	美	[rɪ'mɑːrkəbl]
+3237
+remedy
+	英	['remədi]
+	美	['remədi]
+3238
+remember
+	英	[rɪ'membə(r)]
+	美	[rɪ'membər]
+3239
+remind
+	英	[rɪ'maɪnd]
+	美	[rɪ'maɪnd]
+3240
+remote
+	英	[rɪ'məʊt]
+	美	[rɪ'moʊt]
+3241
+removal
+	英	[rɪ'muːvl]
+	美	[rɪ'muːvl]
+3242
+remove
+	英	[rɪ'muːv]
+	美	[rɪ'muːv]
+3243
+render
+	英	['rendə(r)]
+	美	['rendər]
+3244
+renew
+	英	[rɪ'njuː]
+	美	[rɪ'nuː]
+3245
+rent
+	英	[rent]
+	美	[rent]
+3246
+repair
+	英	[rɪ'peə(r)]
+	美	[rɪ'per]
+3247
+repeat
+	英	[rɪ'piːt]
+	美	[rɪ'piːt]
+3248
+repeatedly
+	英	[rɪ'piːtɪdli]
+	美	[rɪ'piːtɪdli]
+3249
+repent
+	英	[rɪ'pent]
+	美	[rɪ'pent]
+3250
+repetition
+	英	[ˌrepə'tɪʃn]
+	美	[ˌrepə'tɪʃn]
+3251
+replace
+	英	[rɪ'pleɪs]
+	美	[rɪ'pleɪs]
+3252
+reply
+	英	[rɪ'plaɪ]
+	美	[rɪ'plaɪ]
+3253
+report
+	英	[rɪ'pɔːt]
+	美	[rɪ'pɔːrt]
+3254
+reporter
+	英	[rɪ'pɔːtə(r)]
+	美	[rɪ'pɔːrtər]
+3255
+represent
+	英	[ˌreprɪ'zent]
+	美	[ˌreprɪ'zent]
+3256
+representative
+	英	[ˌreprɪ'zentətɪv]
+	美	[ˌreprɪ'zentətɪv]
+3257
+reproach
+	英	[rɪ'prəʊtʃ]
+	美	[rɪ'proʊtʃ]
+3258
+reproduce
+	英	[ˌriːprə'djuːs]
+	美	[ˌriːprə'duːs]
+3259
+republic
+	英	[rɪ'pʌblɪk]
+	美	[rɪ'pʌblɪk]
+3260
+republican
+	英	[rɪ'pʌblɪkən]
+	美	[rɪ'pʌblɪkən]
+3261
+reputation
+	英	[ˌrepju'teɪʃn]
+	美	[ˌrepju'teɪʃn]
+3262
+request
+	英	[rɪ'kwest]
+	美	[rɪ'kwest]
+3263
+require
+	英	[rɪ'kwaɪə(r)]
+	美	[rɪ'kwaɪər]
+3264
+requirement
+	英	[rɪ'kwaɪəmənt]
+	美	[rɪ'kwaɪərmənt]
+3265
+rescue
+	英	['reskjuː]
+	美	['reskjuː]
+3266
+research
+	英	[rɪ'sɜːtʃ]
+	美	[rɪ'sɜːrtʃ]
+3267
+researcher
+	英	[rɪ'sɜːtʃə(r)]
+	美	[rɪ'sətʃər]
+3268
+resemble
+	英	[rɪ'zembl]
+	美	[rɪ'zembl]
+3269
+reserve
+	英	[rɪ'zɜːv]
+	美	[rɪ'zɜːrv]
+3270
+reservoir
+	英	['rezəvwɑː(r)]
+	美	['rezərvwɑːr]
+3271
+residence
+	英	['rezɪdəns]
+	美	['rezɪdəns]
+3272
+resident
+	英	['rezɪdənt]
+	美	['rezɪdənt]
+3273
+resign
+	英	[rɪ'zaɪn]
+	美	[rɪ'zaɪn]
+3274
+resignation
+	英	[ˌrezɪɡ'neɪʃn]
+	美	[ˌrezɪɡ'neɪʃn]
+3275
+resist
+	英	[rɪ'zɪst]
+	美	[rɪ'zɪst]
+3276
+resistance
+	英	[rɪ'zɪstəns]
+	美	[rɪ'zɪstəns]
+3277
+resistant
+	英	[rɪ'zɪstənt]
+	美	[rɪ'zɪstənt]
+3278
+resolution
+	英	[ˌrezə'luːʃn]
+	美	[ˌrezə'luːʃn]
+3279
+resolve
+	英	[rɪ'zɒlv]
+	美	[rɪ'zɑːlv]
+3280
+resort
+	英	[rɪ'zɔːt]
+	美	[rɪ'zɔːrt]
+3281
+resource
+	英	[rɪ'sɔːs]
+	美	['riːsɔːrs]
+3282
+respect
+	英	[rɪ'spekt]
+	美	[rɪ'spekt]
+3283
+respectful
+	英	[rɪ'spektfl]
+	美	[rɪ'spektfl]
+3284
+respective
+	英	[rɪ'spektɪv]
+	美	[rɪ'spektɪv]
+3285
+respectively
+	英	[rɪ'spektɪvli]
+	美	[rɪ'spektɪvli]
+3286
+respond
+	英	[rɪ'spɒnd]
+	美	[rɪ'spɑːnd]
+3287
+response
+	英	[rɪ'spɒns]
+	美	[rɪ'spɑːns]
+3288
+responsibility
+	英	[rɪˌspɒnsə'bɪləti]
+	美	[rɪˌspɑːnsə'bɪləti]
+3289
+responsible
+	英	[rɪ'spɒnsəbl]
+	美	[rɪ'spɑːnsəbl]
+3290
+rest
+	英	[rest]
+	美	[rest]
+3291
+restaurant
+	英	['restrɒnt]
+	美	['restrɑːnt]
+3292
+restless
+	英	['restləs]
+	美	['restləs]
+3293
+restore
+	英	[rɪ'stɔː(r)]
+	美	[rɪ'stɔːr]
+3294
+restrain
+	英	[rɪ'streɪn]
+	美	[rɪ'streɪn]
+3295
+restraint
+	英	[rɪ'streɪnt]
+	美	[rɪ'streɪnt]
+3296
+restrict
+	英	[rɪ'strɪkt]
+	美	[rɪ'strɪkt]
+3297
+restriction
+	英	[rɪ'strɪkʃn]
+	美	[rɪ'strɪkʃn]
+3298
+result
+	英	[rɪ'zʌlt]
+	美	[rɪ'zʌlt]
+3299
+resume
+	英	[rɪ'zjuːm]
+	美	[rɪ'zuːm]
+3300
+retain
+	英	[rɪ'teɪn]
+	美	[rɪ'teɪn]
+3301
+retell
+	英	[ˌriː'tel]
+	美	[ˌriː'tel]
+3302
+retire
+	英	[rɪ'taɪə(r)]
+	美	[rɪ'taɪər]
+3303
+retreat
+	英	[rɪ'triːt]
+	美	[rɪ'triːt]
+3304
+return
+	英	[rɪ'tɜːn]
+	美	[rɪ'tɜːrn]
+3305
+reveal
+	英	[rɪ'viːl]
+	美	[rɪ'viːl]
+3306
+revenge
+	英	[rɪ'vendʒ]
+	美	[rɪ'vendʒ]
+3307
+reverse
+	英	[rɪ'vɜːs]
+	美	[rɪ'vɜːrs]
+3308
+review
+	英	[rɪ'vjuː]
+	美	[rɪ'vjuː]
+3309
+revise
+	英	[rɪ'vaɪz]
+	美	[rɪ'vaɪz]
+3310
+revolt
+	英	[rɪ'vəʊlt]
+	美	[rɪ'voʊlt]
+3311
+revolution
+	英	[ˌrevə'luːʃn]
+	美	[ˌrevə'luːʃn]
+3312
+revolutionary
+	英	[ˌrevə'luːʃənəri]
+	美	[ˌrevə'luːʃəneri]
+3313
+reward
+	英	[rɪ'wɔːd]
+	美	[rɪ'wɔːrd]
+3314
+rhythm
+	英	['rɪðəm]
+	美	['rɪðəm]
+3315
+rib
+	英	[rɪb]
+	美	[rɪb]
+3316
+ribbon
+	英	['rɪbən]
+	美	['rɪbən]
+3317
+rice
+	英	[raɪs]
+	美	[raɪs]
+3318
+rich
+	英	[rɪtʃ]
+	美	[rɪtʃ]
+3319
+rid
+	英	[rɪd]
+	美	[rɪd]
+3320
+riddle
+	英	['rɪdl]
+	美	['rɪdl]
+3321
+ride
+	英	[raɪd]
+	美	[raɪd]
+3322
+rider
+	英	['raɪdə(r)]
+	美	['raɪdər]
+3323
+ridge
+	英	[rɪdʒ]
+	美	[rɪdʒ]
+3324
+ridiculous
+	英	[rɪ'dɪkjələs]
+	美	[rɪ'dɪkjələs]
+3325
+rifle
+	英	['raɪfl]
+	美	['raɪfl]
+3326
+right
+	英	[raɪt]
+	美	[raɪt]
+3327
+rigid
+	英	['rɪdʒɪd]
+	美	['rɪdʒɪd]
+3328
+ring
+	英	[rɪŋ]
+	美	[rɪŋ]
+3329
+ripe
+	英	[raɪp]
+	美	[raɪp]
+3330
+ripen
+	英	['raɪpən]
+	美	['raɪpən]
+3331
+rise
+	英	[raɪz]
+	美	[raɪz]
+3332
+risk
+	英	[rɪsk]
+	美	[rɪsk]
+3333
+rival
+	英	['raɪvl]
+	美	['raɪvl]
+3334
+river
+	英	['rɪvə(r)]
+	美	['rɪvər]
+3335
+road
+	英	[rəʊd]
+	美	[roʊd]
+3336
+roar
+	英	[rɔː(r)]
+	美	[rɔːr]
+3337
+roast
+	英	[rəʊst]
+	美	[roʊst]
+3338
+rob
+	英	[rɒb]
+	美	[rɑːb]
+3339
+robber
+	英	['rɒbə(r)]
+	美	['rɑːbər]
+3340
+robbery
+	英	['rɒbəri]
+	美	['rɑːbəri]
+3341
+robe
+	英	[rəʊb]
+	美	[roʊb]
+3342
+robot
+	英	['rəʊbɒt]
+	美	['roʊbɑːt]
+3343
+rock
+	英	[rɒk]
+	美	[rɑːk]
+3344
+rocket
+	英	['rɒkɪt]
+	美	['rɑːkɪt]
+3345
+rod
+	英	[rɒd]
+	美	[rɑːd]
+3346
+role
+	英	[rəʊl]
+	美	[roʊl]
+3347
+roll
+	英	[rəʊl]
+	美	[roʊl]
+3348
+roller
+	英	['rəʊlə(r)]
+	美	['roʊlər]
+3349
+Roman
+	英	['rəʊmən]
+	美	['roʊmən]
+3350
+romantic
+	英	[rəʊ'mæntɪk]
+	美	[roʊ'mæntɪk]
+3351
+roof
+	英	[ruːf]
+	美	[ruːf]
+3352
+room
+	英	[ruːm]
+	美	[ruːm]
+3353
+root
+	英	[ruːt]
+	美	[ruːt]
+3354
+rope
+	英	[rəʊp]
+	美	[roʊp]
+3355
+rose
+	英	[rəʊz]
+	美	[roʊz]
+3356
+rot
+	英	[rɒt]
+	美	[rɑːt]
+3357
+rotary
+	英	['rəʊtəri]
+	美	['roʊtəri]
+3358
+rotate
+	英	[rəʊ'teɪt]
+	美	['roʊteɪt]
+3359
+rotation
+	英	[rəʊ'teɪʃn]
+	美	[roʊ'teɪʃn]
+3360
+rotten
+	英	['rɒtn]
+	美	['rɑːtn]
+3361
+rough
+	英	[rʌf]
+	美	[rʌf]
+3362
+roughly
+	英	['rʌfli]
+	美	['rʌfli]
+3363
+round
+	英	[raʊnd]
+	美	[raʊnd]
+3364
+rouse
+	英	[raʊz]
+	美	[raʊz]
+3365
+route
+	英	[ruːt]
+	美	[ruːt]
+3366
+routine
+	英	[ruː'tiːn]
+	美	[ruː'tiːn]
+3367
+row
+	英	[rəʊ]
+	美	[roʊ]
+3368
+royal
+	英	['rɔɪəl]
+	美	['rɔɪəl]
+3369
+rub
+	英	[rʌb]
+	美	[rʌb]
+3370
+rubber
+	英	['rʌbə(r)]
+	美	['rʌbər]
+3371
+rubbish
+	英	['rʌbɪʃ]
+	美	['rʌbɪʃ]
+3372
+rude
+	英	[ruːd]
+	美	[ruːd]
+3373
+rug
+	英	[rʌɡ]
+	美	[rʌɡ]
+3374
+ruin
+	英	['ruːɪn]
+	美	['ruːɪn]
+3375
+rule
+	英	[ruːl]
+	美	[ruːl]
+3376
+ruler
+	英	['ruːlə(r)]
+	美	['ruːlər]
+3377
+rumour
+	英	['ruːmə(r)]
+	美	['ruːmər]
+3378
+run
+	英	[rʌn]
+	美	[rʌn]
+3379
+runner
+	英	['rʌnə(r)]
+	美	['rʌnər]
+3380
+rural
+	英	['rʊərəl]
+	美	['rʊrəl]
+3381
+rush
+	英	[rʌʃ]
+	美	[rʌʃ]
+3382
+Russian
+	英	['rʌʃn]
+	美	['rʌʃn]
+3383
+rust
+	英	[rʌst]
+	美	[rʌst]
+3384
+rusty
+	英	['rʌsti]
+	美	['rʌsti]
+3385
+sack
+	英	[sæk]
+	美	[sæk]
+3386
+sacred
+	英	['seɪkrɪd]
+	美	['seɪkrɪd]
+3387
+sacrifice
+	英	['sækrɪfaɪs]
+	美	['sækrɪfaɪs]
+3388
+sad
+	英	[sæd]
+	美	[sæd]
+3389
+saddle
+	英	['sædl]
+	美	['sædl]
+3390
+sadly
+	英	['sædli]
+	美	['sædli]
+3391
+sadness
+	英	['sædnəs]
+	美	['sædnəs]
+3392
+safe
+	英	[seɪf]
+	美	[seɪf]
+3393
+safely
+	英	['seɪfli]
+	美	['seɪfli]
+3394
+safety
+	英	['seɪfti]
+	美	['seɪfti]
+3395
+sail
+	英	[seɪl]
+	美	[seɪl]
+3396
+sailor
+	英	['seɪlə(r)]
+	美	['seɪlər]
+3397
+saint
+	英	[seɪnt]
+	美	[seɪnt]
+3398
+sake
+	英	[seɪk]
+	美	[seɪk]
+3399
+salad
+	英	['sæləd]
+	美	['sæləd]
+3400
+salary
+	英	['sæləri]
+	美	['sæləri]
+3401
+sale
+	英	[seɪl]
+	美	[seɪl]
+3402
+salesman
+	英	['seɪlzmən]
+	美	['seɪlzmən]
+3403
+salt
+	英	[sɔːlt]
+	美	[sɔːlt]
+3404
+salute
+	英	[sə'luːt]
+	美	[sə'luːt]
+3405
+same
+	英	[seɪm]
+	美	[seɪm]
+3406
+sample
+	英	['sɑːmpl]
+	美	['sæmpl]
+3407
+sand
+	英	[sænd]
+	美	[sænd]
+3408
+sandwich
+	英	['sænwɪtʃ]
+	美	['sænwɪtʃ]
+3409
+sandy
+	英	['sændi]
+	美	['sændi]
+3410
+satellite
+	英	['sætəlaɪt]
+	美	['sætəlaɪt]
+3411
+satisfaction
+	英	[ˌsætɪs'fækʃn]
+	美	[ˌsætɪs'fækʃn]
+3412
+satisfactory
+	英	[ˌsætɪs'fæktəri]
+	美	[ˌsætɪs'fæktəri]
+3413
+satisfy
+	英	['sætɪsfaɪ]
+	美	['sætɪsfaɪ]
+3414
+Saturday
+	英	['sætədeɪ]
+	美	['sætərdeɪ]
+3415
+sauce
+	英	[sɔːs]
+	美	[sɔːs]
+3416
+saucer
+	英	['sɔːsə(r)]
+	美	['sɔːsər]
+3417
+sausage
+	英	['sɒsɪdʒ]
+	美	['sɔːsɪdʒ]
+3418
+save
+	英	[seɪv]
+	美	[seɪv]
+3419
+saving
+	英	['seɪvɪŋ]
+	美	['seɪvɪŋ]
+3420
+saw
+	英	[sɔː]
+	美	[sɔː]
+3421
+say
+	英	[seɪ]
+	美	[seɪ]
+3422
+scale
+	英	[skeɪl]
+	美	[skeɪl]
+3423
+scan
+	英	[skæn]
+	美	[skæn]
+3424
+scar
+	英	[skɑː(r)]
+	美	[skɑːr]
+3425
+scarce
+	英	[skeəs]
+	美	[skers]
+3426
+scarcely
+	英	['skeəsli]
+	美	['skersli]
+3427
+scare
+	英	[skeə(r)]
+	美	[sker]
+3428
+scarf
+	英	[skɑːf]
+	美	[skɑːrf]
+3429
+scatter
+	英	['skætə(r)]
+	美	['skætər]
+3430
+scene
+	英	[siːn]
+	美	[siːn]
+3431
+scenery
+	英	['siːnəri]
+	美	['siːnəri]
+3432
+scent
+	英	[sent]
+	美	[sent]
+3433
+schedule
+	英	['ʃedjuːl]
+	美	['skedʒuːl]
+3434
+scheme
+	英	[skiːm]
+	美	[skiːm]
+3435
+scholar
+	英	['skɒlə(r)]
+	美	['skɑːlər]
+3436
+scholarship
+	英	['skɒləʃɪp]
+	美	['skɑːlərʃɪp]
+3437
+school
+	英	[skuːl]
+	美	[skuːl]
+3438
+science
+	英	['saɪəns]
+	美	['saɪəns]
+3439
+scientific
+	英	[ˌsaɪən'tɪfɪk]
+	美	[ˌsaɪən'tɪfɪk]
+3440
+scientist
+	英	['saɪəntɪst]
+	美	['saɪəntɪst]
+3441
+scissors
+	英	['sɪzəz]
+	美	['sɪzərz]
+3442
+scold
+	英	[skəʊld]
+	美	[skoʊld]
+3443
+scope
+	英	[skəʊp]
+	美	[skoʊp]
+3444
+score
+	英	[skɔː(r)]
+	美	[skɔː]
+3445
+scorn
+	英	[skɔːn]
+	美	[skɔːrn]
+3446
+scout
+	英	[skaʊt]
+	美	[skaʊt]
+3447
+scrape
+	英	[skreɪp]
+	美	[skreɪp]
+3448
+scratch
+	英	[skrætʃ]
+	美	[skrætʃ]
+3449
+scream
+	英	[skriːm]
+	美	[skriːm]
+3450
+screen
+	英	[skriːn]
+	美	[skriːn]
+3451
+screw
+	英	[skruː]
+	美	[skruː]
+3452
+sea
+	英	[siː]
+	美	[siː]
+3453
+seal
+	英	[siːl]
+	美	[siːl]
+3454
+seaman
+	英	['siːmən]
+	美	['siːmən]
+3455
+seaport
+	英	['siːpɔːt]
+	美	['siːpɔːrt]
+3456
+search
+	英	[sɜːtʃ]
+	美	[sɜːrtʃ]
+3457
+season
+	英	['siːzn]
+	美	['siːzn]
+3458
+seat
+	英	[siːt]
+	美	[siːt]
+3459
+second
+	英	['sekənd]
+	美	['sekənd]
+3460
+secondary
+	英	['sekəndri]
+	美	['sekənderi]
+3461
+secondly
+	英	['sekəndli]
+	美	['sekəndli]
+3462
+secret
+	英	['siːkrət]
+	美	['siːkrət]
+3463
+secretary
+	英	['sekrətri]
+	美	['sekrəteri]
+3464
+section
+	英	['sekʃn]
+	美	['sekʃn]
+3465
+secure
+	英	[sɪ'kjʊə(r)]
+	美	[sə'kjʊr]
+3466
+security
+	英	[sɪ'kjʊərəti]
+	美	[sə'kjʊrəti]
+3467
+see
+	英	[siː]
+	美	[siː]
+3468
+seed
+	英	[siːd]
+	美	[siːd]
+3469
+seek
+	英	[siːk]
+	美	[siːk]
+3470
+seem
+	英	[siːm]
+	美	[siːm]
+3471
+seize
+	英	[siːz]
+	美	[siːz]
+3472
+seldom
+	英	['seldəm]
+	美	['seldəm]
+3473
+select
+	英	[sɪ'lekt]
+	美	[sɪ'lekt]
+3474
+selection
+	英	[sɪ'lekʃn]
+	美	[sɪ'lekʃn]
+3475
+self
+	英	[self]
+	美	[self]
+3476
+selfish
+	英	['selfɪʃ]
+	美	['selfɪʃ]
+3477
+sell
+	英	[sel]
+	美	[sel]
+3478
+seller
+	英	['selə(r)]
+	美	['selər]
+3479
+semester
+	英	[sɪ'mestə(r)]
+	美	[sɪ'mestər]
+3480
+semiconductor
+	英	[ˌsemikən'dʌktə(r)]
+	美	[ˌsemikən'dʌktər]
+3481
+senate
+	英	['senət]
+	美	['senət]
+3482
+send
+	英	[send]
+	美	[send]
+3483
+senior
+	英	['siːniə(r)]
+	美	['siːniər]
+3484
+sense
+	英	[sens]
+	美	[sens]
+3485
+sensible
+	英	['sensəbl]
+	美	['sensəbl]
+3486
+sensitive
+	英	['sensətɪv]
+	美	['sensətɪv]
+3487
+sentence
+	英	['sentəns]
+	美	['sentəns]
+3488
+separate
+	英	['sepərət]
+	美	['sepərət]
+3489
+separately
+	英	['sepərətli]
+	美	['sepərətli]
+3490
+separation
+	英	[ˌsepə'reɪʃn]
+	美	[ˌsepə'reɪʃn]
+3491
+September
+	英	[sep'tembə(r)]
+	美	[sep'tembər]
+3492
+sequence
+	英	['siːkwəns]
+	美	['siːkwəns]
+3493
+series
+	英	['sɪəriːz]
+	美	['sɪriːz]
+3494
+serious
+	英	['sɪəriəs]
+	美	['sɪriəs]
+3495
+seriously
+	英	['sɪəriəsli]
+	美	['sɪriəsli]
+3496
+servant
+	英	['sɜːvənt]
+	美	['sɜːrvənt]
+3497
+serve
+	英	[sɜːv]
+	美	[sɜːrv]
+3498
+service
+	英	['sɜːvɪs]
+	美	['sɜːrvɪs]
+3499
+session
+	英	['seʃn]
+	美	['seʃn]
+3500
+set
+	英	[set]
+	美	[set]
+3501
+setting
+	英	['setɪŋ]
+	美	['setɪŋ]
+3502
+settle
+	英	['setl]
+	美	['setl]
+3503
+settlement
+	英	['setlmənt]
+	美	['setlmənt]
+3504
+seven
+	英	['sevn]
+	美	['sevn]
+3505
+seventeen
+	英	[ˌsevn'tiːn]
+	美	[ˌsevn'tiːn]
+3506
+seventh
+	英	['sevnθ]
+	美	['sevnθ]
+3507
+seventy
+	英	['sevnti]
+	美	['sevnti]
+3508
+several
+	英	['sevrəl]
+	美	['sevrəl]
+3509
+severe
+	英	[sɪ'vɪə(r)]
+	美	[sɪ'vɪr]
+3510
+severely
+	英	[sə'vɪrlɪ]
+	美	[sə'vɪrlɪ]
+3511
+sew
+	英	[səʊ]
+	美	[soʊ]
+3512
+sex
+	英	[seks]
+	美	[seks]
+3513
+shade
+	英	[ʃeɪd]
+	美	[ʃeɪd]
+3514
+shadow
+	英	['ʃædəʊ]
+	美	['ʃædoʊ]
+3515
+shady
+	英	['ʃeɪdi]
+	美	['ʃeɪdi]
+3516
+shake
+	英	[ʃeɪk]
+	美	[ʃeɪk]
+3517
+shall
+	英	[ʃəl]
+	美	[ʃəl]
+3518
+shallow
+	英	['ʃæləʊ]
+	美	['ʃæloʊ]
+3519
+shame
+	英	[ʃeɪm]
+	美	[ʃeɪm]
+3520
+shampoo
+	英	[ʃæm'puː]
+	美	[ʃæm'puː]
+3521
+shape
+	英	[ʃeɪp]
+	美	[ʃeɪp]
+3522
+share
+	英	[ʃeə(r)]
+	美	[ʃer]
+3523
+sharp
+	英	[ʃɑːp]
+	美	[ʃɑːrp]
+3524
+sharpen
+	英	['ʃɑːpən]
+	美	['ʃɑːrpən]
+3525
+sharply
+	英	['ʃɑːpli]
+	美	['ʃɑːrpli]
+3526
+shave
+	英	[ʃeɪv]
+	美	[ʃeɪv]
+3527
+she
+	英	[ʃi:]
+	美	[ʃi:]
+3528
+shear
+	英	[ʃɪə(r)]
+	美	[ʃɪr]
+3529
+shed
+	英	[ʃed]
+	美	[ʃed]
+3530
+sheep
+	英	[ʃiːp]
+	美	[ʃiːp]
+3531
+sheet
+	英	[ʃiːt]
+	美	[ʃiːt]
+3532
+shelf
+	英	[ʃelf]
+	美	[ʃelf]
+3533
+shell
+	英	[ʃel]
+	美	[ʃel]
+3534
+shelter
+	英	['ʃeltə(r)]
+	美	['ʃeltər]
+3535
+shepherd
+	英	['ʃepəd]
+	美	['ʃepərd]
+3536
+shield
+	英	[ʃiːld]
+	美	[ʃiːld]
+3537
+shift
+	英	[ʃɪft]
+	美	[ʃɪft]
+3538
+shilling
+	英	['ʃɪlɪŋ]
+	美	['ʃɪlɪŋ]
+3539
+shine
+	英	[ʃaɪn]
+	美	[ʃaɪn]
+3540
+ship
+	英	[ʃɪp]
+	美	[ʃɪp]
+3541
+shirt
+	英	[ʃɜːt]
+	美	[ʃɜːrt]
+3542
+shiver
+	英	['ʃɪvə(r)]
+	美	['ʃɪvər]
+3543
+shock
+	英	[ʃɒk]
+	美	[ʃɑːk]
+3544
+shoe
+	英	[ʃuː]
+	美	[ʃuː]
+3545
+shoot
+	英	[ʃuːt]
+	美	[ʃuːt]
+3546
+shop
+	英	[ʃɒp]
+	美	[ʃɑːp]
+3547
+shopkeeper
+	英	['ʃɒpkiːpə(r)]
+	美	['ʃɑːpkiːpər]
+3548
+shopping
+	英	['ʃɒpɪŋ]
+	美	['ʃɑːpɪŋ]
+3549
+shore
+	英	[ʃɔː(r)]
+	美	[ʃɔːr]
+3550
+short
+	英	[ʃɔːt]
+	美	[ʃɔːrt]
+3551
+shortage
+	英	['ʃɔːtɪdʒ]
+	美	['ʃɔːrtɪdʒ]
+3552
+shortcoming
+	英	['ʃɔːtkʌmɪŋ]
+	美	['ʃɔːrtkʌmɪŋ]
+3553
+shortly
+	英	['ʃɔːtli]
+	美	['ʃɔːrtli]
+3554
+shot
+	英	[ʃɒt]
+	美	[ʃɑːt]
+3555
+should
+	英	[ʃəd]
+	美	[ʃəd]
+3556
+shoulder
+	英	['ʃəʊldə(r)]
+	美	['ʃoʊldər]
+3557
+shout
+	英	[ʃaʊt]
+	美	[ʃaʊt]
+3558
+show
+	英	[ʃəʊ]
+	美	[ʃoʊ]
+3559
+shower
+	英	['ʃaʊə(r)]
+	美	['ʃaʊər]
+3560
+shriek
+	英	[ʃriːk]
+	美	[ʃriːk]
+3561
+shrink
+	英	[ʃrɪŋk]
+	美	[ʃrɪŋk]
+3562
+shut
+	英	[ʃʌt]
+	美	[ʃʌt]
+3563
+shy
+	英	[ʃaɪ]
+	美	[ʃaɪ]
+3564
+sick
+	英	[sɪk]
+	美	[sɪk]
+3565
+sickness
+	英	['sɪknəs]
+	美	['sɪknəs]
+3566
+side
+	英	[saɪd]
+	美	[saɪd]
+3567
+sideways
+	英	['saɪdweɪz]
+	美	['saɪdweɪz]
+3568
+sigh
+	英	[saɪ]
+	美	[saɪ]
+3569
+sight
+	英	[saɪt]
+	美	[saɪt]
+3570
+sightseeing
+	英	['saɪtsiːɪŋ]
+	美	['saɪtsiːɪŋ]
+3571
+sign
+	英	[saɪn]
+	美	[saɪn]
+3572
+signal
+	英	['sɪɡnəl]
+	美	['sɪɡnəl]
+3573
+signature
+	英	['sɪɡnətʃə(r)]
+	美	['sɪɡnətʃər]
+3574
+significance
+	英	[sɪɡ'nɪfɪkəns]
+	美	[sɪɡ'nɪfɪkəns]
+3575
+significant
+	英	[sɪɡ'nɪfɪkənt]
+	美	[sɪɡ'nɪfɪkənt]
+3576
+silence
+	英	['saɪləns]
+	美	['saɪləns]
+3577
+silent
+	英	['saɪlənt]
+	美	['saɪlənt]
+3578
+silk
+	英	[sɪlk]
+	美	[sɪlk]
+3579
+silly
+	英	['sɪli]
+	美	['sɪli]
+3580
+silver
+	英	['sɪlvə(r)]
+	美	['sɪlvər]
+3581
+similar
+	英	['sɪmələ(r)]
+	美	['sɪmələr]
+3582
+similarly
+	英	['sɪmələli]
+	美	['sɪmələrli]
+3583
+simple
+	英	['sɪmpl]
+	美	['sɪmpl]
+3584
+simplicity
+	英	[sɪm'plɪsəti]
+	美	[sɪm'plɪsəti]
+3585
+simplify
+	英	['sɪmplɪfaɪ]
+	美	['sɪmplɪfaɪ]
+3586
+simply
+	英	['sɪmpli]
+	美	['sɪmpli]
+3587
+sin
+	英	[sɪn]
+	美	[sɪn]
+3588
+since
+	英	[sɪns]
+	美	[sɪns]
+3589
+sincere
+	英	[sɪn'sɪə(r)]
+	美	[sɪn'sɪr]
+3590
+sing
+	英	[sɪŋ]
+	美	[sɪŋ]
+3591
+singer
+	英	['sɪŋə(r)]
+	美	['sɪŋər]
+3592
+single
+	英	['sɪŋɡl]
+	美	['sɪŋɡl]
+3593
+singular
+	英	['sɪŋɡjələ(r)]
+	美	['sɪŋɡjələr]
+3594
+sink
+	英	[sɪŋk]
+	美	[sɪŋk]
+3595
+sir
+	英	[sɜː(r)]
+	美	[sɜːr]
+3596
+sister
+	英	['sɪstə(r)]
+	美	['sɪstər]
+3597
+sit
+	英	[sɪt]
+	美	[sɪt]
+3598
+site
+	英	[saɪt]
+	美	[saɪt]
+3599
+situation
+	英	[ˌsɪtʃu'eɪʃn]
+	美	[ˌsɪtʃu'eɪʃn]
+3600
+six
+	英	[sɪks]
+	美	[sɪks]
+3601
+sixteen
+	英	[ˌsɪks'tiːn]
+	美	[ˌsɪks'tiːn]
+3602
+sixth
+	英	[sɪksθ]
+	美	[sɪksθ]
+3603
+sixty
+	英	['sɪksti]
+	美	['sɪksti]
+3604
+size
+	英	[saɪz]
+	美	[saɪz]
+3605
+skate
+	英	[skeɪt]
+	美	[skeɪt]
+3606
+sketch
+	英	[sketʃ]
+	美	[skɛtʃ]
+3607
+ski
+	英	[skiː]
+	美	[skiː]
+3608
+skill
+	英	[skɪl]
+	美	[skɪl]
+3609
+skilled
+	英	[skɪld]
+	美	[skɪld]
+3610
+skillful
+	英	['skɪlfʊl]
+	美	['skɪlfəl]
+3611
+skim
+	英	[skɪm]
+	美	[skɪm]
+3612
+skin
+	英	[skɪn]
+	美	[skɪn]
+3613
+skirt
+	英	[skɜːt]
+	美	[skɜːrt]
+3614
+sky
+	英	[skaɪ]
+	美	[skaɪ]
+3615
+slam
+	英	[slæm]
+	美	[slæm]
+3616
+slave
+	英	[sleɪv]
+	美	[sleɪv]
+3617
+slavery
+	英	['sleɪvəri]
+	美	['sleɪvəri]
+3618
+sleep
+	英	[sliːp]
+	美	[sliːp]
+3619
+sleepy
+	英	['sliːpi]
+	美	['sliːpi]
+3620
+sleeve
+	英	[sliːv]
+	美	[sliːv]
+3621
+slender
+	英	['slendə(r)]
+	美	['slendər]
+3622
+slice
+	英	[slaɪs]
+	美	[slaɪs]
+3623
+slide
+	英	[slaɪd]
+	美	[slaɪd]
+3624
+slight
+	英	[slaɪt]
+	美	[slaɪt]
+3625
+slightly
+	英	['slaɪtli]
+	美	['slaɪtli]
+3626
+slip
+	英	[slɪp]
+	美	[slɪp]
+3627
+slipper
+	英	['slɪpə(r)]
+	美	['slɪpər]
+3628
+slippery
+	英	['slɪpəri]
+	美	['slɪpəri]
+3629
+slit
+	英	[slɪt]
+	美	[slɪt]
+3630
+slogan
+	英	['sləʊɡən]
+	美	['sloʊɡən]
+3631
+slope
+	英	[sləʊp]
+	美	[sloʊp]
+3632
+slow
+	英	[sləʊ]
+	美	[sloʊ]
+3633
+slowly
+	英	['sləʊli]
+	美	['sloʊli]
+3634
+slum
+	英	[slʌm]
+	美	[slʌm]
+3635
+sly
+	英	[slaɪ]
+	美	[slaɪ]
+3636
+small
+	英	[smɔːl]
+	美	[smɔːl]
+3637
+smart
+	英	[smɑːt]
+	美	[smɑːrt]
+3638
+smell
+	英	[smel]
+	美	[smel]
+3639
+smile
+	英	[smaɪl]
+	美	[smaɪl]
+3640
+smog
+	英	[smɒɡ]
+	美	[smɑːɡ]
+3641
+smoke
+	英	[sməʊk]
+	美	[smoʊk]
+3642
+smooth
+	英	[smuːð]
+	美	[smuːð]
+3643
+smoothly
+	英	['smuːðli]
+	美	['smuːðli]
+3644
+snake
+	英	[sneɪk]
+	美	[sneɪk]
+3645
+snow
+	英	[snəʊ]
+	美	[snoʊ]
+3646
+snowstorm
+	英	['snəʊstɔːm]
+	美	['snoʊstɔːrm]
+3647
+snowy
+	英	['snəʊi]
+	美	['snoʊi]
+3648
+so
+	英	[səʊ]
+	美	[soʊ]
+3649
+so-called
+	英	[səʊ kɔːld]
+	美	[soʊ kɔːld]
+3650
+soak
+	英	[səʊk]
+	美	[soʊk]
+3651
+soap
+	英	[səʊp]
+	美	[soʊp]
+3652
+sob
+	英	[sɒb]
+	美	[sɑːb]
+3653
+sober
+	英	['səʊbə(r)]
+	美	['soʊbər]
+3654
+soccer
+	英	['sɒkə(r)]
+	美	['sɑːkər]
+3655
+social
+	英	['səʊʃl]
+	美	['soʊʃl]
+3656
+socialism
+	英	['səʊʃəlɪzəm]
+	美	['soʊʃəlɪzəm]
+3657
+socialist
+	英	['səʊʃəlɪst]
+	美	['soʊʃəlɪst]
+3658
+society
+	英	[sə'saɪəti]
+	美	[sə'saɪəti]
+3659
+sock
+	英	[sɒk]
+	美	[sɑːk]
+3660
+soda
+	英	['səʊdə]
+	美	['soʊdə]
+3661
+soft
+	英	[sɒft]
+	美	[sɔːft]
+3662
+softly
+	英	['sɒftli]
+	美	['sɔːftli]
+3663
+soil
+	英	[sɔɪl]
+	美	[sɔɪl]
+3664
+solar
+	英	['səʊlə(r)]
+	美	['soʊlər]
+3665
+soldier
+	英	['səʊldʒə(r)]
+	美	['soʊldʒər]
+3666
+sole
+	英	[səʊl]
+	美	[soʊl]
+3667
+solely
+	英	['səʊlli]
+	美	['soʊlli]
+3668
+solemn
+	英	['sɒləm]
+	美	['sɑːləm]
+3669
+solid
+	英	['sɒlɪd]
+	美	['sɑːlɪd]
+3670
+soluble
+	英	['sɒljəbl]
+	美	['sɑːljəbl]
+3671
+solution
+	英	[sə'luːʃn]
+	美	[sə'luːʃn]
+3672
+solve
+	英	[sɒlv]
+	美	[sɑːlv]
+3673
+some
+	英	[səm]
+	美	[səm]
+3674
+somebody
+	英	['sʌmbədi]
+	美	['sʌmbədi]
+3675
+somehow
+	英	['sʌmhaʊ]
+	美	['sʌmhaʊ]
+3676
+someone
+	英	['sʌmwʌn]
+	美	['sʌmwʌn]
+3677
+something
+	英	['sʌmθɪŋ]
+	美	['sʌmθɪŋ]
+3678
+sometime
+	英	['sʌmtaɪm]
+	美	['sʌmtaɪm]
+3679
+sometimes
+	英	['sʌmtaɪmz]
+	美	['sʌmtaɪmz]
+3680
+somewhat
+	英	['sʌmwɒt]
+	美	['sʌmwʌt]
+3681
+somewhere
+	英	['sʌmweə(r)]
+	美	['sʌmwer]
+3682
+son
+	英	[sʌn]
+	美	[sʌn]
+3683
+song
+	英	[sɒŋ]
+	美	[sɔːŋ]
+3684
+soon
+	英	[suːn]
+	美	[suːn]
+3685
+sophisticated
+	英	[sə'fɪstɪkeɪtɪd]
+	美	[sə'fɪstɪkeɪtɪd]
+3686
+sore
+	英	[sɔː(r)]
+	美	[sɔːr]
+3687
+sorrow
+	英	['sɒrəʊ]
+	美	['sɑːroʊ]
+3688
+sorry
+	英	['sɒri]
+	美	['sɑːri]
+3689
+sort
+	英	[sɔːt]
+	美	[sɔːrt]
+3690
+soul
+	英	[səʊl]
+	美	[soʊl]
+3691
+sound
+	英	[saʊnd]
+	美	[saʊnd]
+3692
+soup
+	英	[suːp]
+	美	[suːp]
+3693
+sour
+	英	['saʊə(r)]
+	美	['saʊər]
+3694
+source
+	英	[sɔːs]
+	美	[sɔːrs]
+3695
+south
+	英	[saʊθ]
+	美	[saʊθ]
+3696
+southeast
+	英	[ˌsaʊθ'iːst]
+	美	[ˌsaʊθ'iːst]
+3697
+southern
+	英	['sʌðən]
+	美	['sʌðərn]
+3698
+southwest
+	英	[ˌsaʊθ'west]
+	美	[ˌsaʊθ'west]
+3699
+Soviet
+	英	['səʊviət]
+	美	['soʊviet]
+3700
+sow
+	英	[saʊ]
+	美	[saʊ]
+3701
+space
+	英	[speɪs]
+	美	[speɪs]
+3702
+spacecraft
+	英	['speɪskrɑːft]
+	美	['speɪskræft]
+3703
+spaceship
+	英	['speɪsʃɪp]
+	美	['speɪsʃɪp]
+3704
+spade
+	英	[speɪd]
+	美	[speɪd]
+3705
+span
+	英	[spæn]
+	美	[spæn]
+3706
+Spanish
+	英	['spænɪʃ]
+	美	['spænɪʃ]
+3707
+spare
+	英	[speə(r)]
+	美	[sper]
+3708
+spark
+	英	[spɑːk]
+	美	[spɑːrk]
+3709
+sparkle
+	英	['spɑːkl]
+	美	['spɑːrkl]
+3710
+sparrow
+	英	['spærəʊ]
+	美	['spæroʊ]
+3711
+speak
+	英	[spiːk]
+	美	[spiːk]
+3712
+speaker
+	英	['spiːkə(r)]
+	美	['spiːkər]
+3713
+spear
+	英	[spɪə(r)]
+	美	[spɪr]
+3714
+special
+	英	['speʃl]
+	美	['speʃl]
+3715
+specialist
+	英	['speʃəlɪst]
+	美	['speʃəlɪst]
+3716
+speciality
+	英	[ˌspeʃi'æləti]
+	美	[ˌspeʃi'æləti]
+3717
+specialize
+	英	['speʃəlaɪz]
+	美	['speʃəlaɪz]
+3718
+specially
+	英	['speʃəli]
+	美	['speʃəli]
+3719
+specific
+	英	[spə'sɪfɪk]
+	美	[spə'sɪfɪk]
+3720
+specify
+	英	['spesɪfaɪ]
+	美	['spesɪfaɪ]
+3721
+specimen
+	英	['spesɪmən]
+	美	['spesɪmən]
+3722
+spectacle
+	英	['spektəkl]
+	美	['spektəkl]
+3723
+speech
+	英	[spiːtʃ]
+	美	[spiːtʃ]
+3724
+speed
+	英	[spiːd]
+	美	[spiːd]
+3725
+spell
+	英	[spel]
+	美	[spel]
+3726
+spelling
+	英	['spelɪŋ]
+	美	['spelɪŋ]
+3727
+spend
+	英	[spend]
+	美	[spend]
+3728
+sphere
+	英	[sfɪə(r)]
+	美	[sfɪr]
+3729
+spider
+	英	['spaɪdə(r)]
+	美	['spaɪdər]
+3730
+spill
+	英	[spɪl]
+	美	[spɪl]
+3731
+spin
+	英	[spɪn]
+	美	[spɪn]
+3732
+spirit
+	英	['spɪrɪt]
+	美	['spɪrɪt]
+3733
+spiritual
+	英	['spɪrɪtʃuəl]
+	美	['spɪrɪtʃuəl]
+3734
+spit
+	英	[spɪt]
+	美	[spɪt]
+3735
+splash
+	英	[splæʃ]
+	美	[splæʃ]
+3736
+splendid
+	英	['splendɪd]
+	美	['splendɪd]
+3737
+split
+	英	[splɪt]
+	美	[splɪt]
+3738
+spoil
+	英	[spɔɪl]
+	美	[spɔɪl]
+3739
+sponge
+	英	[spʌndʒ]
+	美	[spʌndʒ]
+3740
+sponsor
+	英	['spɒnsə(r)]
+	美	['spɑːnsər]
+3741
+spontaneous
+	英	[spɒn'teɪniəs]
+	美	[spɑːn'teɪniəs]
+3742
+spoon
+	英	[spuːn]
+	美	[spuːn]
+3743
+sport
+	英	[spɔːt]
+	美	[spɔːrt]
+3744
+sportsman
+	英	['spɔːtsmən]
+	美	['spɔːrtsmən]
+3745
+spot
+	英	[spɒt]
+	美	[spɑːt]
+3746
+spray
+	英	[spreɪ]
+	美	[spreɪ]
+3747
+spread
+	英	[spred]
+	美	[spred]
+3748
+spring
+	英	[sprɪŋ]
+	美	[sprɪŋ]
+3749
+springtime
+	英	['sprɪŋtaɪm]
+	美	['sprɪŋtaɪm]
+3750
+sprinkle
+	英	['sprɪŋkl]
+	美	['sprɪŋkl]
+3751
+spur
+	英	[spɜː(r)]
+	美	[spɜːr]
+3752
+spy
+	英	[spaɪ]
+	美	[spaɪ]
+3753
+square
+	英	[skweə(r)]
+	美	[skwer]
+3754
+squeeze
+	英	[skwiːz]
+	美	[skwiːz]
+3755
+squirrel
+	英	['skwɪrəl]
+	美	['skwɜːrəl]
+3756
+stab
+	英	[stæb]
+	美	[stæb]
+3757
+stability
+	英	[stə'bɪləti]
+	美	[stə'bɪləti]
+3758
+stable
+	英	['steɪbl]
+	美	['steɪbl]
+3759
+stack
+	英	[stæk]
+	美	[stæk]
+3760
+stadium
+	英	['steɪdiəm]
+	美	['steɪdiəm]
+3761
+staff
+	英	[stɑːf]
+	美	[stæf]
+3762
+stage
+	英	[steɪdʒ]
+	美	[steɪdʒ]
+3763
+stain
+	英	[steɪn]
+	美	[steɪn]
+3764
+stair
+	英	[steə(r)]
+	美	[ster]
+3765
+staircase
+	英	['steəkeɪs]
+	美	['sterkeɪs]
+3766
+stake
+	英	[steɪk]
+	美	[steɪk]
+3767
+stale
+	英	[steɪl]
+	美	[steɪl]
+3768
+stamp
+	英	[stæmp]
+	美	[stæmp]
+3769
+stand
+	英	[stænd]
+	美	[stænd]
+3770
+standard
+	英	['stændəd]
+	美	['stændərd]
+3771
+standpoint
+	英	['stændpɔɪnt]
+	美	['stændpɔɪnt]
+3772
+star
+	英	[stɑː(r)]
+	美	[stɑːr]
+3773
+stare
+	英	[steə(r)]
+	美	[ster]
+3774
+start
+	英	[stɑːt]
+	美	[stɑːrt]
+3775
+startle
+	英	['stɑːtl]
+	美	['stɑːrtl]
+3776
+starve
+	英	[stɑːv]
+	美	[stɑːrv]
+3777
+state
+	英	[steɪt]
+	美	[steɪt]
+3778
+statement
+	英	['steɪtmənt]
+	美	['steɪtmənt]
+3779
+statesman
+	英	['steɪtsmən]
+	美	['steɪtsmən]
+3780
+static
+	英	['stætɪk]
+	美	['stætɪk]
+3781
+station
+	英	['steɪʃn]
+	美	['steɪʃn]
+3782
+statistical
+	英	[stə'tɪstɪkl]
+	美	[stə'tɪstɪkl]
+3783
+statue
+	英	['stætʃuː]
+	美	['stætʃuː]
+3784
+status
+	英	['steɪtəs]
+	美	['steɪtəs]
+3785
+stay
+	英	[steɪ]
+	美	[steɪ]
+3786
+steadily
+	英	['stedɪlɪ]
+	美	['stedəlɪ]
+3787
+steady
+	英	['stedi]
+	美	['stedi]
+3788
+steal
+	英	[stiːl]
+	美	[stiːl]
+3789
+steam
+	英	[stiːm]
+	美	[stiːm]
+3790
+steamer
+	英	['stiːmə(r)]
+	美	['stiːmər]
+3791
+steel
+	英	[stiːl]
+	美	[stiːl]
+3792
+steep
+	英	[stiːp]
+	美	[stiːp]
+3793
+steer
+	英	[stɪə(r)]
+	美	[stɪr]
+3794
+stem
+	英	[stem]
+	美	[stem]
+3795
+step
+	英	[step]
+	美	[step]
+3796
+stern
+	英	[stɜːn]
+	美	[stɜːrn]
+3797
+steward
+	英	['stjuːəd]
+	美	['stuːərd]
+3798
+stewardess
+	英	[ˌstjuːə'des]
+	美	['stuːərdəs]
+3799
+stick
+	英	[stɪk]
+	美	[stɪk]
+3800
+sticky
+	英	['stɪki]
+	美	['stɪki]
+3801
+stiff
+	英	[stɪf]
+	美	[stɪf]
+3802
+stiffen
+	英	['stɪfn]
+	美	['stɪfn]
+3803
+still
+	英	[stɪl]
+	美	[stɪl]
+3804
+stimulate
+	英	['stɪmjuleɪt]
+	美	['stɪmjuleɪt]
+3805
+sting
+	英	[stɪŋ]
+	美	[stɪŋ]
+3806
+stir
+	英	[stɜː(r)]
+	美	[stɜːr]
+3807
+stitch
+	英	[stɪtʃ]
+	美	[stɪtʃ]
+3808
+stock
+	英	[stɒk]
+	美	[stɑːk]
+3809
+stocking
+	英	['stɒkɪŋ]
+	美	['stɑːkɪŋ]
+3810
+stomach
+	英	['stʌmək]
+	美	['stʌmək]
+3811
+stone
+	英	[stəʊn]
+	美	[stoʊn]
+3812
+stony
+	英	['stəʊni]
+	美	['stoʊni]
+3813
+stool
+	英	[stuːl]
+	美	[stuːl]
+3814
+stoop
+	英	[stuːp]
+	美	[stuːp]
+3815
+stop
+	英	[stɒp]
+	美	[stɑːp]
+3816
+storage
+	英	['stɔːrɪdʒ]
+	美	['stɔːrɪdʒ]
+3817
+store
+	英	[stɔː(r)]
+	美	[stɔːr]
+3818
+storey
+	英	['stɔːri]
+	美	['stɔːri]
+3819
+storm
+	英	[stɔːm]
+	美	[stɔːrm]
+3820
+stormy
+	英	['stɔːmi]
+	美	['stɔːrmi]
+3821
+story
+	英	['stɔːri]
+	美	['stɔːri]
+3822
+stove
+	英	[stəʊv]
+	美	[stoʊv]
+3823
+straight
+	英	[streɪt]
+	美	[streɪt]
+3824
+strain
+	英	[streɪn]
+	美	[streɪn]
+3825
+strange
+	英	[streɪndʒ]
+	美	[streɪndʒ]
+3826
+stranger
+	英	['streɪndʒə(r)]
+	美	['streɪndʒər]
+3827
+strap
+	英	[stræp]
+	美	[stræp]
+3828
+strategy
+	英	['strætədʒi]
+	美	['strætədʒi]
+3829
+straw
+	英	[strɔː]
+	美	[strɔː]
+3830
+strawberry
+	英	['strɔːbəri]
+	美	['strɔːberi]
+3831
+stream
+	英	[striːm]
+	美	[striːm]
+3832
+street
+	英	[striːt]
+	美	[striːt]
+3833
+strength
+	英	[streŋθ]
+	美	[streŋθ]
+3834
+strengthen
+	英	['streŋθn]
+	美	['streŋθn]
+3835
+stress
+	英	[stres]
+	美	[stres]
+3836
+stretch
+	英	[stretʃ]
+	美	[stretʃ]
+3837
+strict
+	英	[strɪkt]
+	美	[strɪkt]
+3838
+strictly
+	英	['strɪktli]
+	美	['strɪktli]
+3839
+strike
+	英	[straɪk]
+	美	[straɪk]
+3840
+string
+	英	[strɪŋ]
+	美	[strɪŋ]
+3841
+strip
+	英	[strɪp]
+	美	[strɪp]
+3842
+stripe
+	英	[straɪp]
+	美	[straɪp]
+3843
+stroke
+	英	[strəʊk]
+	美	[stroʊk]
+3844
+strong
+	英	[strɒŋ]
+	美	[strɔːŋ]
+3845
+strongly
+	英	[strɒŋli]
+	美	[strɒŋli]
+3846
+structural
+	英	['strʌktʃərəl]
+	美	['strʌktʃərəl]
+3847
+structure
+	英	['strʌktʃə(r)]
+	美	['strʌktʃər]
+3848
+struggle
+	英	['strʌɡl]
+	美	['strʌɡl]
+3849
+student
+	英	['stjuːdnt]
+	美	['stuːdnt]
+3850
+study
+	英	['stʌdi]
+	美	['stʌdi]
+3851
+stuff
+	英	[stʌf]
+	美	[stʌf]
+3852
+stumble
+	英	['stʌmbl]
+	美	['stʌmbl]
+3853
+stupid
+	英	['stjuːpɪd]
+	美	['stuːpɪd]
+3854
+style
+	英	[staɪl]
+	美	[staɪl]
+3855
+subject
+	英	['sʌbdʒɪkt]
+	美	['sʌbdʒɪkt]
+3856
+submarine
+	英	[ˌsʌbmə'riːn]
+	美	[ˌsʌbmə'riːn]
+3857
+submerge
+	英	[səb'mɜːdʒ]
+	美	[səb'mɜːrdʒ]
+3858
+submit
+	英	[səb'mɪt]
+	美	[səb'mɪt]
+3859
+subsequent
+	英	['sʌbsɪkwənt]
+	美	['sʌbsɪkwənt]
+3860
+substance
+	英	['sʌbstəns]
+	美	['sʌbstəns]
+3861
+substantial
+	英	[səb'stænʃl]
+	美	[səb'stænʃl]
+3862
+substitute
+	英	['sʌbstɪtjuːt]
+	美	['sʌbstɪtuːt]
+3863
+subtract
+	英	[səb'trækt]
+	美	[səb'trækt]
+3864
+suburb
+	英	['sʌbɜːb]
+	美	['sʌbɜːrb]
+3865
+subway
+	英	['sʌbweɪ]
+	美	['sʌbweɪ]
+3866
+succeed
+	英	[sək'siːd]
+	美	[sək'siːd]
+3867
+success
+	英	[sək'ses]
+	美	[sək'ses]
+3868
+successful
+	英	[sək'sesfl]
+	美	[sək'sesfl]
+3869
+successfully
+	英	[sək'sesfəli]
+	美	[sək'sesfəli]
+3870
+succession
+	英	[sək'seʃn]
+	美	[sək'seʃn]
+3871
+successive
+	英	[sək'sesɪv]
+	美	[sək'sesɪv]
+3872
+such
+	英	[sʌtʃ]
+	美	[sʌtʃ]
+3873
+suck
+	英	[sʌk]
+	美	[sʌk]
+3874
+sudden
+	英	['sʌdn]
+	美	['sʌdn]
+3875
+suddenly
+	英	['sʌdənli]
+	美	['sʌdənli]
+3876
+suffer
+	英	['sʌfə(r)]
+	美	['sʌfər]
+3877
+sufficient
+	英	[sə'fɪʃnt]
+	美	[sə'fɪʃnt]
+3878
+sufficiently
+	英	[sə'fɪʃntli]
+	美	[sə'fɪʃntli]
+3879
+sugar
+	英	['ʃʊɡə(r)]
+	美	['ʃʊɡər]
+3880
+suggest
+	英	[sə'dʒest]
+	美	[sə'dʒest]
+3881
+suggestion
+	英	[sə'dʒestʃən]
+	美	[sə'dʒestʃən]
+3882
+suit
+	英	[suːt]
+	美	[suːt]
+3883
+suitable
+	英	['suːtəbl]
+	美	['suːtəbl]
+3884
+sulphur
+	英	['sʌlfə(r)]
+	美	['sʌlfər]
+3885
+sum
+	英	[sʌm]
+	美	[sʌm]
+3886
+summarize
+	英	['sʌməraɪz]
+	美	['sʌməraɪz]
+3887
+summary
+	英	['sʌməri]
+	美	['sʌməri]
+3888
+summer
+	英	['sʌmə(r)]
+	美	['sʌmər]
+3889
+sun
+	英	[sʌn]
+	美	[sʌn]
+3890
+Sunday
+	英	['sʌndeɪ]
+	美	['sʌndeɪ]
+3891
+sunlight
+	英	['sʌnlaɪt]
+	美	['sʌnlaɪt]
+3892
+sunny
+	英	['sʌni]
+	美	['sʌni]
+3893
+sunrise
+	英	['sʌnraɪz]
+	美	['sʌnraɪz]
+3894
+sunset
+	英	['sʌnset]
+	美	['sʌnset]
+3895
+sunshine
+	英	['sʌnʃaɪn]
+	美	['sʌnʃaɪn]
+3896
+super
+	英	['suːpə(r)]
+	美	['suːpər]
+3897
+superficial
+	英	[ˌsuːpə'fɪʃl]
+	美	[ˌsuːpər'fɪʃl]
+3898
+superior
+	英	[suː'pɪəriə(r)]
+	美	[suː'pɪriər]
+3899
+supermarket
+	英	['suːpəmɑːkɪt]
+	美	['suːpərmɑːrkət]
+3900
+supper
+	英	['sʌpə(r)]
+	美	['sʌpər]
+3901
+supplement
+	英	['sʌplɪmənt]
+	美	['sʌplɪmənt]
+3902
+supply
+	英	[sə'plaɪ]
+	美	[sə'plaɪ]
+3903
+support
+	英	[sə'pɔːt]
+	美	[sə'pɔːrt]
+3904
+suppose
+	英	[sə'pəʊz]
+	美	[sə'poʊz]
+3905
+supreme
+	英	[suː'priːm]
+	美	[suː'priːm]
+3906
+sure
+	英	[ʃʊə(r)]
+	美	[ʃʊr]
+3907
+surely
+	英	['ʃʊəli]
+	美	['ʃʊrli]
+3908
+surface
+	英	['sɜːfɪs]
+	美	['sɜːrfɪs]
+3909
+surgeon
+	英	['sɜːdʒən]
+	美	['sɜːrdʒən]
+3910
+surgery
+	英	['sɜːdʒəri]
+	美	['sɜːrdʒəri]
+3911
+surname
+	英	['sɜːneɪm]
+	美	['sɜːrneɪm]
+3912
+surprise
+	英	[sə'praɪz]
+	美	[sər'praɪz]
+3913
+surprising
+	英	[sə'praɪzɪŋ]
+	美	[sər'praɪzɪŋ]
+3914
+surprisingly
+	英	[sə'praɪzɪŋli]
+	美	[sə'praɪzɪŋli]
+3915
+surrender
+	英	[sə'rendə(r)]
+	美	[sə'rendər]
+3916
+surround
+	英	[sə'raʊnd]
+	美	[sə'raʊnd]
+3917
+surroundings
+	英	[sə'raʊndɪŋz]
+	美	[sə'raʊndɪŋz]
+3918
+survey
+	英	['sɜːveɪ]
+	美	['sɜːrveɪ]
+3919
+survive
+	英	[sə'vaɪv]
+	美	[sər'vaɪv]
+3920
+suspect
+	英	[sə'spekt]
+	美	[sə'spekt]
+3921
+suspend
+	英	[sə'spend]
+	美	[sə'spend]
+3922
+suspicion
+	英	[sə'spɪʃn]
+	美	[sə'spɪʃn]
+3923
+sustain
+	英	[sə'steɪn]
+	美	[sə'steɪn]
+3924
+swallow
+	英	['swɒləʊ]
+	美	['swɑːloʊ]
+3925
+swamp
+	英	[swɒmp]
+	美	[swɑːmp]
+3926
+swan
+	英	[swɒn]
+	美	[swɑːn]
+3927
+swarm
+	英	[swɔːm]
+	美	[swɔːrm]
+3928
+sway
+	英	[sweɪ]
+	美	[sweɪ]
+3929
+swear
+	英	[sweə(r)]
+	美	[swer]
+3930
+sweat
+	英	[swet]
+	美	[swet]
+3931
+sweater
+	英	['swetə(r)]
+	美	['swetər]
+3932
+sweep
+	英	[swiːp]
+	美	[swiːp]
+3933
+sweet
+	英	[swiːt]
+	美	[swiːt]
+3934
+swell
+	英	[swel]
+	美	[swel]
+3935
+swift
+	英	[swɪft]
+	美	[swɪft]
+3936
+swim
+	英	[swɪm]
+	美	[swɪm]
+3937
+swing
+	英	[swɪŋ]
+	美	[swɪŋ]
+3938
+Swiss
+	英	[swɪs]
+	美	[swɪs]
+3939
+switch
+	英	[swɪtʃ]
+	美	[swɪtʃ]
+3940
+sword
+	英	[sɔːd]
+	美	[sɔːrd]
+3941
+symbol
+	英	['sɪmbl]
+	美	['sɪmbl]
+3942
+sympathetic
+	英	[ˌsɪmpə'θetɪk]
+	美	[ˌsɪmpə'θetɪk]
+3943
+sympathize
+	英	['sɪmpəθaɪz]
+	美	['sɪmpəθaɪz]
+3944
+sympathy
+	英	['sɪmpəθi]
+	美	['sɪmpəθi]
+3945
+synthetic
+	英	[sɪn'θetɪk]
+	美	[sɪn'θetɪk]
+3946
+system
+	英	['sɪstəm]
+	美	['sɪstəm]
+3947
+systematic
+	英	[ˌsɪstə'mætɪk]
+	美	[ˌsɪstə'mætɪk]
+3948
+systematical
+	英	[ˌsɪstə'mætɪkl]
+	美	[ˌsɪstə'mætɪkəl]
+3949
+table
+	英	['teɪbl]
+	美	['teɪbl]
+3950
+tablet
+	英	['tæblət]
+	美	['tæblət]
+3951
+tag
+	英	[tæɡ]
+	美	[tæɡ]
+3952
+tail
+	英	[teɪl]
+	美	[teɪl]
+3953
+tailor
+	英	['teɪlə(r)]
+	美	['teɪlər]
+3954
+take
+	英	[teɪk]
+	美	[teɪk]
+3955
+tale
+	英	[teɪl]
+	美	[teɪl]
+3956
+talent
+	英	['tælənt]
+	美	['tælənt]
+3957
+talk
+	英	[tɔːk]
+	美	[tɔːk]
+3958
+tall
+	英	[tɔːl]
+	美	[tɔːl]
+3959
+tame
+	英	[teɪm]
+	美	[teɪm]
+3960
+tan
+	英	[tæn]
+	美	[tæn]
+3961
+tank
+	英	[tæŋk]
+	美	[tæŋk]
+3962
+tap
+	英	[tæp]
+	美	[tæp]
+3963
+tape
+	英	[teɪp]
+	美	[teɪp]
+3964
+target
+	英	['tɑːɡɪt]
+	美	['tɑːrɡɪt]
+3965
+task
+	英	[tɑːsk]
+	美	[tæsk]
+3966
+taste
+	英	[teɪst]
+	美	[teɪst]
+3967
+tax
+	英	[tæks]
+	美	[tæks]
+3968
+taxi
+	英	['tæksi]
+	美	['tæksi]
+3969
+tea
+	英	[tiː]
+	美	[tiː]
+3970
+teach
+	英	[tiːtʃ]
+	美	[tiːtʃ]
+3971
+teacher
+	英	['tiːtʃə(r)]
+	美	['tiːtʃər]
+3972
+teaching
+	英	['tiːtʃɪŋ]
+	美	['tiːtʃɪŋ]
+3973
+team
+	英	[tiːm]
+	美	[tiːm]
+3974
+tear
+	英	[teə(r)]
+	美	[ter]
+3975
+technical
+	英	['teknɪkl]
+	美	['teknɪkl]
+3976
+technician
+	英	[tek'nɪʃn]
+	美	[tek'nɪʃn]
+3977
+technique
+	英	[tek'niːk]
+	美	[tek'niːk]
+3978
+technology
+	英	[tek'nɒlədʒi]
+	美	[tek'nɑːlədʒi]
+3979
+tedious
+	英	['tiːdiəs]
+	美	['tiːdiəs]
+3980
+teenager
+	英	['tiːneɪdʒə(r)]
+	美	['tiːneɪdʒər]
+3981
+telegram
+	英	['telɪɡræm]
+	美	['telɪɡræm]
+3982
+telegraph
+	英	['telɪɡrɑːf]
+	美	['telɪɡræf]
+3983
+telephone
+	英	['telɪfəʊn]
+	美	['telɪfoʊn]
+3984
+telescope
+	英	['telɪskəʊp]
+	美	['telɪskoʊp]
+3985
+television
+	英	['telɪvɪʒn]
+	美	['telɪvɪʒn]
+3986
+tell
+	英	[tel]
+	美	[tel]
+3987
+temper
+	英	['tempə(r)]
+	美	['tempər]
+3988
+temperature
+	英	['temprətʃə(r)]
+	美	['temprətʃər]
+3989
+temple
+	英	['templ]
+	美	['templ]
+3990
+temporary
+	英	['temprəri]
+	美	['tempəreri]
+3991
+tempt
+	英	[tempt]
+	美	[tempt]
+3992
+temptation
+	英	[temp'teɪʃn]
+	美	[temp'teɪʃn]
+3993
+ten
+	英	[ten]
+	美	[ten]
+3994
+tenant
+	英	['tenənt]
+	美	['tenənt]
+3995
+tend
+	英	[tend]
+	美	[tend]
+3996
+tendency
+	英	['tendənsi]
+	美	['tendənsi]
+3997
+tender
+	英	['tendə(r)]
+	美	['tendər]
+3998
+tennis
+	英	['tenɪs]
+	美	['tenɪs]
+3999
+tense
+	英	[tens]
+	美	[tens]
+4000
+tent
+	英	[tent]
+	美	[tent]
+4001
+tenth
+	英	[tenθ]
+	美	[tenθ]
+4002
+term
+	英	[tɜːm]
+	美	[tɜːrm]
+4003
+terminal
+	英	['tɜːmɪnl]
+	美	['tɜːrmɪnl]
+4004
+terrible
+	英	['terəbl]
+	美	['terəbl]
+4005
+terrific
+	英	[tə'rɪfɪk]
+	美	[tə'rɪfɪk]
+4006
+territory
+	英	['terətri]
+	美	['terətɔːri]
+4007
+terror
+	英	['terə(r)]
+	美	['terər]
+4008
+test
+	英	[test]
+	美	[test]
+4009
+text
+	英	[tekst]
+	美	[tekst]
+4010
+textbook
+	英	['tekstbʊk]
+	美	['tekstbʊk]
+4011
+textile
+	英	['tekstaɪl]
+	美	['tekstaɪl]
+4012
+than
+	英	[ðən]
+	美	[ðən]
+4013
+thank
+	英	[θæŋk]
+	美	[θæŋk]
+4014
+that
+	英	[ðæt]
+	美	[ðæt]
+4015
+the
+	英	[ðə]
+	美	[ðə]
+4016
+theatre
+	英	['θɪətə(r)]
+	美	['θiːətər]
+4017
+their
+	英	[ðeə(r)]
+	美	[ðer]
+4018
+theirs
+	英	[ðeəz]
+	美	[ðerz]
+4019
+them
+	英	[ðəm]
+	美	[ðəm]
+4020
+themselves
+	英	[ðəm'selvz]
+	美	[ðəm'selvz]
+4021
+then
+	英	[ðen]
+	美	[ðen]
+4022
+theoretical
+	英	[ˌθɪə'retɪkl]
+	美	[ˌθiːə'retɪkl]
+4023
+theory
+	英	['θɪəri]
+	美	['θɪri]
+4024
+there
+	英	[ðeə(r)]
+	美	[ðer]
+4025
+thereby
+	英	[ˌðeə'baɪ]
+	美	[ˌðer'baɪ]
+4026
+therefore
+	英	['ðeəfɔː(r)]
+	美	['ðerfɔːr]
+4027
+thermometer
+	英	[θə'mɒmɪtə(r)]
+	美	[θər'mɑːmɪtər]
+4028
+these
+	英	[ðiːz]
+	美	[ðiːz]
+4029
+they
+	英	[ðeɪ]
+	美	[ðeɪ]
+4030
+thick
+	英	[θɪk]
+	美	[θɪk]
+4031
+thickness
+	英	['θɪknəs]
+	美	['θɪknəs]
+4032
+thief
+	英	[θiːf]
+	美	[θiːf]
+4033
+thin
+	英	[θɪn]
+	美	[θɪn]
+4034
+thing
+	英	[θɪŋ]
+	美	[θɪŋ]
+4035
+think
+	英	[θɪŋk]
+	美	[θɪŋk]
+4036
+third
+	英	[θɜːd]
+	美	[θɜːrd]
+4037
+thirdly
+	英	['θɜːdli]
+	美	['θɜːrdli]
+4038
+thirst
+	英	[θɜːst]
+	美	[θɜːrst]
+4039
+thirsty
+	英	['θɜːsti]
+	美	['θɜːrsti]
+4040
+thirteen
+	英	[ˌθɜː'tiːn]
+	美	[ˌθɜːr'tiːn]
+4041
+thirty
+	英	['θɜːti]
+	美	['θɜːrti]
+4042
+this
+	英	[ðɪs]
+	美	[ðɪs]
+4043
+thorn
+	英	[θɔːn]
+	美	[θɔːrn]
+4044
+thorough
+	英	['θʌrə]
+	美	['θɜːroʊ]
+4045
+those
+	英	[ðəʊz]
+	美	[ðoʊz]
+4046
+though
+	英	[ðəʊ]
+	美	[ðoʊ]
+4047
+thought
+	英	[θɔːt]
+	美	[θɔːt]
+4048
+thoughtful
+	英	['θɔːtfl]
+	美	['θɔːtfl]
+4049
+thousand
+	英	['θaʊznd]
+	美	['θaʊznd]
+4050
+thread
+	英	[θred]
+	美	[θred]
+4051
+threat
+	英	[θret]
+	美	[θret]
+4052
+threaten
+	英	['θretn]
+	美	['θretn]
+4053
+three
+	英	[θriː]
+	美	[θriː]
+4054
+thrill
+	英	[θrɪl]
+	美	[θrɪl]
+4055
+thrive
+	英	[θraɪv]
+	美	[θraɪv]
+4056
+throat
+	英	[θrəʊt]
+	美	[θroʊt]
+4057
+throne
+	英	[θrəʊn]
+	美	[θroʊn]
+4058
+throng
+	英	[θrɒŋ]
+	美	[θrɔːŋ]
+4059
+through
+	英	[θruː]
+	美	[θruː]
+4060
+throughout
+	英	[θruː'aʊt]
+	美	[θruː'aʊt]
+4061
+throw
+	英	[θrəʊ]
+	美	[θroʊ]
+4062
+thrust
+	英	[θrʌst]
+	美	[θrʌst]
+4063
+thumb
+	英	[θʌm]
+	美	[θʌm]
+4064
+thunder
+	英	['θʌndə(r)]
+	美	['θʌndər]
+4065
+Thursday
+	英	['θɜːzdeɪ]
+	美	['θɜːrzdeɪ]
+4066
+thus
+	英	[ðʌs]
+	美	[ðʌs]
+4067
+tick
+	英	[tɪk]
+	美	[tɪk]
+4068
+ticket
+	英	['tɪkɪt]
+	美	['tɪkɪt]
+4069
+tide
+	英	[taɪd]
+	美	[taɪd]
+4070
+tidy
+	英	['taɪdi]
+	美	['taɪdi]
+4071
+tie
+	英	[taɪ]
+	美	[taɪ]
+4072
+tiger
+	英	['taɪɡə(r)]
+	美	['taɪɡər]
+4073
+tight
+	英	[taɪt]
+	美	[taɪt]
+4074
+till
+	英	[tɪl]
+	美	[tɪl]
+4075
+timber
+	英	['tɪmbə(r)]
+	美	['tɪmbər]
+4076
+time
+	英	[taɪm]
+	美	[taɪm]
+4077
+timetable
+	英	['taɪmteɪbl]
+	美	['taɪmteɪbl]
+4078
+timid
+	英	['tɪmɪd]
+	美	['tɪmɪd]
+4079
+tin
+	英	[tɪn]
+	美	[tɪn]
+4080
+tiny
+	英	['taɪni]
+	美	['taɪni]
+4081
+tip
+	英	[tɪp]
+	美	[tɪp]
+4082
+tire
+	英	['taɪə(r)]
+	美	['taɪər]
+4083
+tired
+	英	['taɪəd]
+	美	['taɪərd]
+4084
+tissue
+	英	['tɪʃuː]
+	美	['tɪʃuː]
+4085
+title
+	英	['taɪtl]
+	美	['taɪtl]
+4086
+to
+	英	[tə]
+	美	[tə]
+4087
+toast
+	英	[təʊst]
+	美	[toʊst]
+4088
+tobacco
+	英	[tə'bækəʊ]
+	美	[tə'bækoʊ]
+4089
+today
+	英	[tə'deɪ]
+	美	[tə'deɪ]
+4090
+toe
+	英	[təʊ]
+	美	[toʊ]
+4091
+together
+	英	[tə'ɡeðə(r)]
+	美	[tə'ɡeðər]
+4092
+toilet
+	英	['tɔɪlət]
+	美	['tɔɪlət]
+4093
+tolerance
+	英	['tɒlərəns]
+	美	['tɑːlərəns]
+4094
+tolerate
+	英	['tɒləreɪt]
+	美	['tɑːləreɪt]
+4095
+tomato
+	英	[tə'mɑːtəʊ]
+	美	[tə'meɪtoʊ]
+4096
+tomb
+	英	[tuːm]
+	美	[tuːm]
+4097
+tomorrow
+	英	[tə'mɒrəʊ]
+	美	[tə'mɔːroʊ]
+4098
+ton
+	英	[tʌn]
+	美	[tʌn]
+4099
+tone
+	英	[təʊn]
+	美	[toʊn]
+4100
+tongue
+	英	[tʌŋ]
+	美	[tʌŋ]
+4101
+tonight
+	英	[tə'naɪt]
+	美	[tə'naɪt]
+4102
+too
+	英	[tuː]
+	美	[tuː]
+4103
+tool
+	英	[tuːl]
+	美	[tuːl]
+4104
+tooth
+	英	[tuːθ]
+	美	[tuːθ]
+4105
+top
+	英	[tɒp]
+	美	[tɑːp]
+4106
+topic
+	英	['tɒpɪk]
+	美	['tɑːpɪk]
+4107
+torch
+	英	[tɔːtʃ]
+	美	[tɔːrtʃ]
+4108
+torrent
+	英	['tɒrənt]
+	美	['tɔːrənt]
+4109
+tortoise
+	英	['tɔːtəs]
+	美	['tɔːrtəs]
+4110
+torture
+	英	['tɔːtʃə(r)]
+	美	['tɔːrtʃər]
+4111
+toss
+	英	[tɒs]
+	美	[tɔːs]
+4112
+total
+	英	['təʊtl]
+	美	['toʊtl]
+4113
+touch
+	英	[tʌtʃ]
+	美	[tʌtʃ]
+4114
+tough
+	英	[tʌf]
+	美	[tʌf]
+4115
+tour
+	英	[tʊə(r)]
+	美	[tʊr]
+4116
+tourist
+	英	['tʊərɪst]
+	美	['tʊrɪst]
+4117
+toward
+	英	[tə'wɔːd]
+	美	[tə'wɔːd]
+4118
+towards
+	英	[tə'wɔːdz]
+	美	[tɔːrdz]
+4119
+towel
+	英	['taʊəl]
+	美	['taʊəl]
+4120
+tower
+	英	['taʊə(r)]
+	美	['taʊər]
+4121
+town
+	英	[taʊn]
+	美	[taʊn]
+4122
+toy
+	英	[tɔɪ]
+	美	[tɔɪ]
+4123
+trace
+	英	[treɪs]
+	美	[treɪs]
+4124
+track
+	英	[træk]
+	美	[træk]
+4125
+tractor
+	英	['træktə(r)]
+	美	['træktər]
+4126
+trade
+	英	[treɪd]
+	美	[treɪd]
+4127
+tradition
+	英	[trə'dɪʃn]
+	美	[trə'dɪʃn]
+4128
+traditional
+	英	[trə'dɪʃənl]
+	美	[trə'dɪʃənl]
+4129
+traffic
+	英	['træfɪk]
+	美	['træfɪk]
+4130
+tragedy
+	英	['trædʒədi]
+	美	['trædʒədi]
+4131
+trail
+	英	[treɪl]
+	美	[treɪl]
+4132
+train
+	英	[treɪn]
+	美	[treɪn]
+4133
+training
+	英	['treɪnɪŋ]
+	美	['treɪnɪŋ]
+4134
+traitor
+	英	['treɪtə(r)]
+	美	['treɪtər]
+4135
+tram
+	英	[træm]
+	美	[træm]
+4136
+tramp
+	英	[træmp]
+	美	[træmp]
+4137
+transfer
+	英	[træns'fɜː(r)]
+	美	[træns'fɜːr]
+4138
+transform
+	英	[træns'fɔːm]
+	美	[træns'fɔːm]
+4139
+transformation
+	英	[ˌtrænsfə'meɪʃn]
+	美	[ˌtrænsfər'meɪʃn]
+4140
+transformer
+	英	[træns'fɔːmə(r)]
+	美	[træns'fɔːrmər]
+4141
+transistor
+	英	[træn'zɪstə(r)]
+	美	[træn'zɪstər]
+4142
+translate
+	英	[træns'leɪt]
+	美	[træns'leɪt]
+4143
+translation
+	英	[træns'leɪʃn]
+	美	[træns'leɪʃn]
+4144
+transmission
+	英	[træns'mɪʃn]
+	美	[træns'mɪʃn]
+4145
+transmit
+	英	[træns'mɪt]
+	美	[træns'mɪt]
+4146
+transparent
+	英	[træns'pærənt]
+	美	[træns'pærənt]
+4147
+transport
+	英	['trænspɔːt]
+	美	['trænspɔːrt]
+4148
+transportation
+	英	[ˌtrænspɔː'teɪʃn]
+	美	[ˌtrænspɔːr'teɪʃn]
+4149
+trap
+	英	[træp]
+	美	[træp]
+4150
+travel
+	英	['trævl]
+	美	['trævl]
+4151
+tray
+	英	[treɪ]
+	美	[treɪ]
+4152
+treason
+	英	['triːzn]
+	美	['triːzn]
+4153
+treasure
+	英	['treʒə(r)]
+	美	['treʒər]
+4154
+treat
+	英	[triːt]
+	美	[triːt]
+4155
+treatment
+	英	['triːtmənt]
+	美	['triːtmənt]
+4156
+treaty
+	英	['triːti]
+	美	['triːti]
+4157
+tree
+	英	[triː]
+	美	[triː]
+4158
+tremble
+	英	['trembl]
+	美	['trembl]
+4159
+tremendous
+	英	[trə'mendəs]
+	美	[trə'mendəs]
+4160
+trend
+	英	[trend]
+	美	[trend]
+4161
+trial
+	英	['traɪəl]
+	美	['traɪəl]
+4162
+triangle
+	英	['traɪæŋɡl]
+	美	['traɪæŋɡl]
+4163
+tribe
+	英	[traɪb]
+	美	[traɪb]
+4164
+trick
+	英	[trɪk]
+	美	[trɪk]
+4165
+trifle
+	英	['traɪfl]
+	美	['traɪfl]
+4166
+trim
+	英	[trɪm]
+	美	[trɪm]
+4167
+trip
+	英	[trɪp]
+	美	[trɪp]
+4168
+triumph
+	英	['traɪʌmf]
+	美	['traɪʌmf]
+4169
+troop
+	英	[truːp]
+	美	[truːp]
+4170
+tropical
+	英	['trɒpɪkl]
+	美	['trɑːpɪkl]
+4171
+trouble
+	英	['trʌbl]
+	美	['trʌbəl]
+4172
+troublesome
+	英	['trʌblsəm]
+	美	['trʌblsəm]
+4173
+trousers
+	英	['traʊzəz]
+	美	['traʊzərz]
+4174
+truck
+	英	[trʌk]
+	美	[trʌk]
+4175
+truly
+	英	['truːli]
+	美	['truːli]
+4176
+trumpet
+	英	['trʌmpɪt]
+	美	['trʌmpɪt]
+4177
+trunk
+	英	[trʌŋk]
+	美	[trʌŋk]
+4178
+trust
+	英	[trʌst]
+	美	[trʌst]
+4179
+truth
+	英	[truːθ]
+	美	[truːθ]
+4180
+try
+	英	[traɪ]
+	美	[traɪ]
+4181
+tub
+	英	[tʌb]
+	美	[tʌb]
+4182
+tube
+	英	[tjuːb]
+	美	[tuːb]
+4183
+tuck
+	英	[tʌk]
+	美	[tʌk]
+4184
+Tuesday
+	英	['tjuːzdeɪ]
+	美	['tuːzdeɪ]
+4185
+tuition
+	英	[tju'ɪʃn]
+	美	[tu'ɪʃn]
+4186
+tumble
+	英	['tʌmbl]
+	美	['tʌmbl]
+4187
+tune
+	英	[tjuːn]
+	美	[tuːn]
+4188
+tunnel
+	英	['tʌnl]
+	美	['tʌnl]
+4189
+turbine
+	英	['tɜːbaɪn]
+	美	['tɜːrbaɪn]
+4190
+turbulent
+	英	['tɜːbjələnt]
+	美	['tɜːrbjələnt]
+4191
+turkey
+	英	['tɜːki]
+	美	['tɜːrki]
+4192
+turn
+	英	[tɜːn]
+	美	[tɜːrn]
+4193
+turning
+	英	['tɜːnɪŋ]
+	美	['tɜːrnɪŋ]
+4194
+turnip
+	英	['tɜːnɪp]
+	美	['tɜːrnɪp]
+4195
+tutor
+	英	['tjuːtə(r)]
+	美	['tuːtər]
+4196
+twelfth
+	英	[twelfθ]
+	美	[twelfθ]
+4197
+twelve
+	英	[twelv]
+	美	[twelv]
+4198
+twentieth
+	英	['twentiəθ]
+	美	['twentiəθ]
+4199
+twenty
+	英	['twenti]
+	美	['twenti]
+4200
+twice
+	英	[twaɪs]
+	美	[twaɪs]
+4201
+twin
+	英	[twɪn]
+	美	[twɪn]
+4202
+twinkle
+	英	['twɪŋkl]
+	美	['twɪŋkl]
+4203
+twist
+	英	[twɪst]
+	美	[twɪst]
+4204
+two
+	英	[tuː]
+	美	[tuː]
+4205
+type
+	英	[taɪp]
+	美	[taɪp]
+4206
+typewriter
+	英	['taɪpraɪtə(r)]
+	美	['taɪpraɪtər]
+4207
+typhoon
+	英	[taɪ'fuːn]
+	美	[taɪ'fuːn]
+4208
+typical
+	英	['tɪpɪkl]
+	美	['tɪpɪkl]
+4209
+typist
+	英	['taɪpɪst]
+	美	['taɪpɪst]
+4210
+tyre
+	英	['taɪə(r)]
+	美	['taɪər]
+4211
+ugly
+	英	['ʌɡli]
+	美	['ʌɡli]
+4212
+ultimate
+	英	['ʌltɪmət]
+	美	['ʌltɪmət]
+4213
+ultimately
+	英	['ʌltɪmətli]
+	美	['ʌltɪmətli]
+4214
+umbrella
+	英	[ʌm'brelə]
+	美	[ʌm'brelə]
+4215
+unable
+	英	[ʌn'eɪbl]
+	美	[ʌn'eɪbl]
+4216
+unbearable
+	英	[ʌn'beərəbl]
+	美	[ʌn'berəbl]
+4217
+uncertain
+	英	[ʌn'sɜːtn]
+	美	[ʌn'sɜːrtn]
+4218
+uncle
+	英	['ʌŋkl]
+	美	['ʌŋkl]
+4219
+uncomfortable
+	英	[ʌn'kʌmftəbl]
+	美	[ʌn'kʌmftəbl]
+4220
+unconscious
+	英	[ʌn'kɒnʃəs]
+	美	[ʌn'kɑːnʃəs]
+4221
+uncover
+	英	[ʌn'kʌvə(r)]
+	美	[ʌn'kʌvər]
+4222
+under
+	英	['ʌndə(r)]
+	美	['ʌndər]
+4223
+undergo
+	英	[ˌʌndə'ɡəʊ]
+	美	[ˌʌndər'ɡoʊ]
+4224
+undergraduate
+	英	[ˌʌndə'ɡrædʒuət]
+	美	[ˌʌndər'ɡrædʒuət]
+4225
+underground
+	英	[ˌʌndə'ɡraʊnd]
+	美	[ˌʌndə'ɡraʊnd]
+4226
+underline
+	英	[ˌʌndə'laɪn]
+	美	[ˌʌndər'laɪn]
+4227
+underneath
+	英	[ˌʌndə'niːθ]
+	美	[ˌʌndər'niːθ]
+4228
+understand
+	英	[ˌʌndə'stænd]
+	美	[ˌʌndər'stænd]
+4229
+understanding
+	英	[ˌʌndə'stændɪŋ]
+	美	[ˌʌndər'stændɪŋ]
+4230
+undertake
+	英	[ˌʌndə'teɪk]
+	美	[ˌʌndər'teɪk]
+4231
+undertaking
+	英	[ˌʌndə'teɪkɪŋ]
+	美	[ˌʌndər'teɪkɪŋ]
+4232
+undo
+	英	[ʌn'duː]
+	美	[ʌn'duː]
+4233
+undoubtedly
+	英	[ʌn'daʊtɪdli]
+	美	[ʌn'daʊtɪdli]
+4234
+uneasy
+	英	[ʌn'iːzi]
+	美	[ʌn'iːzi]
+4235
+unexpected
+	英	[ˌʌnɪk'spektɪd]
+	美	[ˌʌnɪk'spektɪd]
+4236
+unfair
+	英	[ˌʌn'feə(r)]
+	美	[ˌʌn'fer]
+4237
+unfortunate
+	英	[ʌn'fɔːtʃənət]
+	美	[ʌn'fɔːrtʃənət]
+4238
+unfortunately
+	英	[ʌn'fɔːtʃənətli]
+	美	[ʌn'fɔːrtʃənətli]
+4239
+unhappy
+	英	[ʌn'hæpi]
+	美	[ʌn'hæpi]
+4240
+uniform
+	英	['juːnɪfɔːm]
+	美	['juːnɪfɔːrm]
+4241
+union
+	英	['juːniən]
+	美	['juːniən]
+4242
+unique
+	英	[ju'niːk]
+	美	[ju'niːk]
+4243
+unit
+	英	['juːnɪt]
+	美	['juːnɪt]
+4244
+unite
+	英	[ju'naɪt]
+	美	[ju'naɪt]
+4245
+unity
+	英	['juːnəti]
+	美	['juːnəti]
+4246
+universal
+	英	[ˌjuːnɪ'vɜːsl]
+	美	[ˌjuːnɪ'vɜːrsl]
+4247
+universe
+	英	['juːnɪvɜːs]
+	美	['juːnɪvɜːrs]
+4248
+university
+	英	[ˌjuːnɪ'vɜːsəti]
+	美	[ˌjuːnɪ'vɜːrsəti]
+4249
+unjust
+	英	[ˌʌn'dʒʌst]
+	美	[ˌʌn'dʒʌst]
+4250
+unkind
+	英	[ˌʌn'kaɪnd]
+	美	[ˌʌn'kaɪnd]
+4251
+unknown
+	英	[ˌʌn'nəʊn]
+	美	[ˌʌn'noʊn]
+4252
+unless
+	英	[ən'les]
+	美	[ən'les]
+4253
+unlike
+	英	[ˌʌn'laɪk]
+	美	[ˌʌn'laɪk]
+4254
+unlikely
+	英	[ʌn'laɪkli]
+	美	[ʌn'laɪkli]
+4255
+unload
+	英	[ˌʌn'ləʊd]
+	美	[ˌʌn'loʊd]
+4256
+unlucky
+	英	[ʌn'lʌki]
+	美	[ʌn'lʌki]
+4257
+unnecessary
+	英	[ʌn'nesəsəri]
+	美	[ʌn'nesəseri]
+4258
+unpleasant
+	英	[ʌn'pleznt]
+	美	[ʌn'pleznt]
+4259
+unsatisfactory
+	英	[ˌʌnˌsætɪs'fæktəri]
+	美	[ˌʌnˌsætɪs'fæktəri]
+4260
+unstable
+	英	[ʌn'steɪbl]
+	美	[ʌn'steɪbl]
+4261
+unsuitable
+	英	[ʌn'suːtəbl]
+	美	[ʌn'suːtəbl]
+4262
+until
+	英	[ən'tɪl]
+	美	[ən'tɪl]
+4263
+unusual
+	英	[ʌn'juːʒuəl]
+	美	[ʌn'juːʒuəl]
+4264
+unusually
+	英	[ʌn'juːʒuəli]
+	美	[ʌn'juːʒuəli]
+4265
+unwilling
+	英	[ʌn'wɪlɪŋ]
+	美	[ʌn'wɪlɪŋ]
+4266
+up
+	英	[ʌp]
+	美	[ʌp]
+4267
+up-to-date
+	英	['ʌptə'deɪt]
+	美	['ʌptə'deɪt]
+4268
+upon
+	英	[ə'pɒn]
+	美	[ə'pɑːn]
+4269
+upper
+	英	['ʌpə(r)]
+	美	['ʌpər]
+4270
+upright
+	英	['ʌpraɪt]
+	美	['ʌpraɪt]
+4271
+upset
+	英	[ʌp'set]
+	美	[ʌp'set]
+4272
+upside-down
+	英	['ʌpsaɪd'daʊn]
+	美	['ʌpˌsaɪd'daʊn]
+4273
+upstairs
+	英	[ˌʌp'steəz]
+	美	[ˌʌp'sterz]
+4274
+upward
+	英	['ʌpwəd]
+	美	['ʌpwərd]
+4275
+upwards
+	英	['ʌpwədz]
+	美	['ʌpwərdz]
+4276
+urge
+	英	[ɜːdʒ]
+	美	[ɜːrdʒ]
+4277
+urgent
+	英	['ɜːdʒənt]
+	美	['ɜːrdʒənt]
+4278
+us
+	英	[əs]
+	美	[əs]
+4279
+usage
+	英	['juːsɪdʒ]
+	美	['juːsɪdʒ]
+4280
+use
+	英	[juːs]
+	美	[juːs]
+4281
+used
+	英	[juːst]
+	美	[juːst]
+4282
+useful
+	英	['juːsfl]
+	美	['juːsfl]
+4283
+useless
+	英	['juːsləs]
+	美	['juːsləs]
+4284
+user
+	英	['juːzə(r)]
+	美	['juːzər]
+4285
+usual
+	英	['juːʒuəl]
+	美	['juːʒuəl]
+4286
+usually
+	英	['juːʒuəli]
+	美	['juːʒuəli]
+4287
+utility
+	英	[juː'tɪləti]
+	美	[juː'tɪləti]
+4288
+utilize
+	英	['juːtəlaɪz]
+	美	['juːtəlaɪz]
+4289
+utmost
+	英	['ʌtməʊst]
+	美	['ʌtmoʊst]
+4290
+utter
+	英	['ʌtə(r)]
+	美	['ʌtər]
+4291
+vacant
+	英	['veɪkənt]
+	美	['veɪkənt]
+4292
+vacation
+	英	[və'keɪʃn]
+	美	[və'keɪʃn]
+4293
+vacuum
+	英	['vækjuəm]
+	美	['vækjuəm]
+4294
+vague
+	英	[veɪɡ]
+	美	[veɪɡ]
+4295
+vain
+	英	[veɪn]
+	美	[veɪn]
+4296
+valid
+	英	['vælɪd]
+	美	['vælɪd]
+4297
+valley
+	英	['væli]
+	美	['væli]
+4298
+valuable
+	英	['væljuəbl]
+	美	['væljuəbl]
+4299
+value
+	英	['væljuː]
+	美	['væljuː]
+4300
+van
+	英	[væn]
+	美	[væn]
+4301
+vanish
+	英	['vænɪʃ]
+	美	['vænɪʃ]
+4302
+vanity
+	英	['vænəti]
+	美	['vænəti]
+4303
+vapour
+	英	['veɪpə(r)]
+	美	['veɪpər]
+4304
+variable
+	英	['veəriəbl]
+	美	['veriəbl]
+4305
+variation
+	英	[ˌveəri'eɪʃn]
+	美	[ˌveri'eɪʃn]
+4306
+variety
+	英	[və'raɪəti]
+	美	[və'raɪəti]
+4307
+various
+	英	['veəriəs]
+	美	['veriəs]
+4308
+vary
+	英	['veəri]
+	美	['veri]
+4309
+vase
+	英	[vɑːz]
+	美	[veɪs]
+4310
+vast
+	英	[vɑːst]
+	美	[væst]
+4311
+vegetable
+	英	['vedʒtəbl]
+	美	['vedʒtəbl]
+4312
+vehicle
+	英	['viːɪkl]
+	美	['viːɪkl]
+4313
+veil
+	英	[veɪl]
+	美	[veɪl]
+4314
+velocity
+	英	[və'lɒsəti]
+	美	[və'lɑːsəti]
+4315
+velvet
+	英	['velvɪt]
+	美	['velvɪt]
+4316
+venture
+	英	['ventʃə(r)]
+	美	['ventʃər]
+4317
+verb
+	英	[vɜːb]
+	美	[vɜːb]
+4318
+verify
+	英	['verɪfaɪ]
+	美	['verɪfaɪ]
+4319
+version
+	英	['vɜːʃn]
+	美	['vɜːrʒn]
+4320
+vertical
+	英	['vɜːtɪkl]
+	美	['vɜːrtɪkl]
+4321
+very
+	英	['veri]
+	美	['veri]
+4322
+vessel
+	英	['vesl]
+	美	['vesl]
+4323
+vest
+	英	[vest]
+	美	[vest]
+4324
+veteran
+	英	['vetərən]
+	美	['vetərən]
+4325
+vex
+	英	[veks]
+	美	[veks]
+4326
+via
+	英	['vaɪə]
+	美	['vaɪə]
+4327
+vibrate
+	英	[vaɪ'breɪt]
+	美	['vaɪbreɪt]
+4328
+vibration
+	英	[vaɪ'breɪʃn]
+	美	[vaɪ'breɪʃn]
+4329
+vice
+	英	[vaɪs]
+	美	[vaɪs]
+4330
+victim
+	英	['vɪktɪm]
+	美	['vɪktɪm]
+4331
+victorious
+	英	[vɪk'tɔːriəs]
+	美	[vɪk'tɔːriəs]
+4332
+victory
+	英	['vɪktəri]
+	美	['vɪktəri]
+4333
+video
+	英	['vɪdiəʊ]
+	美	['vɪdioʊ]
+4334
+view
+	英	[vjuː]
+	美	[vjuː]
+4335
+viewpoint
+	英	['vjuːpɔɪnt]
+	美	['vjuːpɔɪnt]
+4336
+vigorous
+	英	['vɪɡərəs]
+	美	['vɪɡərəs]
+4337
+village
+	英	['vɪlɪdʒ]
+	美	['vɪlɪdʒ]
+4338
+vine
+	英	[vaɪn]
+	美	[vaɪn]
+4339
+vinegar
+	英	['vɪnɪɡə(r)]
+	美	['vɪnɪɡər]
+4340
+violence
+	英	['vaɪələns]
+	美	['vaɪələns]
+4341
+violent
+	英	['vaɪələnt]
+	美	['vaɪələnt]
+4342
+violet
+	英	['vaɪələt]
+	美	['vaɪələt]
+4343
+violin
+	英	[ˌvaɪə'lɪn]
+	美	[ˌvaɪə'lɪn]
+4344
+virtually
+	英	['vɜːtʃuəli]
+	美	['vɜːrtʃuəli]
+4345
+virtue
+	英	['vɜːtʃuː]
+	美	['vɜːrtʃuː]
+4346
+visible
+	英	['vɪzəbl]
+	美	['vɪzəbl]
+4347
+vision
+	英	['vɪʒn]
+	美	['vɪʒn]
+4348
+visit
+	英	['vɪzɪt]
+	美	['vɪzɪt]
+4349
+visitor
+	英	['vɪzɪtə(r)]
+	美	['vɪzɪtər]
+4350
+visual
+	英	['vɪʒuəl]
+	美	['vɪʒuəl]
+4351
+vital
+	英	['vaɪtl]
+	美	['vaɪtl]
+4352
+vitamin
+	英	['vɪtəmɪn]
+	美	['vaɪtəmɪn]
+4353
+vivid
+	英	['vɪvɪd]
+	美	['vɪvɪd]
+4354
+vocabulary
+	英	[və'kæbjələri]
+	美	[və'kæbjəleri]
+4355
+voice
+	英	[vɔɪs]
+	美	[vɔɪs]
+4356
+volcano
+	英	[vɒl'keɪnəʊ]
+	美	[vɑːl'keɪnoʊ]
+4357
+volleyball
+	英	['vɒlibɔːl]
+	美	['vɑːlibɔːl]
+4358
+volt
+	英	[vəʊlt]
+	美	[voʊlt]
+4359
+voltage
+	英	['vəʊltɪdʒ]
+	美	['voʊltɪdʒ]
+4360
+volume
+	英	['vɒljuːm]
+	美	['vɑːljuːm]
+4361
+voluntary
+	英	['vɒləntri]
+	美	['vɑːlənteri]
+4362
+vote
+	英	[vəʊt]
+	美	[voʊt]
+4363
+voyage
+	英	['vɔɪɪdʒ]
+	美	['vɔɪɪdʒ]
+4364
+wage
+	英	[weɪdʒ]
+	美	[weɪdʒ]
+4365
+waggon
+	英	['wægən]
+	美	['wægən]
+4366
+waist
+	英	[weɪst]
+	美	[weɪst]
+4367
+wait
+	英	[weɪt]
+	美	[weɪt]
+4368
+waiter
+	英	['weɪtə(r)]
+	美	['weɪtər]
+4369
+wake
+	英	[weɪk]
+	美	[weɪk]
+4370
+waken
+	英	['weɪkən]
+	美	['weɪkən]
+4371
+walk
+	英	[wɔːk]
+	美	[wɔːk]
+4372
+wall
+	英	[wɔːl]
+	美	[wɔːl]
+4373
+wallet
+	英	['wɒlɪt]
+	美	['wɑːlɪt]
+4374
+wander
+	英	['wɒndə(r)]
+	美	['wɑːndər]
+4375
+want
+	英	[wɒnt]
+	美	[wɑːnt]
+4376
+war
+	英	[wɔː(r)]
+	美	[wɔːr]
+4377
+warm
+	英	[wɔːm]
+	美	[wɔːrm]
+4378
+warmth
+	英	[wɔːmθ]
+	美	[wɔːrmθ]
+4379
+warn
+	英	[wɔːn]
+	美	[wɔːrn]
+4380
+wash
+	英	[wɒʃ]
+	美	[wɑːʃ]
+4381
+waste
+	英	[weɪst]
+	美	[weɪst]
+4382
+watch
+	英	[wɒtʃ]
+	美	[wɑːtʃ]
+4383
+water
+	英	['wɔːtə(r)]
+	美	['wɔːtər]
+4384
+waterfall
+	英	['wɔːtəfɔːl]
+	美	['wɔːtərfɔːl]
+4385
+waterproof
+	英	['wɔːtəpruːf]
+	美	['wɔːtərpruːf]
+4386
+wave
+	英	[weɪv]
+	美	[weɪv]
+4387
+wavelength
+	英	['weɪvleŋθ]
+	美	['weɪvleŋθ]
+4388
+wax
+	英	[wæks]
+	美	[wæks]
+4389
+way
+	英	[weɪ]
+	美	[weɪ]
+4390
+we
+	英	[wi]
+	美	[wi]
+4391
+weak
+	英	[wiːk]
+	美	[wiːk]
+4392
+weaken
+	英	['wiːkən]
+	美	['wiːkən]
+4393
+weakness
+	英	['wiːknəs]
+	美	['wiːknəs]
+4394
+wealth
+	英	[welθ]
+	美	[welθ]
+4395
+wealthy
+	英	['welθi]
+	美	['welθi]
+4396
+weapon
+	英	['wepən]
+	美	['wepən]
+4397
+wear
+	英	[weə(r)]
+	美	[wer]
+4398
+weary
+	英	['wɪəri]
+	美	['wɪri]
+4399
+weather
+	英	['weðə(r)]
+	美	['weðər]
+4400
+weave
+	英	[wiːv]
+	美	[wiːv]
+4401
+wedding
+	英	['wedɪŋ]
+	美	['wedɪŋ]
+4402
+Wednesday
+	英	['wenzdeɪ]
+	美	['wenzdeɪ]
+4403
+weed
+	英	[wiːd]
+	美	[wiːd]
+4404
+week
+	英	[wiːk]
+	美	[wiːk]
+4405
+weekday
+	英	['wiːkdeɪ]
+	美	['wiːkdeɪ]
+4406
+weekend
+	英	[ˌwiːk'end]
+	美	['wiːkend]
+4407
+weekly
+	英	['wiːkli]
+	美	['wiːkli]
+4408
+weep
+	英	[wiːp]
+	美	[wiːp]
+4409
+weigh
+	英	[weɪ]
+	美	[weɪ]
+4410
+weight
+	英	[weɪt]
+	美	[weɪt]
+4411
+welcome
+	英	['welkəm]
+	美	['welkəm]
+4412
+weld
+	英	[weld]
+	美	[weld]
+4413
+welfare
+	英	['welfeə(r)]
+	美	['welfer]
+4414
+well
+	英	[wel]
+	美	[wel]
+4415
+well-known
+	英	['wel'nəʊn]
+	美	['wel'noʊn]
+4416
+west
+	英	[west]
+	美	[west]
+4417
+western
+	英	['westən]
+	美	['westərn]
+4418
+westward
+	英	['westwəd]
+	美	['westwəd]
+4419
+wet
+	英	[wet]
+	美	[wet]
+4420
+what
+	英	[wɒt]
+	美	[wɑːt]
+4421
+whatever
+	英	[wɒt'evə(r)]
+	美	[wət'evər]
+4422
+wheat
+	英	[wiːt]
+	美	[wiːt]
+4423
+wheel
+	英	[wiːl]
+	美	[wiːl]
+4424
+when
+	英	[wen]
+	美	[wen]
+4425
+whenever
+	英	[wen'evə(r)]
+	美	[wen'evər]
+4426
+where
+	英	[weə(r)]
+	美	[wer]
+4427
+wherever
+	英	[weər'evə(r)]
+	美	[wer'evər]
+4428
+whether
+	英	['weðə(r)]
+	美	['weðər]
+4429
+which
+	英	[wɪtʃ]
+	美	[wɪtʃ]
+4430
+whichever
+	英	[wɪtʃ'evə(r)]
+	美	[wɪtʃ'evər]
+4431
+while
+	英	[waɪl]
+	美	[waɪl]
+4432
+whilst
+	英	[waɪlst]
+	美	[waɪlst]
+4433
+whip
+	英	[wɪp]
+	美	[wɪp]
+4434
+whirl
+	英	[wɜːl]
+	美	[wɜːrl]
+4435
+whisky
+	英	['wɪski]
+	美	['wɪski]
+4436
+whisper
+	英	['wɪspə(r)]
+	美	['wɪspər]
+4437
+whistle
+	英	['wɪsl]
+	美	['wɪsl]
+4438
+white
+	英	[waɪt]
+	美	[waɪt]
+4439
+whitewash
+	英	['waɪtwɒʃ]
+	美	['waɪtwɑːʃ]
+4440
+who
+	英	[huː]
+	美	[huː]
+4441
+whoever
+	英	[huː'evə(r)]
+	美	[huː'evər]
+4442
+whole
+	英	[həʊl]
+	美	[hoʊl]
+4443
+wholly
+	英	['həʊlli]
+	美	['hoʊlli]
+4444
+whom
+	英	[huːm]
+	美	[huːm]
+4445
+whose
+	英	[huːz]
+	美	[huːz]
+4446
+why
+	英	[waɪ]
+	美	[waɪ]
+4447
+wicked
+	英	['wɪkɪd]
+	美	['wɪkɪd]
+4448
+wide
+	英	[waɪd]
+	美	[waɪd]
+4449
+widely
+	英	['waɪdli]
+	美	['waɪdli]
+4450
+widen
+	英	['waɪdn]
+	美	['waɪdn]
+4451
+widespread
+	英	['waɪdspred]
+	美	['waɪdspred]
+4452
+widow
+	英	['wɪdəʊ]
+	美	['wɪdoʊ]
+4453
+width
+	英	[wɪdθ]
+	美	[wɪdθ]
+4454
+wife
+	英	[waɪf]
+	美	[waɪf]
+4455
+wild
+	英	[waɪld]
+	美	[waɪld]
+4456
+will
+	英	[wɪl]
+	美	[wɪl]
+4457
+willing
+	英	['wɪlɪŋ]
+	美	['wɪlɪŋ]
+4458
+win
+	英	[wɪn]
+	美	[wɪn]
+4459
+wind
+	英	[wɪnd]
+	美	[wɪnd]
+4460
+window
+	英	['wɪndəʊ]
+	美	['wɪndoʊ]
+4461
+wine
+	英	[waɪn]
+	美	[waɪn]
+4462
+wing
+	英	[wɪŋ]
+	美	[wɪŋ]
+4463
+winner
+	英	['wɪnə(r)]
+	美	['wɪnər]
+4464
+winter
+	英	['wɪntə(r)]
+	美	['wɪntər]
+4465
+wipe
+	英	[waɪp]
+	美	[waɪp]
+4466
+wire
+	英	['waɪə(r)]
+	美	['waɪər]
+4467
+wireless
+	英	['waɪələs]
+	美	['waɪərləs]
+4468
+wisdom
+	英	['wɪzdəm]
+	美	['wɪzdəm]
+4469
+wise
+	英	[waɪz]
+	美	[waɪz]
+4470
+wish
+	英	[wɪʃ]
+	美	[wɪʃ]
+4471
+wit
+	英	[wɪt]
+	美	[wɪt]
+4472
+with
+	英	[wɪð]
+	美	[wɪð]
+4473
+withdraw
+	英	[wɪð'drɔː]
+	美	[wɪð'drɔː]
+4474
+within
+	英	[wɪ'ðɪn]
+	美	[wɪ'ðɪn]
+4475
+without
+	英	[wɪ'ðaʊt]
+	美	[wɪ'ðaʊt]
+4476
+withstand
+	英	[wɪð'stænd]
+	美	[wɪð'stænd]
+4477
+witness
+	英	['wɪtnəs]
+	美	['wɪtnəs]
+4478
+wolf
+	英	[wʊlf]
+	美	[wʊlf]
+4479
+woman
+	英	['wʊmən]
+	美	['wʊmən]
+4480
+wonder
+	英	['wʌndə(r)]
+	美	['wʌndər]
+4481
+wonderful
+	英	['wʌndəfl]
+	美	['wʌndərfl]
+4482
+wood
+	英	[wʊd]
+	美	[wʊd]
+4483
+wooden
+	英	['wʊdn]
+	美	['wʊdn]
+4484
+wool
+	英	[wʊl]
+	美	[wʊl]
+4485
+woollen
+	英	['wʊlən]
+	美	['wʊlən]
+4486
+word
+	英	[wɜːd]
+	美	[wɜːrd]
+4487
+work
+	英	[wɜːk]
+	美	[wɜːrk]
+4488
+worker
+	英	['wɜːkə(r)]
+	美	['wɜːrkər]
+4489
+workman
+	英	['wɜːkmən]
+	美	['wɜːrkmən]
+4490
+workshop
+	英	['wɜːkʃɒp]
+	美	['wɜːrkʃɑːp]
+4491
+world
+	英	[wɜːld]
+	美	[wɜːrld]
+4492
+world-wide
+	英	['wɜːldw'aɪd]
+	美	['wɜːldw'aɪd]
+4493
+worm
+	英	[wɜːm]
+	美	[wɜːrm]
+4494
+worry
+	英	['wʌri]
+	美	['wɜːri]
+4495
+worse
+	英	[wɜːs]
+	美	[wɜːrs]
+4496
+worship
+	英	['wɜːʃɪp]
+	美	['wɜːrʃɪp]
+4497
+worst
+	英	[wɜːst]
+	美	[wɜːrst]
+4498
+worth
+	英	[wɜːθ]
+	美	[wɜːrθ]
+4499
+worthless
+	英	['wɜːθləs]
+	美	['wɜːrθləs]
+4500
+worthwhile
+	英	[ˌwɜːθ'waɪl]
+	美	[ˌwɜːrθ'waɪl]
+4501
+worthy
+	英	['wɜːði]
+	美	['wɜːrði]
+4502
+would
+	英	[wʊd]
+	美	[wʊd]
+4503
+wound
+	英	[wuːnd]
+	美	[wuːnd]
+4504
+wrap
+	英	[ræp]
+	美	[ræp]
+4505
+wreath
+	英	[riːθ]
+	美	[riːθ]
+4506
+wreck
+	英	[rek]
+	美	[rek]
+4507
+wrist
+	英	[rɪst]
+	美	[rɪst]
+4508
+write
+	英	[raɪt]
+	美	[raɪt]
+4509
+writer
+	英	['raɪtə(r)]
+	美	['raɪtər]
+4510
+writing
+	英	['raɪtɪŋ]
+	美	['raɪtɪŋ]
+4511
+wrong
+	英	[rɒŋ]
+	美	[rɔːŋ]
+4512
+X-ray
+	英	['eksreɪ]
+	美	['eksreɪ]
+4513
+yard
+	英	[jɑːd]
+	美	[jɑːrd]
+4514
+yawn
+	英	[jɔːn]
+	美	[jɔːn]
+4515
+year
+	英	[jɪə(r)]
+	美	[jɪr]
+4516
+yearly
+	英	['jɪəli]
+	美	['jɪrli]
+4517
+yell
+	英	[jel]
+	美	[jel]
+4518
+yellow
+	英	['jeləʊ]
+	美	['jeloʊ]
+4519
+yes
+	英	[jes]
+	美	[jes]
+4520
+yesterday
+	英	['jestədeɪ]
+	美	['jestərdeɪ]
+4521
+yet
+	英	[jet]
+	美	[jet]
+4522
+yield
+	英	[jiːld]
+	美	[jiːld]
+4523
+you
+	英	[ju]
+	美	[jə]
+4524
+young
+	英	[jʌŋ]
+	美	[jʌŋ]
+4525
+your
+	英	[jɔː(r)]
+	美	[jʊr]
+4526
+yours
+	英	[jɔːz]
+	美	[jərz]
+4527
+yourself
+	英	[jɔː'self]
+	美	[jɔːr'self]
+4528
+youth
+	英	[juːθ]
+	美	[juːθ]
+4529
+youthful
+	英	['juːθfl]
+	美	['juːθfl]
+4530
+zeal
+	英	[ziːl]
+	美	[ziːl]
+4531
+zealous
+	英	['zeləs]
+	美	['zeləs]
+4532
+zebra
+	英	['zebrə]
+	美	['zebrə]
+4533
+zero
+	英	['zɪərəʊ]
+	美	['zɪroʊ]
+4534
+zone
+	英	[zəʊn]
+	美	[zoʊn]
+4535
+zoo
+	英	[zuː]
+	美	[zuː]
+4536
+
+Process finished with exit code 0

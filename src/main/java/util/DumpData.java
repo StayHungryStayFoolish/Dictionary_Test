@@ -4,8 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.net.ConnectException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.Random;
 
 /**
  * Created by mingfei.net@gmail.com
@@ -17,13 +19,16 @@ public class DumpData {
 
 
     public static void readFile() {
+        Random random = new Random();
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader("data/CET_4.txt"))) {
             String word;
             while ((word = bufferedReader.readLine()) != null) {
+                int randomInterval = random.nextInt(10);
+                Thread.sleep(randomInterval);
                 extract(word);
                 System.out.println(++counter);
             }
-        } catch (IOException e) {
+        } catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
     }
@@ -50,6 +55,8 @@ public class DumpData {
                         System.out.println("\t美\t" + phoneticUs);
                     }
                 }
+            } catch (ConnectException e) {
+                extract(word); // recursive call
             } catch (IOException e) {
                 e.printStackTrace();
             }
